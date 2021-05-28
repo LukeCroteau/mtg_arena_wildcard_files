@@ -1,0 +1,29 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Adversary of Tyrants (M19) 3
+4 Ajani, Wise Counselor (M19) 281
+4 Apex of Power (M19) 129
+4 Arcades, the Strategist (M19) 212
+4 Bone Dragon (M19) 88
+4 Chromium, the Mutable (M19) 214
+4 Crucible of Worlds (M19) 229
+4 Liliana, Untouched by Death (M19) 106
+4 Liliana, the Necromancer (M19) 291
+4 Nexus of Fate (M19) 306
+4 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen (M19) 218
+4 Omniscience (M19) 65
+4 Palladia-Mors, the Ruiner (M19) 219
+4 Resplendent Angel (M19) 34
+4 Sarkhan, Dragonsoul (M19) 296
+4 Sarkhan, Fireblood (M19) 154
+4 Scapeshift (M19) 201
+4 Tezzeret, Artifice Master (M19) 79
+4 Tezzeret, Cruel Machinist (M19) 286
+4 Vaevictis Asmadi, the Dire (M19) 225
+4 Vivien Reid (M19) 208
+4 Vivien of the Arkbow (M19) 301
+
+### The Last Deck has 88 cards in it.

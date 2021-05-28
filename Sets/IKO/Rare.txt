@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Bonders' Enclave (IKO) 245
+4 Colossification (IKO) 148
+4 Crystalline Giant (IKO) 234
+4 Cubwarden (IKO) 7
+4 Death's Oasis (IKO) 182
+4 Dirge Bat (IKO) 84
+4 Drannith Magistrate (IKO) 11
+4 Eerie Ultimatum (IKO) 184
+4 Emergent Ultimatum (IKO) 185
+4 Everquill Phoenix (IKO) 114
+4 Extinction Event (IKO) 88
+4 Frondland Felidar (IKO) 186
+4 Gemrazer (IKO) 155
+4 Genesis Ultimatum (IKO) 189
+4 Gyruda, Doom of Depths (IKO) 221
+4 Hunted Nightmare (IKO) 92
+4 Indatha Triome (IKO) 248
+4 Inspired Ultimatum (IKO) 191
+4 Jegantha, the Wellspring (IKO) 222
+4 Kaheera, the Orphanguard (IKO) 224
+4 Keruga, the Macrosage (IKO) 225
+4 Ketria Triome (IKO) 250
+4 Kogla, the Titan Ape (IKO) 162
+4 Labyrinth Raptor (IKO) 193
+4 Lavabrink Venturer (IKO) 19
+4 Lurrus of the Dream-Den (IKO) 226
+4 Lutri, the Spellchaser (IKO) 227
+4 Mythos of Brokkos (IKO) 168
+4 Mythos of Illuna (IKO) 58
+4 Mythos of Nethroi (IKO) 97
+4 Mythos of Snapdax (IKO) 24
+4 Mythos of Vadrok (IKO) 127
+4 Obosh, the Preypiercer (IKO) 228
+4 Offspring's Revenge (IKO) 198
+4 Quartzwood Crasher (IKO) 201
+4 Raugrin Triome (IKO) 251
+4 Ruinous Ultimatum (IKO) 204
+4 Savai Triome (IKO) 253
+4 Sea-Dasher Octopus (IKO) 66
+4 Shark Typhoon (IKO) 67
+4 Skycat Sovereign (IKO) 207
+4 Slitherwisp (IKO) 208
+4 Song of Creation (IKO) 210
+4 The Ozolith (IKO) 237
+4 Titans' Nest (IKO) 212
+4 Umori, the Collector (IKO) 231
+4 Unpredictable Cyclone (IKO) 139
+4 Voracious Greatshark (IKO) 70
+4 Whirlwind of Thought (IKO) 215
+4 Yidaro, Wandering Monster (IKO) 141
+
+
+### New Deck
+
+4 Yorion, Sky Nomad (IKO) 232
+4 Zagoth Triome (IKO) 259
+4 Zirda, the Dawnwaker (IKO) 233
+
+### The Last Deck has 12 cards in it.

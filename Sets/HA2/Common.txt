@@ -1,0 +1,14 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ancestral Mask (HA2) 13
+4 Barren Moor (HA2) 19
+4 Bojuka Bog (HA2) 20
+4 Forgotten Cave (HA2) 21
+4 Lonely Sandbar (HA2) 23
+4 Secluded Steppe (HA2) 24
+4 Tranquil Thicket (HA2) 25
+
+### The Last Deck has 28 cards in it.

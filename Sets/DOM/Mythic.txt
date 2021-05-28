@@ -1,0 +1,24 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Chandra, Bold Pyromancer (DOM) 275
+4 Darigaaz Reincarnated (DOM) 193
+4 Demonlord Belzenlok (DOM) 86
+4 History of Benalia (DOM) 21
+4 Jaya Ballard (DOM) 132
+4 Jhoira, Weatherlight Captain (DOM) 197
+4 Karn, Scion of Urza (DOM) 1
+4 Lyra Dawnbringer (DOM) 26
+4 Mox Amber (DOM) 224
+4 Muldrotha, the Gravetide (DOM) 199
+4 Multani, Yavimaya's Avatar (DOM) 174
+4 Naru Meha, Master Wizard (DOM) 59
+4 Phyrexian Scriptures (DOM) 100
+4 Teferi, Hero of Dominaria (DOM) 207
+4 Teferi, Timebender (DOM) 270
+4 Verix Bladewing (DOM) 149
+4 Weatherlight (DOM) 237
+
+### The Last Deck has 68 cards in it.

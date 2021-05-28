@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adanto Vanguard (XLN) 1
+4 Air Elemental (XLN) 45
+4 Atzocan Archer (XLN) 176
+4 Belligerent Brontodon (XLN) 218
+4 Bellowing Aegisaur (XLN) 4
+4 Bishop of the Bloodstained (XLN) 91
+4 Bonded Horncrest (XLN) 133
+4 Bright Reprisal (XLN) 7
+4 Call to the Feast (XLN) 219
+4 Charging Monstrosaur (XLN) 138
+4 Chart a Course (XLN) 48
+4 Dark Nourishment (XLN) 97
+4 Deadeye Plunderers (XLN) 220
+4 Deadeye Quartermaster (XLN) 50
+4 Deathless Ancient (XLN) 100
+4 Deeproot Waters (XLN) 51
+4 Dinosaur Stampede (XLN) 140
+4 Dire Fleet Captain (XLN) 221
+4 Drover of the Mighty (XLN) 187
+4 Dusk Legion Dreadnought (XLN) 236
+4 Duskborne Skymarcher (XLN) 9
+4 Elaborate Firecannon (XLN) 237
+4 Emergent Growth (XLN) 188
+4 Emissary of Sunrise (XLN) 10
+4 Favorable Winds (XLN) 56
+4 Field of Ruin (XLN) 254
+4 Fiery Cannonade (XLN) 143
+4 Glorifier of Dusk (XLN) 12
+4 Grim Captain's Call (XLN) 108
+4 Heartless Pillage (XLN) 109
+4 Huatli's Spurring (XLN) 287
+4 Imperial Aerosaur (XLN) 14
+4 Imperial Lancer (XLN) 15
+4 Inspiring Cleric (XLN) 16
+4 Ixalan's Binding (XLN) 17
+4 Jace's Sentinel (XLN) 283
+4 Kitesail Freebooter (XLN) 110
+4 Kumena's Speaker (XLN) 196
+4 Lightning Strike (XLN) 149
+4 Lightning-Rig Crew (XLN) 150
+4 Lookout's Dispersal (XLN) 62
+4 Lurking Chupacabra (XLN) 111
+4 Makeshift Munitions (XLN) 151
+4 Marauding Looter (XLN) 225
+4 Merfolk Branchwalker (XLN) 197
+4 Navigator's Ruin (XLN) 63
+4 Otepec Huntmaster (XLN) 153
+4 Perilous Voyage (XLN) 67
+4 Pillar of Origins (XLN) 241
+4 Raging Swordtooth (XLN) 226
+
+
+### New Deck
+
+4 Raiders' Wake (XLN) 116
+4 Rallying Roar (XLN) 30
+4 Ranging Raptors (XLN) 201
+4 Raptor Hatchling (XLN) 155
+4 Rigging Runner (XLN) 157
+4 River Sneak (XLN) 70
+4 Ruthless Knave (XLN) 119
+4 Savage Stomp (XLN) 205
+4 Seekers' Squire (XLN) 121
+4 Sentinel Totem (XLN) 245
+4 Shapers of Nature (XLN) 228
+4 Sheltering Light (XLN) 35
+4 Siren Stormtamer (XLN) 79
+4 Sky Terror (XLN) 229
+4 Sleek Schooner (XLN) 247
+4 Slice in Twain (XLN) 207
+4 Snapping Sailback (XLN) 208
+4 Steadfast Armasaur (XLN) 39
+4 Storm Fleet Aerialist (XLN) 83
+4 Storm Fleet Arsonist (XLN) 162
+4 Storm Fleet Spy (XLN) 84
+4 Tempest Caller (XLN) 86
+4 Thundering Spineback (XLN) 210
+4 Trove of Temptation (XLN) 171
+4 Unclaimed Territory (XLN) 258
+4 Verdant Rebirth (XLN) 212
+4 Vicious Conquistador (XLN) 128
+4 Vineshaper Mystic (XLN) 214
+4 Walk the Plank (XLN) 130
+4 Wanted Scoundrels (XLN) 131
+4 Wildgrowth Walker (XLN) 216
+4 Wily Goblin (XLN) 174
+
+### The Last Deck has 128 cards in it.

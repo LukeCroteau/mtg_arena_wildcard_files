@@ -1,0 +1,67 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aryel, Knight of Windgrace (DOM) 192
+4 Benalish Marshal (DOM) 6
+4 Blackblade Reforged (DOM) 211
+4 Cabal Stronghold (DOM) 238
+4 Chandra's Outburst (DOM) 276
+4 Clifftop Retreat (DOM) 239
+4 Daring Archaeologist (DOM) 13
+4 Dread Shade (DOM) 88
+4 Evra, Halcyon Witness (DOM) 16
+4 Fall of the Thran (DOM) 18
+4 Firesong and Sunspeaker (DOM) 280
+4 Forebear's Blade (DOM) 214
+4 Gilded Lotus (DOM) 215
+4 Goblin Chainwhirler (DOM) 129
+4 Grand Warlord Radha (DOM) 195
+4 Haphazard Bombardment (DOM) 131
+4 Helm of the Host (DOM) 217
+4 Hinterland Harbor (DOM) 240
+4 Isolated Chapel (DOM) 241
+4 Jaya's Immolating Inferno (DOM) 133
+4 Jodah, Archmage Eternal (DOM) 198
+4 Josu Vess, Lich Knight (DOM) 95
+4 Kamahl's Druidic Vow (DOM) 166
+4 Karn's Temporal Sundering (DOM) 55
+4 Kazarov, Sengir Pureblood (DOM) 96
+4 Lich's Mastery (DOM) 98
+4 Marwyn, the Nurturer (DOM) 172
+4 Mishra's Self-Replicator (DOM) 223
+4 Naban, Dean of Iteration (DOM) 58
+4 Niambi, Faithful Healer (DOM) 272
+4 Oath of Teferi (DOM) 200
+4 Precognition Field (DOM) 61
+4 Primevals' Glorious Rebirth (DOM) 201
+4 Rite of Belzenlok (DOM) 102
+4 Shalai, Voice of Plenty (DOM) 35
+4 Siege-Gang Commander (DOM) 143
+4 Squee, the Immortal (DOM) 146
+4 Steel Leaf Champion (DOM) 182
+4 Sulfur Falls (DOM) 247
+4 Sylvan Awakening (DOM) 183
+4 Tempest Djinn (DOM) 68
+4 Territorial Allosaurus (DOM) 184
+4 Teshar, Ancestor's Apostle (DOM) 36
+4 The Antiquities War (DOM) 42
+4 The First Eruption (DOM) 122
+4 The Mending of Dominaria (DOM) 173
+4 The Mirari Conjecture (DOM) 57
+4 Thran Temporal Gateway (DOM) 233
+4 Torgaar, Famine Incarnate (DOM) 108
+4 Traxos, Scourge of Kroog (DOM) 234
+
+
+### New Deck
+
+4 Two-Headed Giant (DOM) 147
+4 Urza's Ruinous Blast (DOM) 39
+4 Verdant Force (DOM) 187
+4 Woodland Cemetery (DOM) 248
+4 Yawgmoth's Vile Offering (DOM) 114
+4 Zahid, Djinn of the Lamp (DOM) 76
+
+### The Last Deck has 24 cards in it.

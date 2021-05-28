@@ -1,0 +1,122 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arcane Signet (ELD) 331
+4 Ardenvale Paladin (ELD) 4
+4 Ardenvale Tactician // Dizzying Swoop (ELD) 5
+4 Bake into a Pie (ELD) 76
+4 Barge In (ELD) 112
+4 Barrow Witches (ELD) 77
+4 Bartered Cow (ELD) 6
+4 Beloved Princess (ELD) 7
+4 Bloodhaze Wolverine (ELD) 113
+4 Blow Your House Down (ELD) 114
+4 Brimstone Trebuchet (ELD) 116
+4 Charmed Sleep (ELD) 40
+4 Command Tower (ELD) 333
+4 Corridor Monitor (ELD) 41
+4 Crashing Drawbridge (ELD) 217
+4 Crystal Slipper (ELD) 119
+4 Curious Pair // Treats to Share (ELD) 150
+4 Didn't Say Please (ELD) 42
+4 Dwarven Mine (ELD) 243
+4 Embereth Paladin (ELD) 121
+4 Eye Collector (ELD) 86
+4 Faerie Guidemother // Gift of the Fae (ELD) 11
+4 Fell the Pheasant (ELD) 153
+4 Festive Funeral (ELD) 87
+4 Fierce Witchstalker (ELD) 154
+4 Fling (ELD) 126
+4 Flutterfox (ELD) 12
+4 Foreboding Fruit (ELD) 88
+4 Forever Young (ELD) 89
+4 Fortifying Provisions (ELD) 13
+4 Garenbrig Carver // Shield's Might (ELD) 156
+4 Garenbrig Paladin (ELD) 157
+4 Garenbrig Squire (ELD) 158
+4 Garrison Griffin (ELD) 305
+4 Giant's Skewer (ELD) 91
+4 Gingerbread Cabin (ELD) 245
+4 Gingerbrute (ELD) 219
+4 Golden Egg (ELD) 220
+4 Henge Walker (ELD) 221
+4 Idyllic Grange (ELD) 246
+4 Insatiable Appetite (ELD) 162
+4 Jousting Dummy (ELD) 224
+4 Knight of the Keep (ELD) 19
+4 Lash of Thorns (ELD) 92
+4 Locthwain Gargoyle (ELD) 225
+4 Locthwain Paladin (ELD) 93
+4 Lonesome Unicorn // Rider in Need (ELD) 21
+4 Lost Legion (ELD) 94
+4 Malevolent Noble (ELD) 95
+4 Mantle of Tides (ELD) 52
+
+
+### New Deck
+
+4 Maraleaf Rider (ELD) 166
+4 Memory Theft (ELD) 96
+4 Merchant of the Vale // Haggle (ELD) 131
+4 Merfolk Secretkeeper // Venture Deeper (ELD) 53
+4 Mistford River Turtle (ELD) 56
+4 Moonlit Scavengers (ELD) 57
+4 Mystic Sanctuary (ELD) 247
+4 Ogre Errant (ELD) 132
+4 Oko's Accomplices (ELD) 310
+4 Opt (ELD) 59
+4 Outflank (ELD) 23
+4 Outmuscle (ELD) 170
+4 Prized Griffin (ELD) 24
+4 Prophet of the Peak (ELD) 227
+4 Queen of Ice // Rage of Winter (ELD) 61
+4 Raging Redcap (ELD) 134
+4 Reaper of Night // Harvest Fear (ELD) 102
+4 Reave Soul (ELD) 103
+4 Redcap Raiders (ELD) 136
+4 Return to Nature (ELD) 173
+4 Rimrock Knight // Boulder Rush (ELD) 137
+4 Rosethorn Acolyte // Seasonal Ritual (ELD) 174
+4 Rosethorn Halberd (ELD) 175
+4 Roving Keep (ELD) 228
+4 Run Away Together (ELD) 62
+4 Scalding Cauldron (ELD) 229
+4 Scorching Dragonfire (ELD) 139
+4 Searing Barrage (ELD) 140
+4 Seven Dwarves (ELD) 141
+4 Shining Armor (ELD) 29
+4 Signpost Scarecrow (ELD) 231
+4 Silverflame Ritual (ELD) 30
+4 Silverflame Squire // On Alert (ELD) 31
+4 Smitten Swordmaster // Curry Favor (ELD) 105
+4 So Tiny (ELD) 64
+4 Sporecap Spider (ELD) 176
+4 Steelgaze Griffin (ELD) 65
+4 Tall as a Beanstalk (ELD) 178
+4 Tempting Witch (ELD) 108
+4 Thornwood Falls (ELD) 313
+4 Thrill of Possibility (ELD) 146
+4 Tome Raider (ELD) 68
+4 Trapped in the Tower (ELD) 33
+4 True Love's Kiss (ELD) 34
+4 Tuinvale Treefolk // Oaken Boon (ELD) 180
+4 Unexplained Vision (ELD) 70
+4 Vantress Paladin (ELD) 72
+4 Weapon Rack (ELD) 236
+4 Weaselback Redcap (ELD) 148
+4 Wicked Guardian (ELD) 109
+
+
+### New Deck
+
+4 Wildwood Tracker (ELD) 183
+4 Wind-Scarred Crag (ELD) 308
+4 Wishful Merfolk (ELD) 73
+4 Witch's Cottage (ELD) 249
+4 Witching Well (ELD) 74
+4 Wolf's Quarry (ELD) 184
+4 Youthful Knight (ELD) 37
+
+### The Last Deck has 28 cards in it.

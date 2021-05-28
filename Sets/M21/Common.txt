@@ -1,0 +1,131 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adherent of Hope (M21) 321
+4 Alchemist's Gift (M21) 87
+4 Alpine Watchdog (M21) 2
+4 Anointed Chorister (M21) 4
+4 Basri's Acolyte (M21) 8
+4 Blood Glutton (M21) 90
+4 Bloodfell Caves (M21) 243
+4 Blossoming Sands (M21) 244
+4 Bone Pit Brute (M21) 132
+4 Burn Bright (M21) 134
+4 Caged Zombie (M21) 91
+4 Cancel (M21) 46
+4 Capture Sphere (M21) 47
+4 Celestial Enforcer (M21) 11
+4 Chandra's Magmutt (M21) 137
+4 Colossal Dreadmaw (M21) 176
+4 Concordia Pegasus (M21) 12
+4 Crash Through (M21) 140
+4 Crypt Lurker (M21) 93
+4 Daybreak Charger (M21) 14
+4 Deathbloom Thallid (M21) 94
+4 Defiant Strike (M21) 15
+4 Destructive Tampering (M21) 141
+4 Dismal Backwater (M21) 245
+4 Drowsing Tyrannodon (M21) 178
+4 Dub (M21) 16
+4 Duress (M21) 96
+4 Feat of Resistance (M21) 19
+4 Fetid Imp (M21) 98
+4 Finishing Blow (M21) 99
+4 Forgotten Sentinel (M21) 231
+4 Frantic Inventory (M21) 50
+4 Frost Breath (M21) 51
+4 Furor of the Bitten (M21) 145
+4 Gale Swooper (M21) 20
+4 Garruk's Gorehorn (M21) 184
+4 Gloom Sower (M21) 100
+4 Gnarled Sage (M21) 187
+4 Goblin Arsonist (M21) 147
+4 Goblin Wizardry (M21) 148
+4 Grasp of Darkness (M21) 102
+4 Hobblefiend (M21) 152
+4 Hunter's Edge (M21) 189
+4 Igneous Cur (M21) 153
+4 Infernal Scarring (M21) 105
+4 Jungle Hollow (M21) 247
+4 Keen Glidemaster (M21) 54
+4 Legion's Judgment (M21) 24
+4 Library Larcenist (M21) 55
+4 Life Goes On (M21) 192
+
+
+### New Deck
+
+4 Liliana's Steward (M21) 111
+4 Llanowar Visionary (M21) 193
+4 Lofty Denial (M21) 56
+4 Makeshift Battalion (M21) 26
+4 Masked Blackguard (M21) 113
+4 Mind Rot (M21) 115
+4 Mistral Singer (M21) 58
+4 Mystic Skyfish (M21) 326
+4 Onakke Ogre (M21) 155
+4 Opt (M21) 59
+4 Ornery Dilophosaur (M21) 194
+4 Pitchburn Devils (M21) 156
+4 Portcullis Vine (M21) 195
+4 Pridemalkin (M21) 196
+4 Prismite (M21) 235
+4 Radiant Fountain (M21) 248
+4 Rambunctious Mutt (M21) 30
+4 Ranger's Guile (M21) 199
+4 Read the Tides (M21) 62
+4 Return to Nature (M21) 200
+4 Revitalize (M21) 31
+4 Rise Again (M21) 119
+4 Roaming Ghostlight (M21) 65
+4 Rookie Mistake (M21) 66
+4 Rousing Read (M21) 67
+4 Rugged Highlands (M21) 249
+4 Run Afoul (M21) 201
+4 Sabertooth Mauler (M21) 202
+4 Sanguine Indulgence (M21) 121
+4 Scorching Dragonfire (M21) 158
+4 Scoured Barrens (M21) 250
+4 Secure the Scene (M21) 35
+4 Setessan Training (M21) 205
+4 Shock (M21) 159
+4 Short Sword (M21) 236
+4 Silent Dart (M21) 237
+4 Skeleton Archer (M21) 123
+4 Skyscanner (M21) 238
+4 Snarespinner (M21) 207
+4 Spellgorger Weird (M21) 161
+4 Spined Megalodon (M21) 72
+4 Spirit of Malevolence (M21) 331
+4 Staunch Shieldmate (M21) 39
+4 Storm Caller (M21) 335
+4 Sure Strike (M21) 163
+4 Swift Response (M21) 40
+4 Swiftwater Cliffs (M21) 251
+4 Teferi's Protege (M21) 77
+4 Thornwood Falls (M21) 257
+4 Thrill of Possibility (M21) 165
+
+
+### New Deck
+
+4 Titanic Growth (M21) 210
+4 Tome Anima (M21) 81
+4 Track Down (M21) 211
+4 Tranquil Cove (M21) 258
+4 Trufflesnout (M21) 212
+4 Turn to Slag (M21) 168
+4 Turret Ogre (M21) 169
+4 Valorous Steed (M21) 42
+4 Village Rites (M21) 126
+4 Vodalian Arcanist (M21) 83
+4 Walking Corpse (M21) 128
+4 Wall of Runes (M21) 85
+4 Warded Battlements (M21) 44
+4 Wildwood Patrol (M21) 339
+4 Wind-Scarred Crag (M21) 259
+4 Wishcoin Crab (M21) 86
+
+### The Last Deck has 64 cards in it.

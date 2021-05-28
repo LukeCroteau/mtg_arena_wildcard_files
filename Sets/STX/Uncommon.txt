@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academic Dispute (STX) 91
+4 Access Tunnel (STX) 262
+4 Aether Helix (STX) 162
+4 Ardent Dustspeaker (STX) 92
+4 Bookwurm (STX) 123
+4 Brackish Trudge (STX) 65
+4 Clever Lumimancer (STX) 10
+4 Closing Statement (STX) 169
+4 Containment Breach (STX) 125
+4 Creative Outburst (STX) 171
+4 Daemogoth Woe-Eater (STX) 175
+4 Deadly Brew (STX) 176
+4 Decisive Denial (STX) 177
+4 Detention Vortex (STX) 13
+4 Devouring Tendrils (STX) 126
+4 Dina, Soul Steeper (STX) 178
+4 Divide by Zero (STX) 41
+4 Dueling Coach (STX) 15
+4 Emergent Sequence (STX) 129
+4 Explosive Welcome (STX) 100
+4 Expressive Iteration (STX) 186
+4 Eyetwitch (STX) 70
+4 Flunk (STX) 71
+4 Fortifying Draught (STX) 132
+4 Fracture (STX) 188
+4 Go Blank (STX) 72
+4 Golden Ratio (STX) 190
+4 Grinning Ignus (STX) 104
+4 Hall Monitor (STX) 105
+4 Honor Troll (STX) 134
+4 Humiliate (STX) 193
+4 Igneous Inspiration (STX) 107
+4 Karok Wrangler (STX) 135
+4 Kelpie Guide (STX) 45
+4 Killian, Ink Duelist (STX) 197
+4 Lorehold Apprentice (STX) 198
+4 Lorehold Excavation (STX) 200
+4 Maelstrom Muse (STX) 202
+4 Mage Hunter (STX) 76
+4 Mascot Interception (STX) 110
+4 Master Symmetrist (STX) 138
+4 Mentor's Guidance (STX) 46
+4 Mercurial Transformation (STX) 47
+4 Mortality Spear (STX) 207
+4 Necrotic Fumes (STX) 78
+4 Overgrown Arch (STX) 139
+4 Plumb the Forbidden (STX) 81
+4 Practical Research (STX) 212
+4 Prismari Apprentice (STX) 213
+4 Professor of Symbology (STX) 24
+
+
+### New Deck
+
+4 Quandrix Apprentice (STX) 216
+4 Quandrix Cultivator (STX) 218
+4 Quintorius, Field Historian (STX) 220
+4 Reconstruct History (STX) 222
+4 Reduce to Memory (STX) 25
+4 Reflective Golem (STX) 257
+4 Returned Pastcaller (STX) 224
+4 Rip Apart (STX) 225
+4 Rootha, Mercurial Artist (STX) 227
+4 Secret Rendezvous (STX) 26
+4 Shadewing Laureate (STX) 229
+4 Show of Confidence (STX) 28
+4 Silverquill Apprentice (STX) 231
+4 Snow Day (STX) 53
+4 Solve the Equation (STX) 54
+4 Spell Satchel (STX) 258
+4 Start from Scratch (STX) 114
+4 Stonebinder's Familiar (STX) 31
+4 Storm-Kiln Artist (STX) 115
+4 Symmetry Sage (STX) 56
+4 Team Pennant (STX) 260
+4 Tend the Pests (STX) 242
+4 Tenured Inkcaster (STX) 88
+4 Test of Talents (STX) 59
+4 Thunderous Orator (STX) 35
+4 Umbral Juke (STX) 89
+4 Witherbloom Apprentice (STX) 247
+4 Wormhole Serpent (STX) 62
+4 Zephyr Boots (STX) 261
+4 Zimone, Quandrix Prodigy (STX) 250
+
+### The Last Deck has 120 cards in it.

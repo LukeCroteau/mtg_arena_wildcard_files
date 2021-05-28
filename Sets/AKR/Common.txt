@@ -1,0 +1,123 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aerial Guide (AKR) 47
+4 Ancient Crab (AKR) 48
+4 Anointer Priest (AKR) 3
+4 Aven Initiate (AKR) 50
+4 Aven of Enduring Hope (AKR) 6
+4 Beneath the Sands (AKR) 182
+4 Binding Mummy (AKR) 7
+4 Bitterbow Sharpshooters (AKR) 183
+4 Blighted Bat (AKR) 93
+4 Bloodlust Inciter (AKR) 140
+4 Blur of Blades (AKR) 141
+4 Brute Strength (AKR) 142
+4 Cartouche of Ambition (AKR) 97
+4 Cartouche of Knowledge (AKR) 51
+4 Cartouche of Solidarity (AKR) 8
+4 Cartouche of Strength (AKR) 184
+4 Cartouche of Zeal (AKR) 145
+4 Compelling Argument (AKR) 55
+4 Compulsory Rest (AKR) 10
+4 Countervailing Winds (AKR) 56
+4 Crash Through (AKR) 149
+4 Dauntless Aven (AKR) 12
+4 Desert Cerodon (AKR) 151
+4 Desert of the Fervent (AKR) 287
+4 Desert of the Glorified (AKR) 288
+4 Desert of the Indomitable (AKR) 289
+4 Desert of the Mindful (AKR) 290
+4 Desert of the True (AKR) 291
+4 Disposal Mummy (AKR) 14
+4 Dissenter's Deliverance (AKR) 189
+4 Djeru's Resolve (AKR) 15
+4 Doomed Dissenter (AKR) 101
+4 Dune Beetle (AKR) 104
+4 Essence Scatter (AKR) 60
+4 Evolving Wilds (AKR) 292
+4 Fan Bearer (AKR) 17
+4 Feral Prowler (AKR) 191
+4 Festering Mummy (AKR) 105
+4 Final Reward (AKR) 106
+4 Firebrand Archer (AKR) 154
+4 Floodwaters (AKR) 62
+4 Forsake the Worldly (AKR) 18
+4 Gilded Cerodon (AKR) 155
+4 Greater Sandwurm (AKR) 192
+4 Gust Walker (AKR) 22
+4 Haze of Pollen (AKR) 193
+4 Hekma Sentinels (AKR) 63
+4 Hieroglyphic Illumination (AKR) 64
+4 Hooded Brawler (AKR) 194
+4 Horror of the Broken Lands (AKR) 108
+
+
+### New Deck
+
+4 Impeccable Timing (AKR) 24
+4 In Oketra's Name (AKR) 25
+4 Initiate's Companion (AKR) 198
+4 Khenra Eternal (AKR) 109
+4 Khenra Scrapper (AKR) 163
+4 Lethal Sting (AKR) 110
+4 Life Goes On (AKR) 199
+4 Magma Spray (AKR) 164
+4 Marauding Boneslasher (AKR) 115
+4 Miasmic Mummy (AKR) 116
+4 Mighty Leap (AKR) 26
+4 Naga Oracle (AKR) 69
+4 Naga Vitalist (AKR) 203
+4 Nef-Crop Entangler (AKR) 166
+4 Nimble-Blade Khenra (AKR) 168
+4 Oashra Cultivator (AKR) 204
+4 Oasis Ritualist (AKR) 205
+4 Oketra's Avenger (AKR) 29
+4 Open Fire (AKR) 169
+4 Ornery Kudu (AKR) 206
+4 Pathmaker Initiate (AKR) 170
+4 Pitiless Vizier (AKR) 119
+4 Pouncing Cheetah (AKR) 207
+4 Puncturing Blow (AKR) 171
+4 Pursue Glory (AKR) 172
+4 Quarry Hauler (AKR) 210
+4 Rhonas's Stalwart (AKR) 214
+4 Sacred Cat (AKR) 34
+4 Scarab Feast (AKR) 122
+4 Seeker of Insight (AKR) 76
+4 Seer of the Last Tomorrow (AKR) 77
+4 Shed Weakness (AKR) 216
+4 Shimmerscale Drake (AKR) 78
+4 Sidewinder Naga (AKR) 218
+4 Slither Blade (AKR) 79
+4 Solitary Camel (AKR) 36
+4 Soulstinger (AKR) 124
+4 Spellweaver Eternal (AKR) 80
+4 Splendid Agony (AKR) 125
+4 Stinging Shot (AKR) 221
+4 Strategic Planning (AKR) 81
+4 Striped Riverwinder (AKR) 82
+4 Sunscorched Desert (AKR) 331
+4 Supernatural Stamina (AKR) 126
+4 Supply Caravan (AKR) 39
+4 Tah-Crop Elite (AKR) 40
+4 Thorned Moloch (AKR) 177
+4 Those Who Serve (AKR) 41
+4 Thresher Lizard (AKR) 178
+4 Tormenting Voice (AKR) 179
+
+
+### New Deck
+
+4 Trespasser's Curse (AKR) 129
+4 Unburden (AKR) 131
+4 Unquenchable Thirst (AKR) 86
+4 Wall of Forgotten Pharaohs (AKR) 282
+4 Wander in Death (AKR) 133
+4 Wasteland Scorpion (AKR) 135
+4 Winds of Rebuke (AKR) 90
+4 Zealot of the God-Pharaoh (AKR) 181
+
+### The Last Deck has 32 cards in it.

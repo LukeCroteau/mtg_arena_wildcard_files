@@ -1,0 +1,16 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Captain Sisay (HA1) 17
+4 Cryptbreaker (HA1) 6
+4 Darksteel Reactor (HA1) 20
+4 Fauna Shaman (HA1) 14
+4 Hidetsugu's Second Rite (HA1) 12
+4 Hypnotic Specter (HA1) 7
+4 Kinsbaile Cavalier (HA1) 3
+4 Phyrexian Arena (HA1) 8
+4 Serra Ascendant (HA1) 1
+
+### The Last Deck has 36 cards in it.

@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Approach of the Second Sun (STA) 1
+4 Blue Sun's Zenith (STA) 12
+4 Channel (STA) 50
+4 Chaos Warp (STA) 36
+4 Crux of Fate (STA) 25
+4 Day of Judgment (STA) 2
+4 Demonic Tutor (STA) 27
+4 Increasing Vengeance (STA) 40
+4 Mind's Desire (STA) 17
+4 Mizzix's Mastery (STA) 43
+4 Natural Order (STA) 54
+4 Primal Command (STA) 55
+4 Tainted Pact (STA) 33
+4 Teferi's Protection (STA) 11
+4 Time Warp (STA) 22
+
+### The Last Deck has 60 cards in it.

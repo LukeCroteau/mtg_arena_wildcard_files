@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani's Pridemate (WAR) 4
+4 Angrath's Rampage (WAR) 185
+4 Angrath, Captain of Chaos (WAR) 227
+4 Arlinn, Voice of the Pack (WAR) 150
+4 Ashiok, Dream Render (WAR) 228
+4 Augur of Bolas (WAR) 41
+4 Bleeding Edge (WAR) 78
+4 Bolt Bend (WAR) 115
+4 Bond of Discipline (WAR) 6
+4 Bond of Flourishing (WAR) 155
+4 Bond of Insight (WAR) 43
+4 Bond of Passion (WAR) 116
+4 Bond of Revival (WAR) 80
+4 Challenger Troll (WAR) 157
+4 Chandra's Triumph (WAR) 121
+4 Cruel Celebrant (WAR) 188
+4 Cyclops Electromancer (WAR) 122
+4 Davriel, Rogue Shadowmage (WAR) 83
+4 Deathsprout (WAR) 189
+4 Despark (WAR) 190
+4 Devouring Hellion (WAR) 124
+4 Domri's Ambush (WAR) 192
+4 Dovin's Veto (WAR) 193
+4 Dovin, Hand of Control (WAR) 229
+4 Dreadhorde Twins (WAR) 126
+4 Dreadmalkin (WAR) 87
+4 Elite Guardmage (WAR) 195
+4 Emergence Zone (WAR) 245
+4 Eternal Skylord (WAR) 49
+4 Eternal Taskmaster (WAR) 90
+4 Evolution Sage (WAR) 159
+4 Firemind Vessel (WAR) 237
+4 Flux Channeler (WAR) 52
+4 Gideon's Company (WAR) 268
+4 Gideon's Triumph (WAR) 15
+4 Gleaming Overseer (WAR) 198
+4 God-Pharaoh's Statue (WAR) 238
+4 Grateful Apparition (WAR) 17
+4 Heartwarming Redemption (WAR) 199
+4 Huatli's Raptor (WAR) 200
+4 Huatli, the Sun's Heart (WAR) 230
+4 Interplanar Beacon (WAR) 247
+4 Invade the City (WAR) 201
+4 Jace's Projection (WAR) 272
+4 Jace's Triumph (WAR) 55
+4 Jaya, Venerated Firemage (WAR) 135
+4 Jiang Yanggu, Wildcrafter (WAR) 164
+4 Kasmina, Enigmatic Mentor (WAR) 56
+4 Kaya, Bane of the Dead (WAR) 231
+4 Kiora, Behemoth Beckoner (WAR) 232
+
+
+### New Deck
+
+4 Lazotep Plating (WAR) 59
+4 Leyline Prowler (WAR) 202
+4 Liliana's Triumph (WAR) 98
+4 Mayhem Devil (WAR) 204
+4 Merfolk Skydiver (WAR) 205
+4 Mowu, Loyal Companion (WAR) 167
+4 Nahiri, Storm of Stone (WAR) 233
+4 Narset, Parter of Veils (WAR) 61
+4 Neoform (WAR) 206
+4 Nissa's Triumph (WAR) 170
+4 Ob Nixilis, the Hate-Twisted (WAR) 100
+4 Paradise Druid (WAR) 171
+4 Pledge of Unity (WAR) 210
+4 Price of Betrayal (WAR) 102
+4 Prison Realm (WAR) 26
+4 Ral's Outburst (WAR) 212
+4 Rally of Wings (WAR) 27
+4 Rescuer Sphinx (WAR) 65
+4 Rubblebelt Rioters (WAR) 215
+4 Saheeli, Sublime Artificer (WAR) 234
+4 Samut, Tyrant Smasher (WAR) 235
+4 Storm the Citadel (WAR) 178
+4 Sunblade Angel (WAR) 31
+4 Tenth District Legionnaire (WAR) 222
+4 Teyo, the Shieldmage (WAR) 32
+4 The Wanderer (WAR) 37
+4 Tibalt's Rager (WAR) 147
+4 Tibalt, Rakish Instigator (WAR) 146
+4 Tyrant's Scorn (WAR) 225
+4 Ugin's Conjurant (WAR) 3
+4 Vizier of the Scorpion (WAR) 111
+4 Vraska, Swarm's Eminence (WAR) 236
+
+### The Last Deck has 128 cards in it.

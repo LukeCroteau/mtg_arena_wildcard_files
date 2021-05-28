@@ -1,0 +1,18 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ancient Ziggurat (HA3) 26
+4 Chainer's Edict (HA3) 10
+4 Gempalm Incinerator (HA3) 16
+4 Honden of Cleansing Fire (HA3) 2
+4 Honden of Infinite Rage (HA3) 17
+4 Honden of Life's Web (HA3) 20
+4 Honden of Night's Reach (HA3) 12
+4 Honden of Seeing Winds (HA3) 7
+4 Roar of the Wurm (HA3) 22
+4 Timely Reinforcements (HA3) 5
+4 Unburial Rites (HA3) 14
+
+### The Last Deck has 44 cards in it.

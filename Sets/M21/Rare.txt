@@ -1,0 +1,70 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Animal Sanctuary (M21) 242
+4 Azusa, Lost but Seeking (M21) 173
+4 Barrin, Tolarian Archmage (M21) 45
+4 Basri's Aegis (M21) 322
+4 Basri's Lieutenant (M21) 9
+4 Brash Taunter (M21) 133
+4 Chandra's Firemaw (M21) 333
+4 Chandra's Incinerator (M21) 136
+4 Conspicuous Snoop (M21) 139
+4 Containment Priest (M21) 13
+4 Cultivate (M21) 317
+4 Demonic Embrace (M21) 95
+4 Double Vision (M21) 142
+4 Fabled Passage (M21) 246
+4 Feline Sovereign (M21) 180
+4 Gadrak, the Crown-Scourge (M21) 146
+4 Garruk's Harbinger (M21) 185
+4 Garruk's Warsteed (M21) 337
+4 Ghostly Pilferer (M21) 52
+4 Glorious Anthem (M21) 21
+4 Heroic Intervention (M21) 188
+4 Hooded Blightfang (M21) 104
+4 Idol of Endurance (M21) 23
+4 Jolrael, Mwonvuli Recluse (M21) 191
+4 Kaervek, the Spiteful (M21) 106
+4 Liliana's Scorn (M21) 329
+4 Liliana's Standard Bearer (M21) 110
+4 Mazemind Tome (M21) 232
+4 Necromentia (M21) 116
+4 Niambi, Esteemed Speaker (M21) 222
+4 Nine Lives (M21) 28
+4 Pack Leader (M21) 29
+4 Peer into the Abyss (M21) 117
+4 Primal Might (M21) 197
+4 Pursued Whale (M21) 60
+4 Radha, Heart of Keld (M21) 224
+4 Runed Halo (M21) 32
+4 Sanctum of All (M21) 225
+4 Scavenging Ooze (M21) 204
+4 See the Truth (M21) 69
+4 Shacklegeist (M21) 70
+4 Solemn Simulacrum (M21) 239
+4 Sparkhunter Masticore (M21) 240
+4 Speaker of the Heavens (M21) 38
+4 Sporeweb Weaver (M21) 208
+4 Stormwing Entity (M21) 73
+4 Subira, Tulzidi Caravanner (M21) 162
+4 Sublime Epiphany (M21) 74
+4 Teferi's Ageless Insight (M21) 76
+4 Teferi's Wavecaster (M21) 327
+
+
+### New Deck
+
+4 Temple of Epiphany (M21) 252
+4 Temple of Malady (M21) 253
+4 Temple of Mystery (M21) 254
+4 Temple of Silence (M21) 255
+4 Temple of Triumph (M21) 256
+4 Thieves' Guild Enforcer (M21) 125
+4 Transmogrify (M21) 167
+4 Vito, Thorn of the Dusk Rose (M21) 127
+4 Volcanic Salvo (M21) 172
+
+### The Last Deck has 36 cards in it.

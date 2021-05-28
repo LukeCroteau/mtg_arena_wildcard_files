@@ -1,0 +1,108 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aerial Responder (KLR) 1
+4 Aeronaut Admiral (KLR) 2
+4 Aether Hub (KLR) 279
+4 Aether Meltdown (KLR) 38
+4 Aetherborn Marauder (KLR) 76
+4 Aethertorch Renegade (KLR) 114
+4 Airdrop Aeronauts (KLR) 5
+4 Arborback Stomper (KLR) 152
+4 Armorcraft Judge (KLR) 153
+4 Ballista Charger (KLR) 221
+4 Barricade Breaker (KLR) 222
+4 Blossoming Defense (KLR) 155
+4 Bomat Bazaar Barge (KLR) 224
+4 Ceremonious Rejection (KLR) 44
+4 Chief of the Foundry (KLR) 226
+4 Cloudblazer (KLR) 189
+4 Contraband Kingpin (KLR) 190
+4 Creeping Mold (KLR) 158
+4 Daredevil Dragster (KLR) 231
+4 Decoction Module (KLR) 232
+4 Demolition Stomper (KLR) 233
+4 Embraal Bruiser (KLR) 82
+4 Empyreal Voyager (KLR) 194
+4 Engineered Might (KLR) 195
+4 Enraged Giant (KLR) 122
+4 Era of Innovation (KLR) 47
+4 Essence Extraction (KLR) 83
+4 Fabrication Module (KLR) 238
+4 Fairgrounds Warden (KLR) 17
+4 Fatal Push (KLR) 84
+4 Filigree Familiar (KLR) 239
+4 Foundry Hornet (KLR) 87
+4 Foundry Inspector (KLR) 241
+4 Fretwork Colony (KLR) 90
+4 Furious Reprisal (KLR) 126
+4 Gearshift Ace (KLR) 20
+4 Gifted Aetherborn (KLR) 91
+4 Glimmer of Genius (KLR) 49
+4 Glint-Nest Crane (KLR) 50
+4 Harnessed Lightning (KLR) 127
+4 Hazardous Conditions (KLR) 196
+4 Hidden Stockpile (KLR) 197
+4 Hungry Flames (KLR) 129
+4 Illusionist's Stratagem (KLR) 53
+4 Inventor's Apprentice (KLR) 131
+4 Invigorated Rampage (KLR) 132
+4 Longtusk Cub (KLR) 167
+4 Make Obsolete (KLR) 97
+4 Maulfist Revolutionary (KLR) 168
+4 Maverick Thopterist (KLR) 199
+
+
+### New Deck
+
+4 Minister of Inquiries (KLR) 58
+4 Monstrous Onslaught (KLR) 169
+4 Narnam Renegade (KLR) 170
+4 Nature's Way (KLR) 171
+4 Ornithopter (KLR) 255
+4 Outland Boar (KLR) 201
+4 Ovalchase Dragster (KLR) 256
+4 Pacification Array (KLR) 257
+4 Peema Aether-Seer (KLR) 175
+4 Quicksmith Genius (KLR) 138
+4 Ravenous Intruder (KLR) 140
+4 Refurbish (KLR) 27
+4 Renegade Rallier (KLR) 203
+4 Renegade Wheelsmith (KLR) 204
+4 Restoration Gearsmith (KLR) 205
+4 Restoration Specialist (KLR) 28
+4 Ridgescale Tusker (KLR) 177
+4 Rogue Refiner (KLR) 206
+4 Scrapper Champion (KLR) 144
+4 Servant of the Conduit (KLR) 182
+4 Servo Exhibition (KLR) 30
+4 Servo Schematic (KLR) 270
+4 Shielded Aether Thief (KLR) 64
+4 Shrewd Negotiation (KLR) 66
+4 Siege Modification (KLR) 145
+4 Skyship Plunderer (KLR) 67
+4 Skywhaler's Shot (KLR) 31
+4 Sly Requisitioner (KLR) 106
+4 Speedway Fanatic (KLR) 147
+4 Spire Patrol (KLR) 208
+4 Tezzeret's Touch (KLR) 210
+4 Thopter Arrest (KLR) 34
+4 Trophy Mage (KLR) 71
+4 Underhanded Designs (KLR) 108
+4 Unlicensed Disintegration (KLR) 211
+4 Untethered Express (KLR) 274
+4 Vengeful Rebel (KLR) 109
+4 Veteran Motorist (KLR) 212
+4 Visionary Augmenter (KLR) 36
+4 Voltaic Brawler (KLR) 213
+4 Weaponcraft Enthusiast (KLR) 110
+4 Weldfast Engineer (KLR) 214
+4 Whirler Virtuoso (KLR) 215
+4 Whirlermaker (KLR) 276
+4 Wind-Kin Raiders (KLR) 74
+4 Winding Constrictor (KLR) 216
+4 Wispweaver Angel (KLR) 37
+
+### The Last Deck has 188 cards in it.

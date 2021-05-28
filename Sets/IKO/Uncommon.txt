@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alert Heedbonder (IKO) 218
+4 Archipelagore (IKO) 41
+4 Auspicious Starrix (IKO) 144
+4 Avian Oddity (IKO) 42
+4 Back for More (IKO) 177
+4 Barrier Breach (IKO) 145
+4 Bastion of Remembrance (IKO) 73
+4 Blitz of the Thunder-Raptor (IKO) 109
+4 Boneyard Lurker (IKO) 178
+4 Boon of the Wish-Giver (IKO) 43
+4 Call of the Death-Dweller (IKO) 78
+4 Channeled Force (IKO) 180
+4 Charge of the Forever-Beast (IKO) 147
+4 Chittering Harvester (IKO) 80
+4 Clash of Titans (IKO) 111
+4 Cunning Nightbonder (IKO) 219
+4 Dire Tactics (IKO) 183
+4 Duskfang Mentor (IKO) 86
+4 Easy Prey (IKO) 87
+4 Escape Protocol (IKO) 48
+4 Exuberant Wolfbear (IKO) 151
+4 Fight as One (IKO) 12
+4 Flame Spill (IKO) 117
+4 Flourishing Fox (IKO) 13
+4 Footfall Crater (IKO) 118
+4 Frillscare Mentor (IKO) 121
+4 General's Enforcer (IKO) 188
+4 Glowstone Recluse (IKO) 156
+4 Grimdancer (IKO) 90
+4 Heartless Act (IKO) 91
+4 Hornbash Mentor (IKO) 159
+4 Huntmaster Liger (IKO) 16
+4 Indatha Crystal (IKO) 235
+4 Insatiable Hemophage (IKO) 93
+4 Ivy Elemental (IKO) 161
+4 Jubilant Skybonder (IKO) 223
+4 Keensight Mentor (IKO) 18
+4 Ketria Crystal (IKO) 236
+4 Lead the Stampede (IKO) 163
+4 Lore Drakkis (IKO) 194
+4 Majestic Auricorn (IKO) 22
+4 Migration Path (IKO) 164
+4 Momentum Rumbler (IKO) 126
+4 Monstrous Step (IKO) 166
+4 Mystic Subdual (IKO) 57
+4 Necropanther (IKO) 196
+4 Neutralize (IKO) 59
+4 Ominous Seas (IKO) 61
+4 Parcelbeast (IKO) 199
+4 Pollywog Symbiote (IKO) 63
+
+
+### New Deck
+
+4 Porcuparrot (IKO) 128
+4 Pouncing Shoreshark (IKO) 64
+4 Primal Empathy (IKO) 200
+4 Proud Wildbonder (IKO) 229
+4 Raugrin Crystal (IKO) 238
+4 Reconnaissance Mission (IKO) 65
+4 Regal Leosaur (IKO) 202
+4 Reptilian Reflection (IKO) 132
+4 Rooting Moloch (IKO) 133
+4 Sanctuary Lockdown (IKO) 28
+4 Sanctuary Smasher (IKO) 135
+4 Savai Crystal (IKO) 239
+4 Savai Thundermane (IKO) 205
+4 Skull Prophet (IKO) 206
+4 Sonorous Howlbonder (IKO) 230
+4 Splendor Mare (IKO) 32
+4 Sprite Dragon (IKO) 211
+4 Stormwild Capridor (IKO) 34
+4 Swallow Whole (IKO) 35
+4 Titanoth Rex (IKO) 174
+4 Trumpeting Gnarr (IKO) 213
+4 Unbreakable Bond (IKO) 101
+4 Valiant Rescuer (IKO) 36
+4 Void Beckoner (IKO) 104
+4 Weaponize the Monsters (IKO) 140
+4 Will of the All-Hunter (IKO) 38
+4 Wingspan Mentor (IKO) 72
+4 Zagoth Crystal (IKO) 242
+4 Zagoth Mamba (IKO) 106
+4 Zenith Flare (IKO) 217
+
+### The Last Deck has 120 cards in it.

@@ -1,0 +1,80 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academic Probation (STX) 7
+4 Accomplished Alchemist (STX) 119
+4 Archmage Emeritus (STX) 37
+4 Augmenter Pugilist // Echoing Equation (STX) 147
+4 Baleful Mastery (STX) 64
+4 Basic Conjuration (STX) 120
+4 Blade Historian (STX) 165
+4 Callous Bloodmage (STX) 66
+4 Codie, Vociferous Codex (STX) 253
+4 Confront the Past (STX) 67
+4 Conspiracy Theorist (STX) 94
+4 Culling Ritual (STX) 172
+4 Culmination of Studies (STX) 173
+4 Daemogoth Titan (STX) 174
+4 Devastating Mastery (STX) 14
+4 Double Major (STX) 179
+4 Draconic Intervention (STX) 96
+4 Dragonsguard Elite (STX) 127
+4 Dramatic Finale (STX) 180
+4 Dream Strix (STX) 42
+4 Efreet Flamepainter (STX) 98
+4 Elemental Expressionist (STX) 181
+4 Elite Spellbinder (STX) 17
+4 Exponential Growth (STX) 130
+4 Fervent Mastery (STX) 101
+4 Flamescroll Celebrant // Revel in Silence (STX) 150
+4 Frostboil Snarl (STX) 265
+4 Furycalm Snarl (STX) 266
+4 Gnarled Professor (STX) 133
+4 Hall of Oracles (STX) 267
+4 Illuminate History (STX) 108
+4 Ingenious Mastery (STX) 44
+4 Kianne, Dean of Substance // Imbraham, Dean of Theory (STX) 152
+4 Leonin Lightscribe (STX) 20
+4 Lorehold Command (STX) 199
+4 Manifestation Sage (STX) 205
+4 Multiple Choice (STX) 48
+4 Necroblossom Snarl (STX) 269
+4 Oriq Loremage (STX) 80
+4 Pestilent Cauldron // Restorative Burst (STX) 154
+4 Plargg, Dean of Chaos // Augusta, Dean of Order (STX) 155
+4 Poet's Quill (STX) 82
+4 Prismari Command (STX) 214
+4 Quandrix Command (STX) 217
+4 Radiant Scrollwielder (STX) 221
+4 Retriever Phoenix (STX) 113
+4 Rushed Rebirth (STX) 228
+4 Sedgemoor Witch (STX) 86
+4 Selfless Glyphweaver // Deadly Vanity (STX) 157
+4 Semester's End (STX) 27
+
+
+### New Deck
+
+4 Shaile, Dean of Radiance // Embrose, Dean of Shadow (STX) 158
+4 Shineshadow Snarl (STX) 272
+4 Silverquill Command (STX) 232
+4 Silverquill Silencer (STX) 234
+4 Sparring Regimen (STX) 29
+4 Strict Proctor (STX) 33
+4 Strixhaven Stadium (STX) 259
+4 Teachings of the Archaics (STX) 57
+4 Tempted by the Oriq (STX) 58
+4 The Biblioplex (STX) 264
+4 Torrent Sculptor // Flamethrower Sonata (STX) 159
+4 Uvilda, Dean of Perfection // Nassari, Dean of Expression (STX) 160
+4 Valentin, Dean of the Vein // Lisette, Dean of the Root (STX) 161
+4 Vanishing Verse (STX) 244
+4 Venerable Warsinger (STX) 246
+4 Verdant Mastery (STX) 146
+4 Vineglimmer Snarl (STX) 274
+4 Wandering Archaic // Explore the Vastlands (STX) 6
+4 Witherbloom Command (STX) 248
+
+### The Last Deck has 76 cards in it.

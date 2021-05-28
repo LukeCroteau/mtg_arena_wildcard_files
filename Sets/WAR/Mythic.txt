@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Finale of Devastation (WAR) 160
+4 Finale of Eternity (WAR) 91
+4 Finale of Glory (WAR) 12
+4 Finale of Promise (WAR) 127
+4 Finale of Revelation (WAR) 51
+4 Gideon Blackblade (WAR) 13
+4 Gideon, the Oathsworn (WAR) 265
+4 God-Eternal Bontu (WAR) 92
+4 God-Eternal Kefnet (WAR) 53
+4 God-Eternal Oketra (WAR) 16
+4 God-Eternal Rhonas (WAR) 163
+4 Ilharg, the Raze-Boar (WAR) 133
+4 Jace, Arcane Strategist (WAR) 270
+4 Liliana, Dreadhorde General (WAR) 97
+4 Nicol Bolas, Dragon-God (WAR) 207
+4 Niv-Mizzet Reborn (WAR) 208
+4 Roalesk, Apex Hybrid (WAR) 213
+4 Tezzeret, Master of the Bridge (WAR) 275
+
+### The Last Deck has 72 cards in it.

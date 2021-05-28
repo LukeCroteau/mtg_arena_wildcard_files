@@ -1,0 +1,80 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arni Brokenbrow (KHM) 120
+4 Ascendant Spirit (KHM) 43
+4 Barkchannel Pathway // Tidechannel Pathway (KHM) 251
+4 Battle for Bretagard (KHM) 203
+4 Battle of Frost and Fire (KHM) 204
+4 Birgi, God of Storytelling // Harnfel, Horn of Bounty (KHM) 123
+4 Blessing of Frost (KHM) 161
+4 Blightstep Pathway // Searstep Pathway (KHM) 252
+4 Blood on the Snow (KHM) 79
+4 Calamity Bearer (KHM) 125
+4 Canopy Tactician (KHM) 378
+4 Cleaving Reaper (KHM) 376
+4 Cosima, God of the Voyage // The Omenkeel (KHM) 50
+4 Cosmos Charger (KHM) 51
+4 Cosmos Elixir (KHM) 237
+4 Crippling Fear (KHM) 82
+4 Cyclone Summoner (KHM) 52
+4 Darkbore Pathway // Slitherbore Pathway (KHM) 254
+4 Doomskar (KHM) 9
+4 Dragonkin Berserker (KHM) 131
+4 Draugr Necromancer (KHM) 86
+4 Dream Devourer (KHM) 90
+4 Egon, God of Death // Throne of Death (KHM) 92
+4 Elvish Warmaster (KHM) 167
+4 Esika's Chariot (KHM) 169
+4 Faceless Haven (KHM) 255
+4 Firja's Retribution (KHM) 210
+4 Glorious Protector (KHM) 12
+4 Graven Lore (KHM) 61
+4 Harald Unites the Elves (KHM) 213
+4 Hengegate Pathway // Mistgate Pathway (KHM) 260
+4 Icebreaker Kraken (KHM) 63
+4 Immersturm Predator (KHM) 214
+4 In Search of Greatness (KHM) 177
+4 Jorn, God of Winter // Kaldring, the Rimestaff (KHM) 179
+4 King Narfi's Betrayal (KHM) 219
+4 Kolvori, God of Kinship // The Ringhart Crest (KHM) 181
+4 Magda, Brazen Outlaw (KHM) 142
+4 Maskwood Nexus (KHM) 240
+4 Mystic Reflection (KHM) 69
+4 Old-Growth Troll (KHM) 185
+4 Pyre of Heroes (KHM) 241
+4 Rally the Ranks (KHM) 20
+4 Realmwalker (KHM) 188
+4 Reckless Crew (KHM) 146
+4 Reflections of Littjara (KHM) 73
+4 Reidane, God of the Worthy // Valkmira, Protector's Shield (KHM) 21
+4 Righteous Valkyrie (KHM) 24
+4 Rise of the Dread Marn (KHM) 107
+4 Runeforge Champion (KHM) 26
+
+
+### New Deck
+
+4 Sarulf, Realm Eater (KHM) 228
+4 Search for Glory (KHM) 27
+4 Showdown of the Skalds (KHM) 229
+4 Sigrid, God-Favored (KHM) 29
+4 Skemfar Avenger (KHM) 109
+4 Surtland Elementalist (KHM) 375
+4 Surtland Flinger (KHM) 377
+4 Tergrid, God of Fright // Tergrid's Lantern (KHM) 112
+4 The Bears of Littjara (KHM) 205
+4 The Bloodsky Massacre (KHM) 207
+4 The Raven's Warning (KHM) 227
+4 The World Tree (KHM) 275
+4 Tibalt's Trickery (KHM) 153
+4 Toski, Bearer of Secrets (KHM) 197
+4 Tundra Fumarole (KHM) 156
+4 Tyrite Sanctum (KHM) 272
+4 Valkyrie Harbinger (KHM) 374
+4 Varragoth, Bloodsky Sire (KHM) 115
+4 Waking the Trolls (KHM) 234
+
+### The Last Deck has 76 cards in it.

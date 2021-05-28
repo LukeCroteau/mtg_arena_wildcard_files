@@ -1,0 +1,14 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Distant Melody (HA1) 5
+4 Elvish Visionary (HA1) 13
+4 Kiln Fiend (HA1) 10
+4 Mind Stone (HA1) 19
+4 Soul Warden (HA1) 2
+4 Tendrils of Corruption (HA1) 9
+4 Treasure Hunt (HA1) 4
+
+### The Last Deck has 28 cards in it.

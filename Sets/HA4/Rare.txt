@@ -1,0 +1,17 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adorned Pouncer (HA4) 1
+4 Ammit Eternal (HA4) 8
+4 Blinkmoth Nexus (HA4) 25
+4 Collected Conjuring (HA4) 19
+4 Death's Shadow (HA4) 9
+4 Declaration in Stone (HA4) 2
+4 Harmless Offering (HA4) 14
+4 Inspiring Statuary (HA4) 23
+4 Marit Lage's Slumber (HA4) 6
+4 Sawtusk Demolisher (HA4) 16
+
+### The Last Deck has 40 cards in it.

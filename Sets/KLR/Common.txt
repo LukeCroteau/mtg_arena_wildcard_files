@@ -1,0 +1,119 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aether Chaser (KLR) 113
+4 Aether Inspector (KLR) 3
+4 Aether Poisoner (KLR) 75
+4 Aether Swooper (KLR) 39
+4 Aether Theorist (KLR) 40
+4 Aether Tradewinds (KLR) 41
+4 Alley Evasion (KLR) 6
+4 Alley Strangler (KLR) 77
+4 Appetite for the Unnatural (KLR) 151
+4 Attune with Aether (KLR) 154
+4 Audacious Infiltrator (KLR) 8
+4 Aviary Mechanic (KLR) 10
+4 Bastion Mastodon (KLR) 223
+4 Built to Last (KLR) 11
+4 Built to Smash (KLR) 115
+4 Cathartic Reunion (KLR) 116
+4 Chandra's Pyrohelix (KLR) 118
+4 Chandra's Revolution (KLR) 119
+4 Cogworker's Puzzleknot (KLR) 227
+4 Commencement of Festivities (KLR) 157
+4 Consulate Skygate (KLR) 228
+4 Consulate Turret (KLR) 229
+4 Conviction (KLR) 13
+4 Countless Gears Renegade (KLR) 14
+4 Daring Demolition (KLR) 78
+4 Dawnfeather Eagle (KLR) 15
+4 Defiant Salvager (KLR) 79
+4 Destructive Tampering (KLR) 121
+4 Die Young (KLR) 81
+4 Druid of the Cowl (KLR) 159
+4 Dukhara Peafowl (KLR) 234
+4 Eager Construct (KLR) 236
+4 Eddytrail Hawk (KLR) 16
+4 Fen Hauler (KLR) 85
+4 Fireforger's Puzzleknot (KLR) 240
+4 Fortuitous Find (KLR) 86
+4 Foundry Screecher (KLR) 88
+4 Fourth Bridge Prowler (KLR) 89
+4 Fragmentize (KLR) 18
+4 Frontline Rebel (KLR) 125
+4 Gearseeker Serpent (KLR) 48
+4 Glint-Sleeve Artisan (KLR) 21
+4 Herald of the Fair (KLR) 22
+4 Highspire Artisan (KLR) 162
+4 Highspire Infusion (KLR) 163
+4 Hijack (KLR) 128
+4 Hinterland Drake (KLR) 51
+4 Hunt the Weak (KLR) 164
+4 Ice Over (KLR) 52
+4 Impeccable Timing (KLR) 23
+
+
+### New Deck
+
+4 Implement of Examination (KLR) 244
+4 Implement of Malice (KLR) 245
+4 Inspired Charge (KLR) 24
+4 Inventor's Goggles (KLR) 246
+4 Irontread Crusher (KLR) 247
+4 Kujar Seedsculptor (KLR) 165
+4 Lathnu Sailback (KLR) 135
+4 Leave in the Dust (KLR) 54
+4 Lifecraft Cavalry (KLR) 166
+4 Live Fast (KLR) 95
+4 Malfunction (KLR) 55
+4 Maulfist Squad (KLR) 99
+4 Metallic Rebuke (KLR) 56
+4 Mind Rot (KLR) 101
+4 Mobile Garrison (KLR) 253
+4 Narnam Cobra (KLR) 254
+4 Night Market Aeronaut (KLR) 102
+4 Night Market Lookout (KLR) 103
+4 Nimble Innovator (KLR) 59
+4 Ornamental Courage (KLR) 173
+4 Peema Outrider (KLR) 176
+4 Pendulum of Patterns (KLR) 261
+4 Prakhata Pillar-Bug (KLR) 263
+4 Precise Strike (KLR) 137
+4 Propeller Pioneer (KLR) 26
+4 Prophetic Prism (KLR) 264
+4 Reckless Fireweaver (KLR) 141
+4 Renegade Map (KLR) 265
+4 Reservoir Walker (KLR) 266
+4 Revoke Privileges (KLR) 29
+4 Revolutionary Rebuff (KLR) 62
+4 Riparian Tiger (KLR) 178
+4 Ruinous Gremlin (KLR) 142
+4 Rush of Vitality (KLR) 105
+4 Sage of Shaila's Claim (KLR) 181
+4 Salivating Gremlins (KLR) 143
+4 Select for Inspection (KLR) 63
+4 Self-Assembler (KLR) 269
+4 Shipwreck Moray (KLR) 65
+4 Sky Skiff (KLR) 271
+4 Spireside Infiltrator (KLR) 148
+4 Subtle Strike (KLR) 107
+4 Sweatworks Brawler (KLR) 149
+4 Tezzeret's Ambition (KLR) 68
+4 Thriving Rhino (KLR) 183
+4 Thriving Turtle (KLR) 69
+4 Unbridled Growth (KLR) 184
+4 Universal Solvent (KLR) 273
+4 Weldfast Monitor (KLR) 275
+4 Weldfast Wingsmith (KLR) 72
+
+
+### New Deck
+
+4 Welding Sparks (KLR) 150
+4 Wild Wanderer (KLR) 186
+4 Woodweaver's Puzzleknot (KLR) 277
+4 Workshop Assistant (KLR) 278
+
+### The Last Deck has 16 cards in it.

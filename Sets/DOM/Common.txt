@@ -1,0 +1,120 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academy Drake (DOM) 40
+4 Academy Journeymage (DOM) 41
+4 Adamant Will (DOM) 2
+4 Adventurous Impulse (DOM) 153
+4 Aesthir Glider (DOM) 209
+4 Ancient Animus (DOM) 154
+4 Arbor Armament (DOM) 155
+4 Arcane Flight (DOM) 43
+4 Artificer's Assistant (DOM) 44
+4 Aven Sentry (DOM) 3
+4 Baloth Gorger (DOM) 156
+4 Befuddle (DOM) 45
+4 Benalish Honor Guard (DOM) 5
+4 Blessed Light (DOM) 7
+4 Blessing of Belzenlok (DOM) 77
+4 Blink of an Eye (DOM) 46
+4 Bloodstone Goblin (DOM) 115
+4 Bloodtallow Candle (DOM) 212
+4 Broken Bond (DOM) 157
+4 Cabal Evangel (DOM) 78
+4 Cabal Paladin (DOM) 79
+4 Caligo Skin-Witch (DOM) 80
+4 Call the Cavalry (DOM) 9
+4 Charge (DOM) 10
+4 Cloudreader Sphinx (DOM) 47
+4 Cold-Water Snapper (DOM) 48
+4 Corrosive Ooze (DOM) 158
+4 D'Avenant Trapper (DOM) 11
+4 Dark Bargain (DOM) 83
+4 Deathbloom Thallid (DOM) 84
+4 Deep Freeze (DOM) 50
+4 Demonic Vigor (DOM) 85
+4 Divest (DOM) 87
+4 Divination (DOM) 52
+4 Drudge Sentinel (DOM) 89
+4 Dub (DOM) 15
+4 Eviscerate (DOM) 91
+4 Excavation Elephant (DOM) 17
+4 Feral Abomination (DOM) 92
+4 Fervent Strike (DOM) 117
+4 Fiery Intervention (DOM) 118
+4 Fire Elemental (DOM) 120
+4 Frenzied Rage (DOM) 124
+4 Fungal Infection (DOM) 94
+4 Gaea's Protector (DOM) 162
+4 Ghitu Chronicler (DOM) 125
+4 Ghitu Journeymage (DOM) 126
+4 Ghitu Lavarunner (DOM) 127
+4 Gideon's Reproach (DOM) 19
+4 Gift of Growth (DOM) 163
+
+
+### New Deck
+
+4 Grow from the Ashes (DOM) 164
+4 Guardians of Koilos (DOM) 216
+4 Healing Grace (DOM) 20
+4 Homarid Explorer (DOM) 53
+4 Invoke the Divine (DOM) 22
+4 Jousting Lance (DOM) 221
+4 Keldon Overseer (DOM) 134
+4 Keldon Raider (DOM) 135
+4 Keldon Warcaller (DOM) 136
+4 Knight of New Benalia (DOM) 24
+4 Krosan Druid (DOM) 167
+4 Llanowar Elves (DOM) 168
+4 Llanowar Envoy (DOM) 169
+4 Llanowar Scout (DOM) 170
+4 Mammoth Spider (DOM) 171
+4 Meandering River (DOM) 274
+4 Mesa Unicorn (DOM) 27
+4 Navigator's Compass (DOM) 225
+4 Opt (DOM) 60
+4 Pardic Wanderer (DOM) 226
+4 Pegasus Courser (DOM) 29
+4 Pierce the Sky (DOM) 176
+4 Powerstone Shard (DOM) 227
+4 Primordial Wurm (DOM) 177
+4 Pyromantic Pilgrim (DOM) 278
+4 Radiating Lightning (DOM) 138
+4 Rampaging Cyclops (DOM) 139
+4 Rat Colony (DOM) 101
+4 Relic Runner (DOM) 62
+4 Rescue (DOM) 63
+4 Run Amok (DOM) 140
+4 Saproling Migration (DOM) 178
+4 Seismic Shift (DOM) 141
+4 Sergeant-at-Arms (DOM) 32
+4 Serra Disciple (DOM) 34
+4 Shivan Fire (DOM) 142
+4 Short Sword (DOM) 229
+4 Skirk Prospector (DOM) 144
+4 Skittering Surveyor (DOM) 230
+4 Soul Salvage (DOM) 104
+4 Sparring Construct (DOM) 232
+4 Stronghold Confessor (DOM) 105
+4 Syncopate (DOM) 67
+4 Temporal Machinations (DOM) 271
+4 Thallid Omnivore (DOM) 106
+4 Timber Gorge (DOM) 279
+4 Tolarian Scholar (DOM) 71
+4 Tragic Poet (DOM) 37
+4 Unwind (DOM) 72
+4 Vicious Offering (DOM) 110
+
+
+### New Deck
+
+4 Vodalian Arcanist (DOM) 73
+4 Voltaic Servant (DOM) 236
+4 Warlord's Fury (DOM) 151
+4 Windgrace Acolyte (DOM) 112
+4 Yavimaya Sapherd (DOM) 189
+
+### The Last Deck has 20 cards in it.

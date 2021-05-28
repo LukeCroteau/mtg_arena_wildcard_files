@@ -1,0 +1,97 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aegis of the Heavens (M19) 1
+4 Aerial Engineer (M19) 211
+4 Aether Tunnel (M19) 43
+4 Aethershield Artificer (M19) 2
+4 Air Elemental (M19) 308
+4 Ajani's Pridemate (M19) 5
+4 Ajani's Welcome (M19) 6
+4 Arcane Encyclopedia (M19) 227
+4 Arisen Gorgon (M19) 292
+4 Blanchwood Armor (M19) 169
+4 Blood Divination (M19) 86
+4 Bone to Ash (M19) 47
+4 Brawl-Bash Ogre (M19) 213
+4 Colossal Majesty (M19) 173
+4 Court Cleric (M19) 283
+4 Declare Dominance (M19) 175
+4 Departed Deckhand (M19) 49
+4 Diamond Mare (M19) 231
+4 Diregraf Ghoul (M19) 92
+4 Doublecast (M19) 137
+4 Draconic Disciple (M19) 215
+4 Dragon Egg (M19) 138
+4 Druid of Horns (M19) 176
+4 Dryad Greenseeker (M19) 178
+4 Enigma Drake (M19) 216
+4 Exclusion Mage (M19) 55
+4 Fell Specter (M19) 96
+4 Fiery Finish (M19) 140
+4 Fountain of Renewal (M19) 235
+4 Gargoyle Sentinel (M19) 236
+4 Ghastbark Twins (M19) 181
+4 Ghirapur Guide (M19) 182
+4 Gift of Paradise (M19) 184
+4 Gravedigger (M19) 98
+4 Guttersnipe (M19) 145
+4 Herald of Faith (M19) 13
+4 Heroic Reinforcements (M19) 217
+4 Hieromancer's Cage (M19) 14
+4 Horizon Scholar (M19) 59
+4 Inferno Hellion (M19) 148
+4 Knightly Valor (M19) 20
+4 Leonin Vanguard (M19) 22
+4 Lightning Mare (M19) 151
+4 Lightning Strike (M19) 152
+4 Make a Stand (M19) 26
+4 Meteor Golem (M19) 241
+4 Militia Bugler (M19) 29
+4 Millstone (M19) 242
+4 Mirror Image (M19) 61
+4 Murder (M19) 110
+
+
+### New Deck
+
+4 Nightmare's Thirst (M19) 111
+4 Novice Knight (M19) 30
+4 Plague Mare (M19) 114
+4 Poison-Tip Archer (M19) 220
+4 Psychic Corrosion (M19) 68
+4 Psychic Symbiont (M19) 221
+4 Ravenous Harpy (M19) 115
+4 Reassembling Skeleton (M19) 116
+4 Reclamation Sage (M19) 196
+4 Recollect (M19) 197
+4 Regal Bloodlord (M19) 222
+4 Reliquary Tower (M19) 254
+4 Rise from the Grave (M19) 117
+4 Rogue's Gloves (M19) 243
+4 Rupture Spire (M19) 255
+4 Sarkhan's Whelp (M19) 299
+4 Satyr Enchanter (M19) 223
+4 Shield Mare (M19) 37
+4 Siegebreaker Giant (M19) 157
+4 Sift (M19) 72
+4 Skilled Animator (M19) 73
+4 Skyrider Patrol (M19) 224
+4 Sleep (M19) 74
+4 Stitcher's Supplier (M19) 121
+4 Surge Mare (M19) 77
+4 Suspicious Bookcase (M19) 246
+4 Switcheroo (M19) 78
+4 Tectonic Rift (M19) 162
+4 Tezzeret's Strider (M19) 290
+4 Thud (M19) 163
+4 Vampire Sovereign (M19) 125
+4 Vigilant Baloth (M19) 206
+4 Vine Mare (M19) 207
+4 Vivien's Jaguar (M19) 305
+4 Volcanic Dragon (M19) 167
+4 Volley Veteran (M19) 168
+
+### The Last Deck has 144 cards in it.

@@ -1,0 +1,24 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Allosaurus Shepherd (JMP) 28
+4 Bruvac the Grandiloquent (JMP) 10
+4 Craterhoof Behemoth (JMP) 385
+4 Drana, Liberator of Malakir (JMP) 225
+4 Emiel the Blessed (JMP) 3
+4 Ghoulcaller Gisa (JMP) 236
+4 Immolating Gyre (JMP) 20
+4 Linvala, Keeper of Silence (JMP) 119
+4 Maelstrom Archangel (JMP) 454
+4 Mikaeus, the Lunarch (JMP) 123
+4 Primeval Bounty (JMP) 421
+4 Rise of the Dark Realms (JMP) 271
+4 Selvala, Heart of the Wilds (JMP) 429
+4 Sheoldred, Whispering One (JMP) 278
+4 Tinybones, Trinket Thief (JMP) 17
+4 Towering Titan (JMP) 31
+4 Ulvenwald Hydra (JMP) 439
+
+### The Last Deck has 68 cards in it.

@@ -1,0 +1,73 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angrath's Ambusher (RIX) 202
+4 Aquatic Incursion (RIX) 32
+4 Arterial Flow (RIX) 62
+4 Atzocan Seer (RIX) 153
+4 Baffling End (RIX) 1
+4 Blazing Hope (RIX) 3
+4 Cacophodon (RIX) 123
+4 Charging Tuskodon (RIX) 97
+4 Cherished Hatchling (RIX) 124
+4 Crested Herdcaller (RIX) 126
+4 Curious Obsession (RIX) 35
+4 Daring Buccaneer (RIX) 98
+4 Deadeye Brawler (RIX) 155
+4 Dire Fleet Neckbreaker (RIX) 156
+4 Enter the Unknown (RIX) 128
+4 Everdawn Champion (RIX) 6
+4 Expel from Orazca (RIX) 37
+4 Famished Paladin (RIX) 8
+4 Flood of Recollection (RIX) 38
+4 Forerunner of the Coalition (RIX) 72
+4 Forerunner of the Empire (RIX) 102
+4 Forerunner of the Heralds (RIX) 129
+4 Forerunner of the Legion (RIX) 9
+4 Forsaken Sanctuary (RIX) 187
+4 Foul Orchard (RIX) 188
+4 Golden Demise (RIX) 73
+4 Highland Lake (RIX) 189
+4 Hornswoggle (RIX) 39
+4 Imperial Ceratops (RIX) 10
+4 Jungle Creeper (RIX) 161
+4 Legion Lieutenant (RIX) 163
+4 Majestic Heliopterus (RIX) 13
+4 Mausoleum Harpy (RIX) 78
+4 Merfolk Mistbinder (RIX) 164
+4 Needletooth Raptor (RIX) 107
+4 Oathsworn Vampire (RIX) 80
+4 Pirate's Pillage (RIX) 109
+4 Pitiless Plunderer (RIX) 81
+4 Pride of Conquerors (RIX) 17
+4 Raging Regisaur (RIX) 168
+4 Ravenous Chupacabra (RIX) 82
+4 Reaver Ambush (RIX) 83
+4 Reckless Rage (RIX) 110
+4 Relentless Raptor (RIX) 169
+4 Resplendent Griffin (RIX) 170
+4 Riverwise Augur (RIX) 48
+4 Sadistic Skymarcher (RIX) 85
+4 See Red (RIX) 112
+4 Shake the Foundations (RIX) 113
+4 Silvergill Adept (RIX) 53
+
+
+### New Deck
+
+4 Siren Reaver (RIX) 54
+4 Skymarcher Aspirant (RIX) 21
+4 Slippery Scoundrel (RIX) 55
+4 Stone Quarry (RIX) 190
+4 Storm Fleet Sprinter (RIX) 172
+4 Storm Fleet Swashbuckler (RIX) 117
+4 Strength of the Pack (RIX) 145
+4 Swift Warden (RIX) 146
+4 Thrashing Brontodon (RIX) 148
+4 Thunderherd Migration (RIX) 149
+4 Vraska's Conquistador (RIX) 199
+4 Woodland Stream (RIX) 191
+
+### The Last Deck has 48 cards in it.

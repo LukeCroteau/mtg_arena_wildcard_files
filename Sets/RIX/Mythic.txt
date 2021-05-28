@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angrath, Minotaur Pirate (RIX) 201
+4 Angrath, the Flame-Chained (RIX) 152
+4 Azor's Gateway // Sanctum of the Sun (RIX) 176
+4 Azor, the Lawbringer (RIX) 154
+4 Elenda, the Dusk Rose (RIX) 157
+4 Huatli, Radiant Champion (RIX) 159
+4 Kumena, Tyrant of Orazca (RIX) 162
+4 Polyraptor (RIX) 144
+4 Rekindling Phoenix (RIX) 111
+4 The Immortal Sun (RIX) 180
+4 Timestream Navigator (RIX) 59
+4 Trapjaw Tyrant (RIX) 29
+4 Twilight Prophet (RIX) 88
+4 Vraska, Scheming Gorgon (RIX) 197
+4 Zacama, Primal Calamity (RIX) 174
+
+### The Last Deck has 60 cards in it.

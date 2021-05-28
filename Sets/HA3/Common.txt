@@ -1,0 +1,11 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Gempalm Polluter (HA3) 11
+4 Krosan Tusker (HA3) 21
+4 Momentary Blink (HA3) 3
+4 Silent Departure (HA3) 8
+
+### The Last Deck has 16 cards in it.

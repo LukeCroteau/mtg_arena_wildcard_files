@@ -1,0 +1,98 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani's Chosen (JMP) 82
+4 Angel of the Dire Hour (JMP) 85
+4 Angelic Arbiter (JMP) 86
+4 Archon of Justice (JMP) 89
+4 Archon of Redemption (JMP) 90
+4 Assault Formation (JMP) 378
+4 Ball Lightning (JMP) 291
+4 Black Market (JMP) 204
+4 Blessed Sanctuary (JMP) 1
+4 Bogbrew Witch (JMP) 211
+4 Branching Evolution (JMP) 29
+4 Cathars' Crusade (JMP) 95
+4 Celestial Mantle (JMP) 96
+4 Chamber Sentry (JMP) 461
+4 Champion of Lambholt (JMP) 383
+4 Charmbreaker Devils (JMP) 303
+4 Corsair Captain (JMP) 11
+4 Cradle of Vitality (JMP) 98
+4 Dualcaster Mage (JMP) 313
+4 Duelist's Heritage (JMP) 101
+4 Elvish Archdruid (JMP) 391
+4 Etali, Primal Storm (JMP) 314
+4 Exquisite Blood (JMP) 231
+4 Ghalta, Primal Hunger (JMP) 399
+4 Goblin Chieftain (JMP) 324
+4 Goblin Goon (JMP) 326
+4 Gonti, Lord of Luxury (JMP) 240
+4 Gravewaker (JMP) 241
+4 Grim Lavamancer (JMP) 331
+4 Hamletback Goliath (JMP) 332
+4 Harvester of Souls (JMP) 243
+4 Hellrider (JMP) 334
+4 High Sentinels of Arashin (JMP) 108
+4 Inniaz, the Gale Force (JMP) 12
+4 Isamaru, Hound of Konda (JMP) 113
+4 Kels, Fight Fixer (JMP) 15
+4 Kira, Great Glass-Spinner (JMP) 154
+4 Kor Spiritdancer (JMP) 116
+4 Krenko, Mob Boss (JMP) 339
+4 Languish (JMP) 246
+4 Lathliss, Dragon Queen (JMP) 340
+4 Lena, Selfless Champion (JMP) 117
+4 Lightning Phoenix (JMP) 21
+4 Liliana's Reaver (JMP) 251
+4 Lurking Predators (JMP) 410
+4 Magmaquake (JMP) 347
+4 Mentor of the Meek (JMP) 121
+4 Momentous Fall (JMP) 411
+4 Muxus, Goblin Grandee (JMP) 24
+4 Mystic Archaeologist (JMP) 158
+
+
+### New Deck
+
+4 Neyith of the Dire Hunt (JMP) 30
+4 Nyxathid (JMP) 259
+4 Ogre Slumlord (JMP) 260
+4 Oracle of Mul Daya (JMP) 415
+4 Ormos, Archive Keeper (JMP) 13
+4 Path of Bravery (JMP) 126
+4 Phyrexian Tower (JMP) 493
+4 Primordial Sage (JMP) 422
+4 Rageblood Shaman (JMP) 357
+4 Rampaging Brontodon (JMP) 423
+4 Rattlechains (JMP) 166
+4 Ravenous Baloth (JMP) 424
+4 Read the Runes (JMP) 167
+4 Reanimate (JMP) 270
+4 Rhox Faithmender (JMP) 130
+4 Rhystic Study (JMP) 169
+4 Riptide Laboratory (JMP) 494
+4 Rishkar, Peema Renegade (JMP) 425
+4 Sangromancer (JMP) 272
+4 Sarkhan's Unsealing (JMP) 361
+4 Scarecrone (JMP) 482
+4 Scholar of the Lost Trove (JMP) 14
+4 Scourge of Nel Toth (JMP) 274
+4 Serendib Efreet (JMP) 175
+4 Sethron, Hurloon General (JMP) 25
+4 Sharding Sphinx (JMP) 176
+4 Sin Prodder (JMP) 363
+4 Soul of the Harvest (JMP) 432
+4 Steel-Plume Marshal (JMP) 5
+4 Talrand, Sky Summoner (JMP) 181
+4 Thragtusk (JMP) 436
+4 Vedalken Archmage (JMP) 187
+4 Verdant Embrace (JMP) 441
+4 Whelming Wave (JMP) 193
+4 Windreader Sphinx (JMP) 194
+4 Witch of the Moors (JMP) 18
+4 Zurzoth, Chaos Rider (JMP) 27
+
+### The Last Deck has 148 cards in it.

@@ -1,0 +1,96 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alpine Houndmaster (M21) 215
+4 Angelic Ascension (M21) 3
+4 Archfiend's Vessel (M21) 88
+4 Aven Gagglemaster (M21) 5
+4 Bad Deal (M21) 89
+4 Basri's Solidarity (M21) 10
+4 Battle-Rattle Shaman (M21) 130
+4 Bolt Hound (M21) 131
+4 Burlfist Oak (M21) 174
+4 Canopy Stalker (M21) 175
+4 Carrion Grub (M21) 92
+4 Chandra's Pyreling (M21) 138
+4 Chrome Replicator (M21) 229
+4 Conclave Mentor (M21) 216
+4 Cultivate (M21) 177
+4 Dire Fleet Warmonger (M21) 217
+4 Eliminate (M21) 97
+4 Enthralling Hold (M21) 49
+4 Epitaph Golem (M21) 230
+4 Experimental Overload (M21) 218
+4 Faith's Fetters (M21) 17
+4 Falconer Adept (M21) 18
+4 Fierce Empath (M21) 181
+4 Fungal Rebirth (M21) 182
+4 Furious Rise (M21) 144
+4 Garruk's Uprising (M21) 186
+4 Goremand (M21) 101
+4 Griffin Aerie (M21) 22
+4 Havoc Jester (M21) 149
+4 Heartfire Immolator (M21) 150
+4 Hellkite Punisher (M21) 151
+4 Historian of Zhalfir (M21) 325
+4 Indulging Patrician (M21) 219
+4 Invigorating Surge (M21) 190
+4 Jeskai Elder (M21) 53
+4 Keral Keep Disciples (M21) 334
+4 Kinetic Augur (M21) 154
+4 Kitesail Freebooter (M21) 107
+4 Leafkin Avenger (M21) 220
+4 Light of Promise (M21) 25
+4 Liliana's Devotee (M21) 109
+4 Liliana's Scrounger (M21) 330
+4 Lorescale Coatl (M21) 221
+4 Malefic Scythe (M21) 112
+4 Meteorite (M21) 233
+4 Miscast (M21) 57
+4 Obsessive Stitcher (M21) 223
+4 Palladium Myr (M21) 234
+4 Pestilent Haze (M21) 118
+4 Predatory Wurm (M21) 338
+
+
+### New Deck
+
+4 Quirion Dryad (M21) 198
+4 Rain of Revelation (M21) 61
+4 Rewind (M21) 63
+4 Riddleform (M21) 64
+4 Sanctum of Calm Waters (M21) 68
+4 Sanctum of Fruitful Harvest (M21) 203
+4 Sanctum of Shattered Heights (M21) 157
+4 Sanctum of Stone Fangs (M21) 120
+4 Sanctum of Tranquil Light (M21) 33
+4 Seasoned Hallowblade (M21) 34
+4 Selfless Savior (M21) 36
+4 Shipwreck Dowser (M21) 71
+4 Siege Striker (M21) 37
+4 Sigiled Contender (M21) 323
+4 Silversmote Ghoul (M21) 122
+4 Skyway Sniper (M21) 206
+4 Soul Sear (M21) 160
+4 Tavern Swindler (M21) 124
+4 Teferi's Tutelage (M21) 78
+4 Tempered Veteran (M21) 41
+4 Thrashing Brontodon (M21) 209
+4 Tide Skimmer (M21) 79
+4 Tolarian Kraken (M21) 80
+4 Tormod's Crypt (M21) 241
+4 Traitorous Greed (M21) 166
+4 Twinblade Assassins (M21) 226
+4 Unleash Fury (M21) 170
+4 Unsubstantiate (M21) 82
+4 Volcanic Geyser (M21) 171
+4 Vryn Wingmare (M21) 43
+4 Waker of Waves (M21) 84
+4 Warden of the Woods (M21) 213
+4 Watcher of the Spheres (M21) 227
+4 Wildwood Scourge (M21) 214
+4 Witch's Cauldron (M21) 129
+
+### The Last Deck has 140 cards in it.

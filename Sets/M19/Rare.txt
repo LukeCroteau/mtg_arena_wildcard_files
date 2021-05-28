@@ -1,0 +1,74 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aggressive Mammoth (M19) 302
+4 Ajani's Influence (M19) 282
+4 Ajani's Last Stand (M19) 4
+4 Alpine Moon (M19) 128
+4 Amulet of Safekeeping (M19) 226
+4 Banefire (M19) 130
+4 Chaos Wand (M19) 228
+4 Cleansing Nova (M19) 9
+4 Dark-Dweller Oracle (M19) 134
+4 Death Baron (M19) 90
+4 Demanding Dragon (M19) 135
+4 Demon of Catastrophes (M19) 91
+4 Desecrated Tomb (M19) 230
+4 Detection Tower (M19) 249
+4 Dismissive Pyromancer (M19) 136
+4 Djinn of Wishes (M19) 52
+4 Dragon's Hoard (M19) 232
+4 Elvish Clancaller (M19) 179
+4 Fraying Omnipotence (M19) 97
+4 Gigantosaurus (M19) 185
+4 Goblin Trashmaster (M19) 144
+4 Goreclaw, Terror of Qal Sisma (M19) 186
+4 Gravewaker (M19) 293
+4 Graveyard Marshal (M19) 99
+4 Hungering Hydra (M19) 189
+4 Infernal Reckoning (M19) 102
+4 Isareth the Awakener (M19) 104
+4 Isolate (M19) 17
+4 Lathliss, Dragon Queen (M19) 149
+4 Lena, Selfless Champion (M19) 21
+4 Leonin Warleader (M19) 23
+4 Liliana's Contract (M19) 107
+4 Liliana's Spoils (M19) 294
+4 Magistrate's Scepter (M19) 238
+4 Mentor of the Meek (M19) 27
+4 Metamorphic Alteration (M19) 60
+4 Mistcaller (M19) 62
+4 Mystic Archaeologist (M19) 63
+4 One with the Machine (M19) 66
+4 Open the Graves (M19) 112
+4 Patient Rebuilding (M19) 67
+4 Pelakka Wurm (M19) 192
+4 Phylactery Lich (M19) 113
+4 Prodigious Growth (M19) 194
+4 Remorseful Cleric (M19) 33
+4 Riddlemaster Sphinx (M19) 287
+4 Runic Armasaur (M19) 200
+4 Sai, Master Thopterist (M19) 69
+4 Sarkhan's Dragonfire (M19) 298
+4 Sarkhan's Unsealing (M19) 155
+
+
+### New Deck
+
+4 Serra's Guardian (M19) 284
+4 Shivan Dragon (M19) 300
+4 Sigiled Sword of Valeron (M19) 244
+4 Skalla Wolf (M19) 303
+4 Spit Flame (M19) 160
+4 Suncleanser (M19) 39
+4 Supreme Phantom (M19) 76
+4 Tezzeret's Gatebreaker (M19) 289
+4 Thorn Lieutenant (M19) 203
+4 Transmogrifying Wand (M19) 247
+4 Valiant Knight (M19) 42
+4 Vivien's Invocation (M19) 209
+4 Windreader Sphinx (M19) 84
+
+### The Last Deck has 52 cards in it.

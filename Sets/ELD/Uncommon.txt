@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 All That Glitters (ELD) 2
+4 Animating Faerie // Bring to Life (ELD) 38
+4 Arcanist's Owl (ELD) 206
+4 Archon of Absolution (ELD) 3
+4 Beanstalk Giant // Fertile Footsteps (ELD) 149
+4 Belle of the Brawl (ELD) 78
+4 Bog Naughty (ELD) 80
+4 Bramblefort Fink (ELD) 311
+4 Burning-Yard Trainer (ELD) 117
+4 Cauldron Familiar (ELD) 81
+4 Cauldron's Gift (ELD) 83
+4 Claim the Firstborn (ELD) 118
+4 Clockwork Servant (ELD) 216
+4 Covetous Urge (ELD) 207
+4 Deafening Silence (ELD) 10
+4 Deathless Knight (ELD) 208
+4 Drown in the Loch (ELD) 188
+4 Edgewall Innkeeper (ELD) 151
+4 Elite Headhunter (ELD) 209
+4 Embereth Shieldbreaker // Battle Display (ELD) 122
+4 Enchanted Carriage (ELD) 218
+4 Epic Downfall (ELD) 85
+4 Faerie Vandal (ELD) 45
+4 Ferocity of the Wilds (ELD) 123
+4 Fireborn Knight (ELD) 210
+4 Flaxen Intruder // Welcome Home (ELD) 155
+4 Foulmire Knight // Profane Insight (ELD) 90
+4 Frogify (ELD) 47
+4 Giant Opportunity (ELD) 159
+4 Glass Casket (ELD) 15
+4 Grumgully, the Generous (ELD) 192
+4 Heraldic Banner (ELD) 222
+4 Hypnotic Sprite // Mesmeric Glare (ELD) 49
+4 Improbable Alliance (ELD) 193
+4 Inquisitive Puppet (ELD) 223
+4 Inspiring Veteran (ELD) 194
+4 Into the Story (ELD) 50
+4 Joust (ELD) 129
+4 Keeper of Fables (ELD) 163
+4 Kenrith's Transformation (ELD) 164
+4 Loch Dragon (ELD) 211
+4 Lucky Clover (ELD) 226
+4 Mad Ratter (ELD) 130
+4 Maraleaf Pixie (ELD) 196
+4 Mysterious Pathlighter (ELD) 22
+4 Mystical Dispute (ELD) 58
+4 Oakhame Adversary (ELD) 167
+4 Oakhame Ranger // Bring Back (ELD) 212
+4 Once and Future (ELD) 168
+4 Order of Midnight // Alter Fate (ELD) 99
+
+
+### New Deck
+
+4 Overwhelmed Apprentice (ELD) 60
+4 Rally for the Throne (ELD) 25
+4 Rampart Smasher (ELD) 213
+4 Redcap Melee (ELD) 135
+4 Resolute Rider (ELD) 214
+4 Revenge of Ravens (ELD) 104
+4 Righteousness (ELD) 27
+4 Rowan's Battleguard (ELD) 306
+4 Sage of the Falls (ELD) 63
+4 Savvy Hunter (ELD) 200
+4 Shambling Suit (ELD) 230
+4 Shepherd of the Flock // Usher to Safety (ELD) 28
+4 Shinechaser (ELD) 201
+4 Skullknocker Ogre (ELD) 142
+4 Slaying Fire (ELD) 143
+4 Sorcerer's Broom (ELD) 232
+4 Specter's Shriek (ELD) 106
+4 Spinning Wheel (ELD) 234
+4 Steelclaw Lance (ELD) 202
+4 Syr Alin, the Lion's Claw (ELD) 32
+4 Syr Carah, the Bold (ELD) 145
+4 Syr Elenora, the Discerning (ELD) 67
+4 Syr Faren, the Hengehammer (ELD) 177
+4 Syr Konrad, the Grim (ELD) 107
+4 Thunderous Snapper (ELD) 215
+4 Tournament Grounds (ELD) 248
+4 Trail of Crumbs (ELD) 179
+4 Turn into a Pumpkin (ELD) 69
+4 Venerable Knight (ELD) 35
+4 Wandermare (ELD) 204
+4 Wintermoor Commander (ELD) 205
+4 Witch's Oven (ELD) 237
+
+### The Last Deck has 128 cards in it.

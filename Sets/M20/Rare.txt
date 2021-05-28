@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agent of Treachery (M20) 43
+4 Aggressive Mammoth (M20) 337
+4 Angelic Guardian (M20) 302
+4 Atemsis, All-Seeing (M20) 46
+4 Bag of Holding (M20) 222
+4 Bishop of Wings (M20) 8
+4 Brought Back (M20) 9
+4 Chandra's Flame Wave (M20) 295
+4 Chandra's Regulator (M20) 131
+4 Chandra, Acolyte of Flame (M20) 126
+4 Drakuseth, Maw of Flames (M20) 136
+4 Drawn from Dreams (M20) 56
+4 Dread Presence (M20) 96
+4 Dungeon Geists (M20) 57
+4 Elvish Reclaimer (M20) 169
+4 Embodiment of Agonies (M20) 98
+4 Ethereal Elk (M20) 299
+4 Field of the Dead (M20) 247
+4 Flood of Tears (M20) 59
+4 Gargos, Vicious Watcher (M20) 172
+4 Glint-Horn Buccaneer (M20) 141
+4 Goldmane Griffin (M20) 283
+4 Golos, Tireless Pilgrim (M20) 226
+4 Grafdigger's Cage (M20) 227
+4 Gravewaker (M20) 323
+4 Hanged Executioner (M20) 22
+4 Icon of Ancestry (M20) 229
+4 Immortal Phoenix (M20) 332
+4 Knight of the Ebon Legion (M20) 105
+4 Legion's End (M20) 106
+4 Leyline of Abundance (M20) 179
+4 Leyline of Anticipation (M20) 64
+4 Leyline of Combustion (M20) 148
+4 Leyline of Sanctity (M20) 26
+4 Leyline of the Void (M20) 107
+4 Lotus Field (M20) 249
+4 Loxodon Lifechanter (M20) 27
+4 Marauding Raptor (M20) 150
+4 Masterful Replication (M20) 65
+4 Mystic Forge (M20) 233
+4 Nightpack Ambusher (M20) 185
+4 Planar Cleansing (M20) 33
+4 Repeated Reverberation (M20) 156
+4 Riddlemaster Sphinx (M20) 317
+4 Rotting Regisaur (M20) 111
+4 Scheming Symmetry (M20) 113
+4 Sephara, Sky's Blade (M20) 36
+4 Serra's Guardian (M20) 310
+4 Shared Summons (M20) 193
+4 Shifting Ceratops (M20) 194
+
+
+### New Deck
+
+4 Shivan Dragon (M20) 335
+4 Sorin's Guide (M20) 292
+4 Starfield Mystic (M20) 39
+4 Steel Overseer (M20) 239
+4 Tale's End (M20) 77
+4 Temple of Epiphany (M20) 253
+4 Temple of Malady (M20) 254
+4 Temple of Mystery (M20) 255
+4 Temple of Silence (M20) 256
+4 Temple of Triumph (M20) 257
+4 Thunderkin Awakener (M20) 162
+4 Vilis, Broker of Blood (M20) 122
+4 Voracious Hydra (M20) 200
+4 Wakeroot Elemental (M20) 202
+4 Yanling's Harbinger (M20) 289
+
+### The Last Deck has 60 cards in it.

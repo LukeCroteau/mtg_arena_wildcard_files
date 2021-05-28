@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Acolyte of Affliction (THB) 206
+4 Agonizing Remorse (THB) 83
+4 Alirios, Enraptured (THB) 42
+4 Alseid of Life's Bounty (THB) 1
+4 Anax, Hardened in the Forge (THB) 125
+4 Archon of Falling Stars (THB) 2
+4 Banishing Light (THB) 4
+4 Blood Aspirant (THB) 128
+4 Callaphe, Beloved of the Sea (THB) 45
+4 Careless Celebrant (THB) 129
+4 Chainweb Aracnir (THB) 167
+4 Cling to Dust (THB) 87
+4 Commanding Presence (THB) 7
+4 Dawn Evangel (THB) 8
+4 Daxos, Blessed by the Sun (THB) 9
+4 Destiny Spinner (THB) 168
+4 Devourer of Memory (THB) 213
+4 Drag to the Underworld (THB) 89
+4 Dreamshaper Shaman (THB) 130
+4 Dreamstalker Manticore (THB) 131
+4 Eidolon of Inspiration (THB) 271
+4 Elspeth's Nightmare (THB) 91
+4 Enemy of Enlightenment (THB) 92
+4 Entrancing Lyre (THB) 233
+4 Escape Velocity (THB) 132
+4 Eutropia the Twice-Favored (THB) 216
+4 Fateful End (THB) 133
+4 Favored of Iroas (THB) 15
+4 Field of Ruin (THB) 242
+4 Furious Rise (THB) 136
+4 Glimpse of Freedom (THB) 50
+4 Gray Merchant of Asphodel (THB) 99
+4 Hateful Eidolon (THB) 101
+4 Heliod's Punishment (THB) 21
+4 Hero of the Nyxborn (THB) 219
+4 Hero of the Winds (THB) 23
+4 Heroes of the Revel (THB) 138
+4 Hydra's Growth (THB) 172
+4 Impending Doom (THB) 139
+4 Inevitable End (THB) 102
+4 Klothys's Design (THB) 176
+4 Lagonna-Band Storyteller (THB) 27
+4 Medomai's Prophecy (THB) 53
+4 Minion's Return (THB) 104
+4 Mire Triton (THB) 105
+4 Mirror Shield (THB) 234
+4 Mischievous Chimera (THB) 223
+4 Mystic Repeal (THB) 180
+4 Nessian Hornbeetle (THB) 182
+4 Nessian Wanderer (THB) 183
+
+
+### New Deck
+
+4 Nyx Herald (THB) 189
+4 One with the Stars (THB) 59
+4 Phalanx Tactics (THB) 31
+4 Pharika's Spawn (THB) 112
+4 Pheres-Band Brawler (THB) 193
+4 Renata, Called to the Hunt (THB) 196
+4 Reverent Hoplite (THB) 33
+4 Rise to Glory (THB) 225
+4 Sage of Mysteries (THB) 62
+4 Sea God's Scorn (THB) 63
+4 Setessan Petitioner (THB) 199
+4 Shimmerwing Chimera (THB) 64
+4 Shoal Kraken (THB) 65
+4 Siona, Captain of the Pyleas (THB) 226
+4 Skophos Maze-Warden (THB) 153
+4 Slaughter-Priest of Mogis (THB) 227
+4 Soul-Guide Lantern (THB) 237
+4 Staggering Insight (THB) 228
+4 Stinging Lionfish (THB) 69
+4 Sweet Oblivion (THB) 70
+4 Swimmer in Nightmares (THB) 275
+4 The Binding of the Titans (THB) 166
+4 The Birth of Meletis (THB) 5
+4 The Triumph of Anax (THB) 160
+4 Threnody Singer (THB) 75
+4 Thundering Chariot (THB) 239
+4 Tymaret, Chosen from Death (THB) 119
+4 Underworld Dreams (THB) 121
+4 Underworld Fires (THB) 162
+4 Warden of the Chained (THB) 230
+4 Whirlwind Denial (THB) 81
+4 Wolfwillow Haven (THB) 205
+
+### The Last Deck has 128 cards in it.

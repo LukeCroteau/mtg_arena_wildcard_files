@@ -1,0 +1,24 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Admiral Beckett Brass (XLN) 217
+4 Axis of Mortality (XLN) 3
+4 Boneyard Parley (XLN) 94
+4 Carnage Tyrant (XLN) 179
+4 Dire Fleet Ravager (XLN) 104
+4 Gishath, Sun's Avatar (XLN) 222
+4 Huatli, Dinosaur Knight (XLN) 285
+4 Huatli, Warrior Poet (XLN) 224
+4 Jace, Cunning Castaway (XLN) 60
+4 Jace, Ingenious Mind-Mage (XLN) 280
+4 Overflowing Insight (XLN) 66
+4 Rowdy Crew (XLN) 159
+4 Star of Extinction (XLN) 161
+4 Tishana, Voice of Thunder (XLN) 230
+4 Vona, Butcher of Magan (XLN) 231
+4 Vraska, Relic Seeker (XLN) 232
+4 Wakening Sun's Avatar (XLN) 44
+
+### The Last Deck has 68 cards in it.

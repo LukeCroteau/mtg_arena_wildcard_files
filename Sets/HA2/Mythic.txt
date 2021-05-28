@@ -1,0 +1,9 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Dragonmaster Outcast (HA2) 11
+4 Platinum Angel (HA2) 18
+
+### The Last Deck has 8 cards in it.

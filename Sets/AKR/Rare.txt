@@ -1,0 +1,86 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abandoned Sarcophagus (AKR) 268
+4 Anger of the Gods (AKR) 138
+4 Anointed Procession (AKR) 2
+4 Approach of the Second Sun (AKR) 4
+4 Archfiend of Ifnir (AKR) 91
+4 Aven Mindcensor (AKR) 5
+4 Bontu's Last Reckoning (AKR) 96
+4 Canyon Slough (AKR) 284
+4 Cascading Cataracts (AKR) 285
+4 Champion of Rhonas (AKR) 185
+4 Champion of Wits (AKR) 53
+4 Collected Company (AKR) 186
+4 Commit // Memory (AKR) 54
+4 Curator of Mysteries (AKR) 58
+4 Cut // Ribbons (AKR) 231
+4 Dispossess (AKR) 100
+4 Drake Haven (AKR) 59
+4 Dread Wanderer (AKR) 103
+4 Driven // Despair (AKR) 233
+4 Dusk // Dawn (AKR) 16
+4 Earthshaker Khenra (AKR) 152
+4 Failure // Comply (AKR) 235
+4 Fetid Pools (AKR) 293
+4 Gideon's Intervention (AKR) 20
+4 Glory-Bound Initiate (AKR) 21
+4 Glorybringer (AKR) 157
+4 God-Pharaoh's Gift (AKR) 272
+4 Grind // Dust (AKR) 237
+4 Hapatra, Vizier of Poisons (AKR) 238
+4 Harsh Mentor (AKR) 158
+4 Heaven // Earth (AKR) 239
+4 Hollow One (AKR) 274
+4 Hour of Devastation (AKR) 160
+4 Hour of Promise (AKR) 197
+4 Hour of Revelation (AKR) 23
+4 Imminent Doom (AKR) 161
+4 Insult // Injury (AKR) 162
+4 Irrigated Farmland (AKR) 304
+4 Leave // Chance (AKR) 242
+4 Liliana's Mastery (AKR) 113
+4 Lord of Extinction (AKR) 244
+4 Mirage Mirror (AKR) 276
+4 Mouth // Feed (AKR) 202
+4 Neheb, the Worthy (AKR) 246
+4 Never // Return (AKR) 118
+4 New Perspectives (AKR) 70
+4 Nimble Obstructionist (AKR) 71
+4 Pact of Negation (AKR) 73
+4 Perilous Vault (AKR) 278
+4 Prepare // Fight (AKR) 251
+
+
+### New Deck
+
+4 Pride Sovereign (AKR) 208
+4 Prowling Serpopard (AKR) 209
+4 Pull from Tomorrow (AKR) 74
+4 Rags // Riches (AKR) 252
+4 Ramunap Excavator (AKR) 211
+4 Reason // Believe (AKR) 253
+4 Refuse // Cooperate (AKR) 255
+4 Regal Caracal (AKR) 339
+4 Resilient Khenra (AKR) 212
+4 Rest in Peace (AKR) 33
+4 Sandwurm Convergence (AKR) 215
+4 Scattered Groves (AKR) 327
+4 Scavenger Grounds (AKR) 328
+4 Shadow of the Grave (AKR) 123
+4 Shatterstorm (AKR) 174
+4 Sheltered Thicket (AKR) 330
+4 Solemnity (AKR) 35
+4 Soul-Scar Mage (AKR) 175
+4 Sweltering Suns (AKR) 176
+4 Temmet, Vizier of Naktamun (AKR) 266
+4 Thoughtseize (AKR) 127
+4 Throne of the God-Pharaoh (AKR) 281
+4 Torment of Hailfire (AKR) 128
+4 Vizier of Many Faces (AKR) 87
+4 Wrath of God (AKR) 46
+
+### The Last Deck has 100 cards in it.

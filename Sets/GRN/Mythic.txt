@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arclight Phoenix (GRN) 91
+4 Aurelia, Exemplar of Justice (GRN) 153
+4 Chance for Glory (GRN) 159
+4 Divine Visitation (GRN) 10
+4 Doom Whisperer (GRN) 69
+4 Dream Eater (GRN) 38
+4 Impervious Greatwurm (GRN) 273
+4 Lazav, the Multifarious (GRN) 184
+4 March of the Multitudes (GRN) 188
+4 Mnemonic Betrayal (GRN) 189
+4 Nullhide Ferox (GRN) 138
+4 Ral, Caller of Storms (GRN) 265
+4 Ral, Izzet Viceroy (GRN) 195
+4 Thousand-Year Storm (GRN) 207
+4 Trostani Discordant (GRN) 208
+4 Underrealm Lich (GRN) 211
+4 Vraska, Golgari Queen (GRN) 213
+4 Vraska, Regal Gorgon (GRN) 269
+
+### The Last Deck has 72 cards in it.

@@ -1,0 +1,14 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abomination of Llanowar (HA4) 20
+4 Coldsteel Heart (HA4) 22
+4 Faith of the Devoted (HA4) 10
+4 Flameblade Adept (HA4) 12
+4 Hamza, Guardian of Arashin (HA4) 18
+4 Spider Spawning (HA4) 17
+4 Torment of Scarabs (HA4) 11
+
+### The Last Deck has 28 cards in it.

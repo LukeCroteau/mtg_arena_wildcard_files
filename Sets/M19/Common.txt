@@ -1,0 +1,138 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abnormal Endurance (M19) 85
+4 Act of Treason (M19) 127
+4 Angel of the Dawn (M19) 7
+4 Anticipate (M19) 44
+4 Aven Wind Mage (M19) 45
+4 Aviation Pioneer (M19) 46
+4 Befuddle (M19) 309
+4 Boggart Brute (M19) 131
+4 Bogstomper (M19) 87
+4 Bristling Boar (M19) 170
+4 Cancel (M19) 48
+4 Catalyst Elemental (M19) 132
+4 Cavalry Drillmaster (M19) 8
+4 Centaur Courser (M19) 171
+4 Child of Night (M19) 89
+4 Cinder Barrens (M19) 248
+4 Colossal Dreadmaw (M19) 172
+4 Crash Through (M19) 133
+4 Daggerback Basilisk (M19) 174
+4 Daybreak Chaplain (M19) 10
+4 Disperse (M19) 50
+4 Divination (M19) 51
+4 Doomed Dissenter (M19) 93
+4 Druid of the Cowl (M19) 177
+4 Duress (M19) 94
+4 Dwarven Priest (M19) 11
+4 Dwindle (M19) 53
+4 Electrify (M19) 139
+4 Elvish Rejuvenator (M19) 180
+4 Epicure of Blood (M19) 95
+4 Essence Scatter (M19) 54
+4 Explosive Apparatus (M19) 233
+4 Field Creeper (M19) 234
+4 Fire Elemental (M19) 141
+4 Forsaken Sanctuary (M19) 250
+4 Foul Orchard (M19) 251
+4 Frilled Sea Serpent (M19) 56
+4 Gallant Cavalry (M19) 12
+4 Gearsmith Guardian (M19) 237
+4 Gearsmith Prodigy (M19) 57
+4 Ghostform (M19) 58
+4 Giant Spider (M19) 183
+4 Goblin Instigator (M19) 142
+4 Goblin Motivator (M19) 143
+4 Grasping Scoundrel (M19) 312
+4 Greenwood Sentinel (M19) 187
+4 Havoc Devils (M19) 146
+4 Highland Game (M19) 188
+4 Highland Lake (M19) 252
+4 Hired Blade (M19) 100
+
+
+### New Deck
+
+4 Hostile Minotaur (M19) 147
+4 Infectious Horror (M19) 101
+4 Infernal Scarring (M19) 103
+4 Inspired Charge (M19) 15
+4 Invoke the Divine (M19) 16
+4 Kargan Dragonrider (M19) 297
+4 Knight of the Tusk (M19) 18
+4 Knight's Pledge (M19) 19
+4 Lava Axe (M19) 150
+4 Lich's Caress (M19) 105
+4 Llanowar Elves (M19) 314
+4 Loxodon Line Breaker (M19) 24
+4 Luminous Bonds (M19) 25
+4 Macabre Waltz (M19) 108
+4 Manalith (M19) 239
+4 Marauder's Axe (M19) 240
+4 Meandering River (M19) 253
+4 Mighty Leap (M19) 28
+4 Mind Rot (M19) 109
+4 Mist-Cloaked Herald (M19) 310
+4 Naturalize (M19) 190
+4 Oakenform (M19) 191
+4 Omenspeaker (M19) 64
+4 Onakke Ogre (M19) 153
+4 Oreskos Swiftclaw (M19) 31
+4 Pegasus Courser (M19) 32
+4 Pendulum of Patterns (M19) 288
+4 Plummet (M19) 193
+4 Rabid Bite (M19) 195
+4 Radiating Lightning (M19) 313
+4 Revitalize (M19) 35
+4 Rhox Oracle (M19) 198
+4 Root Snare (M19) 199
+4 Rustwing Falcon (M19) 36
+4 Salvager of Secrets (M19) 70
+4 Scholar of Stars (M19) 71
+4 Shock (M19) 156
+4 Silverbeak Griffin (M19) 285
+4 Skeleton Archer (M19) 118
+4 Skymarch Bloodletter (M19) 119
+4 Skyscanner (M19) 245
+4 Smelt (M19) 158
+4 Snapping Drake (M19) 75
+4 Sovereign's Bite (M19) 120
+4 Sparktongue Dragon (M19) 159
+4 Star-Crowned Stag (M19) 38
+4 Stone Quarry (M19) 256
+4 Strangling Spores (M19) 122
+4 Submerged Boneyard (M19) 257
+4 Sun Sentinel (M19) 307
+
+
+### New Deck
+
+4 Sure Strike (M19) 161
+4 Take Vengeance (M19) 40
+4 Talons of Wildwood (M19) 202
+4 Tattered Mummy (M19) 295
+4 Thornhide Wolves (M19) 204
+4 Timber Gorge (M19) 258
+4 Titanic Growth (M19) 205
+4 Tolarian Scholar (M19) 80
+4 Tormenting Voice (M19) 164
+4 Totally Lost (M19) 81
+4 Tranquil Expanse (M19) 259
+4 Trumpet Blast (M19) 165
+4 Trusty Packbeast (M19) 41
+4 Two-Headed Zombie (M19) 123
+4 Uncomfortable Chill (M19) 82
+4 Ursine Champion (M19) 304
+4 Vampire Neonate (M19) 124
+4 Viashino Pyromancer (M19) 166
+4 Walking Corpse (M19) 126
+4 Wall of Mist (M19) 83
+4 Wall of Vines (M19) 210
+4 Waterknot (M19) 311
+4 Woodland Stream (M19) 260
+
+### The Last Deck has 92 cards in it.

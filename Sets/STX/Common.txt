@@ -1,0 +1,120 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ageless Guardian (STX) 8
+4 Arcane Subtraction (STX) 36
+4 Archway Commons (STX) 263
+4 Arrogant Poet (STX) 63
+4 Bayou Groff (STX) 121
+4 Beaming Defiance (STX) 9
+4 Biblioplex Assistant (STX) 251
+4 Big Play (STX) 122
+4 Biomathematician (STX) 164
+4 Blood Age General (STX) 93
+4 Blood Researcher (STX) 166
+4 Burrog Befuddler (STX) 38
+4 Bury in Books (STX) 39
+4 Campus Guide (STX) 252
+4 Charge Through (STX) 124
+4 Cogwork Archivist (STX) 254
+4 Combat Professor (STX) 11
+4 Cram Session (STX) 170
+4 Crushing Disappointment (STX) 68
+4 Curate (STX) 40
+4 Defend the Campus (STX) 12
+4 Dragon's Approach (STX) 97
+4 Eager First-Year (STX) 16
+4 Elemental Masterpiece (STX) 182
+4 Elemental Summoning (STX) 183
+4 Enthusiastic Study (STX) 99
+4 Environmental Sciences (STX) 1
+4 Essence Infusion (STX) 69
+4 Eureka Moment (STX) 184
+4 Excavated Wall (STX) 255
+4 Exhilarating Elocution (STX) 185
+4 Expanded Anatomy (STX) 2
+4 Expel (STX) 18
+4 Field Trip (STX) 131
+4 First Day of Class (STX) 102
+4 Fractal Summoning (STX) 187
+4 Frost Trickster (STX) 43
+4 Fuming Effigy (STX) 103
+4 Guiding Voice (STX) 19
+4 Heated Debate (STX) 106
+4 Hunt for Specimens (STX) 73
+4 Illustrious Historian (STX) 109
+4 Infuse with Vitality (STX) 194
+4 Inkling Summoning (STX) 195
+4 Introduction to Annihilation (STX) 3
+4 Introduction to Prophecy (STX) 4
+4 Lash of Malice (STX) 74
+4 Leech Fanatic (STX) 75
+4 Letter of Acceptance (STX) 256
+4 Leyline Invocation (STX) 136
+
+
+### New Deck
+
+4 Lorehold Campus (STX) 268
+4 Lorehold Pledgemage (STX) 201
+4 Mage Duel (STX) 137
+4 Mage Hunters' Onslaught (STX) 77
+4 Make Your Mark (STX) 204
+4 Moldering Karok (STX) 206
+4 Needlethorn Drake (STX) 208
+4 Novice Dissector (STX) 79
+4 Oggyar Battle-Seer (STX) 209
+4 Owlin Shieldmage (STX) 210
+4 Pest Summoning (STX) 211
+4 Pigment Storm (STX) 111
+4 Pilgrim of the Ages (STX) 22
+4 Pillardrop Rescuer (STX) 23
+4 Pillardrop Warden (STX) 112
+4 Pop Quiz (STX) 49
+4 Prismari Campus (STX) 270
+4 Prismari Pledgemage (STX) 215
+4 Professor of Zoomancy (STX) 140
+4 Professor's Warning (STX) 84
+4 Promising Duskmage (STX) 85
+4 Quandrix Campus (STX) 271
+4 Quandrix Pledgemage (STX) 219
+4 Reckless Amplimancer (STX) 141
+4 Reject (STX) 50
+4 Relic Sloth (STX) 223
+4 Resculpt (STX) 51
+4 Rise of Extus (STX) 226
+4 Scurrid Colony (STX) 142
+4 Serpentine Curve (STX) 52
+4 Silverquill Campus (STX) 273
+4 Silverquill Pledgemage (STX) 233
+4 Soothsayer Adept (STX) 55
+4 Spectacle Mage (STX) 235
+4 Specter of the Fens (STX) 87
+4 Spined Karok (STX) 143
+4 Spirit Summoning (STX) 236
+4 Spiteful Squad (STX) 237
+4 Springmane Cervin (STX) 144
+4 Square Up (STX) 238
+4 Star Pupil (STX) 30
+4 Stonebound Mentor (STX) 239
+4 Stonerise Spirit (STX) 32
+4 Study Break (STX) 34
+4 Sudden Breakthrough (STX) 116
+4 Tangletrap (STX) 145
+4 Teach by Example (STX) 241
+4 Thrilling Discovery (STX) 243
+4 Tome Shredder (STX) 117
+4 Twinscroll Shaman (STX) 118
+
+
+### New Deck
+
+4 Unwilling Ingredient (STX) 90
+4 Vortex Runner (STX) 60
+4 Waterfall Aerialist (STX) 61
+4 Witherbloom Campus (STX) 275
+4 Witherbloom Pledgemage (STX) 249
+
+### The Last Deck has 20 cards in it.

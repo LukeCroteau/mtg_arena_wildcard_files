@@ -1,0 +1,120 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ahn-Crop Invader (WAR) 113
+4 Aid the Fallen (WAR) 76
+4 Arboreal Grazer (WAR) 149
+4 Arlinn's Wolf (WAR) 151
+4 Ashiok's Skulker (WAR) 40
+4 Aven Eternal (WAR) 42
+4 Band Together (WAR) 153
+4 Banehound (WAR) 77
+4 Battlefield Promotion (WAR) 5
+4 Blindblast (WAR) 114
+4 Bloom Hulk (WAR) 154
+4 Bulwark Giant (WAR) 7
+4 Burning Prophet (WAR) 117
+4 Callous Dismissal (WAR) 44
+4 Centaur Nurturer (WAR) 156
+4 Chainwhip Cyclops (WAR) 118
+4 Chandra's Pyrohelix (WAR) 120
+4 Charity Extractor (WAR) 81
+4 Charmed Stray (WAR) 8
+4 Contentious Plan (WAR) 46
+4 Courage in Crisis (WAR) 158
+4 Crush Dissent (WAR) 47
+4 Davriel's Shadowfugue (WAR) 84
+4 Defiant Strike (WAR) 9
+4 Demolish (WAR) 123
+4 Desperate Lunge (WAR) 266
+4 Divine Arrow (WAR) 10
+4 Duskmantle Operative (WAR) 88
+4 Enforcer Griffin (WAR) 11
+4 Erratic Visionary (WAR) 48
+4 Forced Landing (WAR) 161
+4 Gateway Plaza (WAR) 246
+4 Giant Growth (WAR) 162
+4 Gideon's Sacrifice (WAR) 14
+4 Goblin Assailant (WAR) 128
+4 Goblin Assault Team (WAR) 129
+4 Grim Initiate (WAR) 130
+4 Guild Globe (WAR) 239
+4 Guildpact Informant (WAR) 271
+4 Heartfire (WAR) 131
+4 Herald of the Dreadhorde (WAR) 93
+4 Honor the God-Pharaoh (WAR) 132
+4 Invading Manticore (WAR) 134
+4 Iron Bully (WAR) 240
+4 Ironclad Krovod (WAR) 19
+4 Jaya's Greeting (WAR) 136
+4 Kasmina's Transmutation (WAR) 57
+4 Kaya's Ghostform (WAR) 94
+4 Kiora's Dambreaker (WAR) 58
+4 Kraul Stinger (WAR) 165
+
+
+### New Deck
+
+4 Kronch Wrangler (WAR) 166
+4 Law-Rune Enforcer (WAR) 20
+4 Lazotep Behemoth (WAR) 95
+4 Lazotep Reaver (WAR) 96
+4 Loxodon Sergeant (WAR) 21
+4 Makeshift Battalion (WAR) 22
+4 Mana Geode (WAR) 241
+4 Martyr for the Cause (WAR) 23
+4 Naga Eternal (WAR) 60
+4 Nahiri's Stoneblades (WAR) 139
+4 New Horizons (WAR) 168
+4 No Escape (WAR) 63
+4 Ob Nixilis's Cruelty (WAR) 101
+4 Orzhov Guildgate (WAR) 269
+4 Pollenbright Druid (WAR) 173
+4 Pouncing Lynx (WAR) 25
+4 Primordial Wurm (WAR) 174
+4 Prismite (WAR) 242
+4 Raging Kronch (WAR) 141
+4 Relentless Advance (WAR) 64
+4 Return to Nature (WAR) 175
+4 Rising Populace (WAR) 29
+4 Saheeli's Silverwing (WAR) 243
+4 Samut's Sprint (WAR) 142
+4 Sarkhan's Catharsis (WAR) 144
+4 Shriekdiver (WAR) 103
+4 Simic Guildgate (WAR) 274
+4 Sky Theater Strix (WAR) 67
+4 Snarespinner (WAR) 176
+4 Sorin's Thirst (WAR) 104
+4 Spark Harvest (WAR) 105
+4 Spark Reaper (WAR) 106
+4 Spellgorger Weird (WAR) 145
+4 Spellkeeper Weird (WAR) 69
+4 Steady Aim (WAR) 177
+4 Stealth Mission (WAR) 70
+4 Tamiyo's Epiphany (WAR) 71
+4 Teferi's Time Twist (WAR) 72
+4 Teyo's Lightshield (WAR) 33
+4 Thunder Drake (WAR) 73
+4 Thundering Ceratok (WAR) 179
+4 Tithebearer Giant (WAR) 107
+4 Toll of the Invasion (WAR) 108
+4 Topple the Statue (WAR) 35
+4 Totally Lost (WAR) 74
+4 Trusted Pegasus (WAR) 36
+4 Turret Ogre (WAR) 148
+4 Unlikely Aid (WAR) 109
+4 Vampire Opportunist (WAR) 110
+4 Vivien's Grizzly (WAR) 182
+
+
+### New Deck
+
+4 Vraska's Finisher (WAR) 112
+4 Wall of Runes (WAR) 75
+4 Wanderer's Strike (WAR) 38
+4 War Screecher (WAR) 39
+4 Wardscale Crocodile (WAR) 183
+
+### The Last Deck has 20 cards in it.

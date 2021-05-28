@@ -1,0 +1,30 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aetherworks Marvel (KLR) 219
+4 Ajani Unyielding (KLR) 188
+4 Angel of Invention (KLR) 7
+4 Cataclysmic Gearhulk (KLR) 12
+4 Chandra, Torch of Defiance (KLR) 117
+4 Combustible Gearhulk (KLR) 120
+4 Demon of Dark Schemes (KLR) 80
+4 Dovin Baan (KLR) 193
+4 Heart of Kiran (KLR) 242
+4 Herald of Anguish (KLR) 94
+4 Indomitable Creativity (KLR) 130
+4 Metallurgic Summonings (KLR) 57
+4 Nissa, Vital Force (KLR) 172
+4 Noxious Gearhulk (KLR) 104
+4 Paradox Engine (KLR) 259
+4 Planar Bridge (KLR) 262
+4 Rashmi, Eternities Crafter (KLR) 202
+4 Saheeli Rai (KLR) 207
+4 Sculpting Steel (KLR) 302
+4 Skysovereign, Consul Flagship (KLR) 272
+4 Tezzeret the Schemer (KLR) 209
+4 Torrential Gearhulk (KLR) 70
+4 Verdurous Gearhulk (KLR) 185
+
+### The Last Deck has 92 cards in it.

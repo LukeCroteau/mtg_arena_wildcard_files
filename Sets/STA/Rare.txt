@@ -1,0 +1,37 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abundant Harvest (STA) 48
+4 Brainstorm (STA) 13
+4 Compulsive Research (STA) 14
+4 Counterspell (STA) 15
+4 Dark Ritual (STA) 26
+4 Despark (STA) 59
+4 Doom Blade (STA) 28
+4 Electrolyze (STA) 60
+4 Ephemerate (STA) 5
+4 Faithless Looting (STA) 38
+4 Gift of Estates (STA) 6
+4 Gods Willing (STA) 7
+4 Grapeshot (STA) 39
+4 Growth Spiral (STA) 61
+4 Harmonize (STA) 52
+4 Inquisition of Kozilek (STA) 31
+4 Krosan Grip (STA) 53
+4 Lightning Bolt (STA) 42
+4 Lightning Helix (STA) 62
+4 Mana Tithe (STA) 8
+4 Memory Lapse (STA) 16
+4 Putrefy (STA) 63
+4 Regrowth (STA) 56
+4 Sign in Blood (STA) 32
+4 Stone Rain (STA) 45
+4 Swords to Plowshares (STA) 10
+4 Tendrils of Agony (STA) 34
+4 Tezzeret's Gambit (STA) 21
+4 Urza's Rage (STA) 47
+4 Weather the Storm (STA) 58
+
+### The Last Deck has 120 cards in it.

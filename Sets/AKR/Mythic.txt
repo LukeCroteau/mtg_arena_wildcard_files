@@ -1,0 +1,38 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angel of Sanctions (AKR) 1
+4 As Foretold (AKR) 49
+4 Bontu the Glorified (AKR) 95
+4 Chandra, Pyromaster (AKR) 146
+4 Combat Celebrant (AKR) 148
+4 Crested Sunmare (AKR) 11
+4 Cruel Reality (AKR) 98
+4 Demonic Pact (AKR) 99
+4 Gideon of the Trials (AKR) 19
+4 Glorious End (AKR) 156
+4 Hazoret the Fervent (AKR) 159
+4 Hornet Queen (AKR) 196
+4 Jace, Unraveler of Secrets (AKR) 65
+4 Kefnet the Mindful (AKR) 66
+4 Liliana, Death's Majesty (AKR) 111
+4 Majestic Myriarch (AKR) 200
+4 Neheb, the Eternal (AKR) 167
+4 Nicol Bolas, God-Pharaoh (AKR) 247
+4 Nissa, Steward of Elements (AKR) 248
+4 Oketra the True (AKR) 27
+4 Overwhelming Splendor (AKR) 30
+4 Razaketh, the Foulblooded (AKR) 120
+4 Rhonas the Indomitable (AKR) 213
+4 Samut, Voice of Dissent (AKR) 258
+4 Samut, the Tested (AKR) 257
+4 Sphinx's Revelation (AKR) 262
+4 The Locust God (AKR) 243
+4 The Scarab God (AKR) 259
+4 The Scorpion God (AKR) 260
+4 Unesh, Criosphinx Sovereign (AKR) 85
+4 Vizier of the Menagerie (AKR) 224
+
+### The Last Deck has 124 cards in it.

@@ -1,0 +1,106 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Absorb Identity (KHM) 383
+4 Aegar, the Freezing Flame (KHM) 200
+4 Armed and Armored (KHM) 379
+4 Arni Slays the Troll (KHM) 201
+4 Ascent of the Worthy (KHM) 202
+4 Avalanche Caller (KHM) 45
+4 Axgard Armory (KHM) 250
+4 Basalt Ravager (KHM) 122
+4 Battershield Warrior (KHM) 2
+4 Bearded Axe (KHM) 388
+4 Binding the Old Gods (KHM) 206
+4 Blizzard Brawl (KHM) 162
+4 Bloodline Pretender (KHM) 235
+4 Bloodsky Berserker (KHM) 80
+4 Boreal Outrider (KHM) 163
+4 Bretagard Stronghold (KHM) 253
+4 Clarion Spirit (KHM) 6
+4 Colossal Plow (KHM) 236
+4 Crush the Weak (KHM) 128
+4 Divine Gambit (KHM) 8
+4 Doomskar Titan (KHM) 130
+4 Draugr's Helm (KHM) 88
+4 Dual Strike (KHM) 132
+4 Dwarven Hammer (KHM) 133
+4 Elderfang Ritualist (KHM) 385
+4 Elven Ambush (KHM) 391
+4 Elven Bow (KHM) 166
+4 Fall of the Impostor (KHM) 208
+4 Fearless Liberator (KHM) 135
+4 Fire Giant's Fury (KHM) 389
+4 Firja, Judge of Valor (KHM) 209
+4 Forging the Tyrite Sword (KHM) 211
+4 Frenzied Raider (KHM) 137
+4 Frost Augur (KHM) 56
+4 Frostpyre Arcanist (KHM) 58
+4 Fynn, the Fangbearer (KHM) 170
+4 Gates of Istfell (KHM) 256
+4 Giant's Amulet (KHM) 59
+4 Giant's Grasp (KHM) 384
+4 Gilded Assault Cart (KHM) 390
+4 Gladewalker Ritualist (KHM) 392
+4 Glimpse the Cosmos (KHM) 60
+4 Gnottvold Slumbermound (KHM) 258
+4 Great Hall of Starnheim (KHM) 259
+4 Hailstorm Valkyrie (KHM) 97
+4 Harald, King of Skemfar (KHM) 212
+4 Icebind Pillar (KHM) 62
+4 Immersturm Skullcairn (KHM) 263
+4 Inga Rune-Eyes (KHM) 64
+4 Invasion of the Giants (KHM) 215
+
+
+### New Deck
+
+4 Kardur's Vicious Return (KHM) 217
+4 Kardur, Doomscourge (KHM) 216
+4 Kaya's Onslaught (KHM) 18
+4 Koll, the Forgemaster (KHM) 220
+4 Littjara Glade-Warden (KHM) 182
+4 Littjara Mirrorlake (KHM) 264
+4 Maja, Bretagard Protector (KHM) 222
+4 Moritte of the Frost (KHM) 223
+4 Narfi, Betrayer King (KHM) 224
+4 Niko Defies Destiny (KHM) 226
+4 Path to the World Tree (KHM) 186
+4 Poison the Cup (KHM) 103
+4 Port of Karfell (KHM) 265
+4 Provoke the Trolls (KHM) 144
+4 Rampage of the Valkyries (KHM) 393
+4 Renegade Reaper (KHM) 386
+4 Replicating Ring (KHM) 244
+4 Return Upon the Tide (KHM) 106
+4 Rootless Yew (KHM) 189
+4 Rune of Flight (KHM) 75
+4 Rune of Might (KHM) 191
+4 Rune of Mortality (KHM) 108
+4 Rune of Speed (KHM) 148
+4 Rune of Sustenance (KHM) 25
+4 Runed Crown (KHM) 245
+4 Saw It Coming (KHM) 76
+4 Shepherd of the Cosmos (KHM) 28
+4 Skemfar Elderhall (KHM) 268
+4 Skemfar Shadowsage (KHM) 110
+4 Spectral Steel (KHM) 30
+4 Spirit of the Aldergard (KHM) 195
+4 Starnheim Aspirant (KHM) 380
+4 Surtland Frostpyre (KHM) 271
+4 Svella, Ice Shaper (KHM) 230
+4 Tergrid's Shadow (KHM) 113
+4 The Three Seasons (KHM) 231
+4 The Trickster-God's Heist (KHM) 232
+4 Thornmantle Striker (KHM) 387
+4 Usher of the Fallen (KHM) 35
+4 Valkyrie's Sword (KHM) 36
+4 Vega, the Watcher (KHM) 233
+4 Vengeful Reaper (KHM) 116
+4 Warchanter Skald (KHM) 381
+4 Weathered Runestone (KHM) 247
+4 Youthful Valkyrie (KHM) 382
+
+### The Last Deck has 180 cards in it.

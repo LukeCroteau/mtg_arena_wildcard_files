@@ -1,0 +1,29 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alela, Artful Provocateur (ELD) 324
+4 Brazen Borrower // Petty Theft (ELD) 39
+4 Chulane, Teller of Tales (ELD) 326
+4 Embercleave (ELD) 120
+4 Garruk, Cursed Huntsman (ELD) 191
+4 Harmonious Archon (ELD) 17
+4 Kenrith, the Returned King (ELD) 303
+4 Korvold, Fae-Cursed King (ELD) 329
+4 Oko, Thief of Crowns (ELD) 197
+4 Oko, the Trickster (ELD) 309
+4 Outlaws' Merriment (ELD) 198
+4 Questing Beast (ELD) 171
+4 Rankle, Master of Pranks (ELD) 101
+4 Realm-Cloaked Giant // Cast Off (ELD) 26
+4 Robber of the Rich (ELD) 138
+4 Rowan, Fearless Sparkmage (ELD) 304
+4 Syr Gwyn, Hero of Ashvale (ELD) 330
+4 The Cauldron of Eternity (ELD) 82
+4 The Circle of Loyalty (ELD) 9
+4 The Great Henge (ELD) 161
+4 The Magic Mirror (ELD) 51
+4 The Royal Scions (ELD) 199
+
+### The Last Deck has 88 cards in it.

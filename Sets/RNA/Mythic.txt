@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angel of Grace (RNA) 1
+4 Biogenic Ooze (RNA) 122
+4 Captive Audience (RNA) 160
+4 Domri, Chaos Bringer (RNA) 166
+4 Domri, City Smasher (RNA) 269
+4 Dovin, Architect of Law (RNA) 265
+4 Dovin, Grand Arbiter (RNA) 167
+4 Emergency Powers (RNA) 169
+4 Hydroid Krasis (RNA) 183
+4 Kaya, Orzhov Usurper (RNA) 186
+4 Mesmerizing Benthid (RNA) 43
+4 Prime Speaker Vannifar (RNA) 195
+4 Rakdos, the Showstopper (RNA) 199
+4 Ravager Wurm (RNA) 200
+4 Seraph of the Scales (RNA) 205
+4 Skarrgan Hellkite (RNA) 114
+4 Spawn of Mayhem (RNA) 85
+4 The Haunt of Hightower (RNA) 273
+
+### The Last Deck has 72 cards in it.

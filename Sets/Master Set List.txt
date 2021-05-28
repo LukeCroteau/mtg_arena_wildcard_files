@@ -1,0 +1,6 @@
+This list contains the Set Identifier and real name of each set, in case you wondered what STA is.
+
+HA1 - Historic Anthology 1
+HA2 - Historic Anthology 2
+HA3 - Historic Anthology 3
+HA4 - Historic Anthology 4

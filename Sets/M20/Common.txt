@@ -1,0 +1,171 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Act of Treason (M20) 124
+4 Aerial Assault (M20) 1
+4 Agonizing Syphon (M20) 83
+4 Angelic Gift (M20) 5
+4 Anticipate (M20) 45
+4 Anvilwrought Raptor (M20) 221
+4 Audacious Thief (M20) 84
+4 Barony Vampire (M20) 85
+4 Bartizan Bats (M20) 319
+4 Bastion Enforcer (M20) 303
+4 Battalion Foot Soldier (M20) 7
+4 Befuddle (M20) 47
+4 Bladebrand (M20) 86
+4 Blood Burglar (M20) 88
+4 Bloodfell Caves (M20) 242
+4 Blossoming Sands (M20) 243
+4 Bogstomper (M20) 320
+4 Bone Splinters (M20) 92
+4 Bone to Ash (M20) 48
+4 Boneclad Necromancer (M20) 93
+4 Boreal Elemental (M20) 49
+4 Brightwood Tracker (M20) 166
+4 Bristling Boar (M20) 338
+4 Canopy Spider (M20) 339
+4 Celestial Messenger (M20) 287
+4 Centaur Courser (M20) 168
+4 Chandra's Embercat (M20) 129
+4 Chandra's Outrage (M20) 130
+4 Cloudkin Seer (M20) 54
+4 Concordia Pegasus (M20) 304
+4 Convolute (M20) 55
+4 Coral Merfolk (M20) 315
+4 Daggersail Aeronaut (M20) 133
+4 Dark Remedy (M20) 321
+4 Dawning Angel (M20) 11
+4 Daybreak Chaplain (M20) 12
+4 Destructive Digger (M20) 134
+4 Disenchant (M20) 14
+4 Disentomb (M20) 322
+4 Dismal Backwater (M20) 245
+4 Duress (M20) 97
+4 Engulfing Eruption (M20) 328
+4 Epicure of Blood (M20) 99
+4 Evolving Wilds (M20) 246
+4 Faerie Miscreant (M20) 58
+4 Fathom Fleet Cutthroat (M20) 100
+4 Fearless Halberdier (M20) 329
+4 Feral Abomination (M20) 101
+4 Feral Invocation (M20) 170
+4 Ferocious Pup (M20) 171
+
+
+### New Deck
+
+4 Fire Elemental (M20) 138
+4 Fortress Crab (M20) 60
+4 Frilled Sandwalla (M20) 340
+4 Frilled Sea Serpent (M20) 61
+4 Frost Lynx (M20) 62
+4 Gift of Paradise (M20) 173
+4 Glaring Aegis (M20) 18
+4 Goblin Assailant (M20) 330
+4 Goblin Bird-Grabber (M20) 142
+4 Goblin Smuggler (M20) 144
+4 Gorging Vulture (M20) 102
+4 Greenwood Sentinel (M20) 174
+4 Griffin Protector (M20) 20
+4 Griffin Sentinel (M20) 21
+4 Growth Cycle (M20) 175
+4 Haazda Officer (M20) 305
+4 Healer of the Glade (M20) 176
+4 Heart-Piercer Bow (M20) 228
+4 Hostile Minotaur (M20) 331
+4 Impassioned Orator (M20) 306
+4 Imperial Outrider (M20) 307
+4 Infuriate (M20) 145
+4 Inspired Charge (M20) 24
+4 Inspiring Captain (M20) 25
+4 Ironclad Krovod (M20) 308
+4 Jungle Hollow (M20) 248
+4 Keldon Raider (M20) 146
+4 Lavakin Brawler (M20) 147
+4 Leafkin Druid (M20) 178
+4 Mammoth Spider (M20) 181
+4 Maniacal Rage (M20) 149
+4 Marauder's Axe (M20) 231
+4 Metropolis Sprite (M20) 66
+4 Mind Rot (M20) 108
+4 Moat Piranhas (M20) 67
+4 Moment of Heroism (M20) 30
+4 Moorland Inquisitor (M20) 31
+4 Murder (M20) 109
+4 Natural End (M20) 183
+4 Negate (M20) 69
+4 Netcaster Spider (M20) 184
+4 Nimble Birdsticker (M20) 333
+4 Oakenform (M20) 341
+4 Octoprophet (M20) 70
+4 Pacifism (M20) 32
+4 Pack Mastiff (M20) 152
+4 Phantom Warrior (M20) 316
+4 Plummet (M20) 188
+4 Prismite (M20) 235
+4 Prized Unicorn (M20) 342
+
+
+### New Deck
+
+4 Prowling Caracal (M20) 309
+4 Rabid Bite (M20) 190
+4 Raise the Alarm (M20) 34
+4 Reckless Air Strike (M20) 154
+4 Reduce to Ashes (M20) 155
+4 Ripscale Predator (M20) 157
+4 Rubblebelt Recluse (M20) 334
+4 Rugged Highlands (M20) 250
+4 Sage's Row Denizen (M20) 73
+4 Sanitarium Skeleton (M20) 112
+4 Savage Gorger (M20) 291
+4 Savannah Sage (M20) 284
+4 Scorch Spitter (M20) 159
+4 Scoured Barrens (M20) 251
+4 Sedge Scorpion (M20) 192
+4 Shock (M20) 160
+4 Show of Valor (M20) 311
+4 Siege Mastodon (M20) 312
+4 Silverback Shaman (M20) 195
+4 Skeleton Archer (M20) 324
+4 Sleep Paralysis (M20) 75
+4 Snapping Drake (M20) 318
+4 Sorcerer of the Fang (M20) 114
+4 Sorin's Thirst (M20) 325
+4 Soul Salvage (M20) 116
+4 Soulmender (M20) 37
+4 Squad Captain (M20) 38
+4 Steadfast Sentry (M20) 40
+4 Stone Golem (M20) 240
+4 Swiftwater Cliffs (M20) 252
+4 Take Vengeance (M20) 313
+4 Tectonic Rift (M20) 161
+4 Thicket Crasher (M20) 196
+4 Thornwood Falls (M20) 258
+4 Titanic Growth (M20) 343
+4 Tranquil Cove (M20) 259
+4 Trusted Pegasus (M20) 314
+4 Undead Servant (M20) 118
+4 Unholy Indenture (M20) 119
+4 Unsummon (M20) 78
+4 Vampire Opportunist (M20) 326
+4 Vial of Dragonfire (M20) 241
+4 Vivien's Crocodile (M20) 301
+4 Vorstclaw (M20) 201
+4 Walking Corpse (M20) 327
+4 Wildfire Elemental (M20) 297
+4 Wind-Scarred Crag (M20) 260
+4 Winged Words (M20) 80
+4 Wolfkin Bond (M20) 203
+4 Woodland Mystic (M20) 344
+
+
+### New Deck
+
+4 Yoked Ox (M20) 41
+4 Zephyr Charge (M20) 82
+
+### The Last Deck has 8 cards in it.

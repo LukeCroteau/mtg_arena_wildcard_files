@@ -1,0 +1,23 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Brokkos, Apex of Forever (IKO) 179
+4 Chevill, Bane of Monsters (IKO) 181
+4 Fiend Artisan (IKO) 220
+4 General Kudro of Drannith (IKO) 187
+4 Illuna, Apex of Wishes (IKO) 190
+4 Kinnan, Bonder Prodigy (IKO) 192
+4 Lukka, Coppercoat Outcast (IKO) 125
+4 Luminous Broodmoth (IKO) 21
+4 Narset of the Ancient Way (IKO) 195
+4 Nethroi, Apex of Death (IKO) 197
+4 Rielle, the Everwise (IKO) 203
+4 Snapdax, Apex of the Hunt (IKO) 209
+4 Vadrok, Apex of Thunder (IKO) 214
+4 Vivien, Monsters' Advocate (IKO) 175
+4 Winota, Joiner of Forces (IKO) 216
+4 Zilortha, Strength Incarnate (IKO) 275
+
+### The Last Deck has 64 cards in it.

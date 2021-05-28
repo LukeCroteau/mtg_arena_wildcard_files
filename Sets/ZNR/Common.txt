@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adventure Awaits (ZNR) 177
+4 Akoum Hellhound (ZNR) 133
+4 Angelheart Protector (ZNR) 3
+4 Anticognition (ZNR) 45
+4 Ardent Electromancer (ZNR) 135
+4 Blood Beckoning (ZNR) 92
+4 Blood Price (ZNR) 93
+4 Broken Wings (ZNR) 181
+4 Bubble Snare (ZNR) 47
+4 Canopy Baloth (ZNR) 182
+4 Cascade Seer (ZNR) 48
+4 Chilling Trap (ZNR) 50
+4 Cleansing Wildfire (ZNR) 137
+4 Cleric of Chill Depths (ZNR) 51
+4 Cliffhaven Kitesail (ZNR) 243
+4 Cliffhaven Sell-Sword (ZNR) 8
+4 Cunning Geysermage (ZNR) 55
+4 Dauntless Survivor (ZNR) 184
+4 Dauntless Unity (ZNR) 9
+4 Deadly Alliance (ZNR) 96
+4 Deliberate (ZNR) 56
+4 Disenchant (ZNR) 10
+4 Drana's Silencer (ZNR) 99
+4 Dreadwurm (ZNR) 100
+4 Expedition Champion (ZNR) 138
+4 Expedition Diviner (ZNR) 57
+4 Expedition Healer (ZNR) 13
+4 Expedition Skulker (ZNR) 101
+4 Farsight Adept (ZNR) 14
+4 Feed the Swarm (ZNR) 102
+4 Field Research (ZNR) 58
+4 Fissure Wizard (ZNR) 140
+4 Ghastly Gloomhunter (ZNR) 103
+4 Glacial Grasp (ZNR) 59
+4 Gnarlid Colony (ZNR) 185
+4 Grotag Bug-Catcher (ZNR) 142
+4 Guul Draz Mucklord (ZNR) 104
+4 Hagra Constrictor (ZNR) 105
+4 Highborn Vampire (ZNR) 107
+4 Inordinate Rage (ZNR) 144
+4 Into the Roil (ZNR) 62
+4 Joraga Visionary (ZNR) 188
+4 Kabira Outrider (ZNR) 18
+4 Kazandu Nectarpot (ZNR) 190
+4 Kazandu Stomper (ZNR) 191
+4 Kor Celebrant (ZNR) 22
+4 Living Tempest (ZNR) 65
+4 Makindi Ox (ZNR) 25
+4 Malakir Blood-Priest (ZNR) 110
+4 Marauding Blight-Priest (ZNR) 112
+
+
+### New Deck
+
+4 Mesa Lynx (ZNR) 28
+4 Might of Murasa (ZNR) 194
+4 Mind Drain (ZNR) 114
+4 Molten Blast (ZNR) 149
+4 Murasa Brute (ZNR) 195
+4 Nahiri's Binding (ZNR) 29
+4 Negate (ZNR) 71
+4 Nimana Skitter-Sneak (ZNR) 116
+4 Nimana Skydancer (ZNR) 117
+4 Nissa's Zendikon (ZNR) 197
+4 Oblivion's Hunger (ZNR) 119
+4 Practiced Tactics (ZNR) 32
+4 Pressure Point (ZNR) 33
+4 Prowling Felidar (ZNR) 34
+4 Pyroclastic Hellion (ZNR) 152
+4 Rabid Bite (ZNR) 199
+4 Reclaim the Wastes (ZNR) 200
+4 Resolute Strike (ZNR) 35
+4 Risen Riptide (ZNR) 73
+4 Roil Eruption (ZNR) 155
+4 Scale the Heights (ZNR) 202
+4 Scavenged Blade (ZNR) 157
+4 Scorch Rider (ZNR) 158
+4 Sea Gate Banneret (ZNR) 36
+4 Sea Gate Colossus (ZNR) 251
+4 Seafloor Stalker (ZNR) 78
+4 Shell Shield (ZNR) 79
+4 Shepherd of Heroes (ZNR) 38
+4 Sizzling Barrage (ZNR) 162
+4 Skyclave Sentinel (ZNR) 253
+4 Skyclave Squid (ZNR) 82
+4 Smite the Monstrous (ZNR) 42
+4 Sneaking Guide (ZNR) 164
+4 Spare Supplies (ZNR) 254
+4 Spitfire Lagac (ZNR) 167
+4 Stonework Packbeast (ZNR) 255
+4 Strength of Solidarity (ZNR) 206
+4 Subtle Strike (ZNR) 128
+4 Synchronized Spellcraft (ZNR) 168
+4 Tajuru Blightblade (ZNR) 208
+4 Tajuru Snarecaster (ZNR) 210
+4 Tazeem Raptor (ZNR) 43
+4 Tazeem Roilmage (ZNR) 84
+4 Teeterpeak Ambusher (ZNR) 169
+4 Territorial Scythecat (ZNR) 213
+4 Tormenting Voice (ZNR) 172
+4 Tuktuk Rubblefort (ZNR) 173
+4 Turntimber Ascetic (ZNR) 214
+4 Utility Knife (ZNR) 256
+4 Vanquish the Weak (ZNR) 131
+
+
+### New Deck
+
+4 Zulaport Duelist (ZNR) 88
+
+### The Last Deck has 4 cards in it.

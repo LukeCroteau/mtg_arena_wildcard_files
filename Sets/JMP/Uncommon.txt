@@ -1,0 +1,174 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aegis of the Heavens (JMP) 79
+4 Affa Guard Hound (JMP) 81
+4 Affectionate Indrik (JMP) 373
+4 Alabaster Mage (JMP) 83
+4 Arcane Encyclopedia (JMP) 459
+4 Armorcraft Judge (JMP) 377
+4 Assassin's Strike (JMP) 200
+4 Awakener Druid (JMP) 379
+4 Barrage of Expendables (JMP) 292
+4 Barter in Blood (JMP) 202
+4 Battleground Geist (JMP) 139
+4 Beetleback Chief (JMP) 294
+4 Belltower Sphinx (JMP) 141
+4 Blessed Spirits (JMP) 92
+4 Blood Artist (JMP) 206
+4 Blood Divination (JMP) 207
+4 Blood Host (JMP) 208
+4 Bloodbond Vampire (JMP) 209
+4 Bloodrage Brawler (JMP) 296
+4 Bloodshot Trainee (JMP) 298
+4 Bone Picker (JMP) 212
+4 Brightmare (JMP) 2
+4 Brindle Shoat (JMP) 380
+4 Brushstrider (JMP) 381
+4 Bubbling Cauldron (JMP) 460
+4 Buried Ruin (JMP) 491
+4 Carven Caryatid (JMP) 382
+4 Chain Lightning (JMP) 302
+4 Chained Brute (JMP) 19
+4 Chart a Course (JMP) 142
+4 Cinder Elemental (JMP) 304
+4 Coastal Piracy (JMP) 144
+4 Corpse Traders (JMP) 220
+4 Cryptic Serpent (JMP) 146
+4 Curiosity (JMP) 147
+4 Curious Obsession (JMP) 148
+4 Dance with Devils (JMP) 306
+4 Dauntless Onslaught (JMP) 99
+4 Departed Deckhand (JMP) 149
+4 Dinrova Horror (JMP) 450
+4 Doublecast (JMP) 307
+4 Draconic Roar (JMP) 308
+4 Dragonloft Idol (JMP) 463
+4 Dragonlord's Servant (JMP) 311
+4 Dragonspeaker Shaman (JMP) 312
+4 Dreamstone Hedron (JMP) 464
+4 Drover of the Mighty (JMP) 388
+4 Dwynen's Elite (JMP) 389
+4 Emancipation Angel (JMP) 102
+4 Enlarge (JMP) 392
+
+
+### New Deck
+
+4 Entomber Exarch (JMP) 227
+4 Essence Flux (JMP) 151
+4 Eternal Taskmaster (JMP) 228
+4 Exclude (JMP) 152
+4 Exclusion Mage (JMP) 153
+4 Exhume (JMP) 230
+4 Face of Divinity (JMP) 103
+4 Falkenrath Noble (JMP) 232
+4 Fell Specter (JMP) 233
+4 Feral Hydra (JMP) 395
+4 Flames of the Firebrand (JMP) 317
+4 Flames of the Raze-Boar (JMP) 318
+4 Flametongue Kavu (JMP) 319
+4 Furnace Whelp (JMP) 323
+4 Fusion Elemental (JMP) 451
+4 Gargoyle Sentinel (JMP) 465
+4 Ghirapur Guide (JMP) 400
+4 Gifted Aetherborn (JMP) 239
+4 Gird for Battle (JMP) 106
+4 Goblin Commando (JMP) 325
+4 Goblin Lore (JMP) 328
+4 Goblin Rally (JMP) 329
+4 Gristle Grinner (JMP) 242
+4 Guardian Idol (JMP) 467
+4 Hedron Archive (JMP) 468
+4 Herald's Horn (JMP) 469
+4 Homing Lightning (JMP) 335
+4 Hunter's Insight (JMP) 402
+4 Inferno Hellion (JMP) 337
+4 Inspiring Call (JMP) 404
+4 Inspiring Unicorn (JMP) 112
+4 Ironroot Warlord (JMP) 452
+4 Irresistible Prey (JMP) 406
+4 Juggernaut (JMP) 471
+4 Keeper of Fables (JMP) 407
+4 Lifecrafter's Gift (JMP) 409
+4 Lightning Axe (JMP) 341
+4 Lightning Bolt (JMP) 342
+4 Liliana's Elite (JMP) 250
+4 Living Lightning (JMP) 23
+4 Long Road Home (JMP) 120
+4 Magma Jet (JMP) 346
+4 Makeshift Munitions (JMP) 348
+4 Malakir Familiar (JMP) 253
+4 Mausoleum Turnkey (JMP) 255
+4 Meteor Golem (JMP) 474
+4 Mire Triton (JMP) 257
+4 Mirrodin's Core (JMP) 492
+4 Nature's Way (JMP) 412
+4 Nebelgast Herald (JMP) 160
+
+
+### New Deck
+
+4 Nessian Hornbeetle (JMP) 413
+4 Oneirophage (JMP) 162
+4 Oona's Blackguard (JMP) 261
+4 Overgrown Battlement (JMP) 417
+4 Path to Exile (JMP) 127
+4 Patron of the Valiant (JMP) 128
+4 Phyrexian Gargantua (JMP) 265
+4 Phyrexian Reclamation (JMP) 267
+4 Pyroclastic Elemental (JMP) 356
+4 Raging Regisaur (JMP) 455
+4 Rapacious Dragon (JMP) 358
+4 Ravenous Chupacabra (JMP) 269
+4 Reckless Scholar (JMP) 168
+4 Release the Dogs (JMP) 4
+4 Riddle of Lightning (JMP) 359
+4 Rogue's Gloves (JMP) 479
+4 Savage Stomp (JMP) 427
+4 Scuttlemutt (JMP) 484
+4 Seismic Elemental (JMP) 362
+4 Sengir Vampire (JMP) 275
+4 Serra Angel (JMP) 132
+4 Settle the Score (JMP) 276
+4 Sigiled Starfish (JMP) 177
+4 Silhana Wayfinder (JMP) 430
+4 Sky Tether (JMP) 133
+4 Somberwald Stag (JMP) 431
+4 Spectral Sailor (JMP) 178
+4 Spiteful Prankster (JMP) 26
+4 Stab Wound (JMP) 281
+4 Stone Haven Pilgrim (JMP) 6
+4 Supply Runners (JMP) 7
+4 Suspicious Bookcase (JMP) 487
+4 Swarm of Bloodflies (JMP) 282
+4 Talrand's Invocation (JMP) 182
+4 Tempting Witch (JMP) 283
+4 Thirst for Knowledge (JMP) 183
+4 Thundering Spineback (JMP) 437
+4 Tibalt's Rager (JMP) 366
+4 Unstable Obelisk (JMP) 489
+4 Valorous Stance (JMP) 136
+4 Volcanic Fallout (JMP) 368
+4 Volley Veteran (JMP) 369
+4 Wall of Blossoms (JMP) 442
+4 Wall of Lost Thoughts (JMP) 190
+4 Warden of Evos Isle (JMP) 191
+4 Warfire Javelineer (JMP) 370
+4 Warmonger's Chariot (JMP) 490
+4 Weaver of Lightning (JMP) 371
+4 Windstorm Drake (JMP) 195
+4 Wizard's Retort (JMP) 198
+
+
+### New Deck
+
+4 Woodborn Behemoth (JMP) 446
+4 Wren's Run Vanquisher (JMP) 447
+4 Young Pyromancer (JMP) 372
+4 Zendikar's Roil (JMP) 448
+4 Zombie Infestation (JMP) 288
+
+### The Last Deck has 20 cards in it.

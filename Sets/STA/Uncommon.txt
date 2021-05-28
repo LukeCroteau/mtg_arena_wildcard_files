@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adventurous Impulse (STA) 49
+4 Agonizing Remorse (STA) 24
+4 Claim the Firstborn (STA) 37
+4 Cultivate (STA) 51
+4 Defiant Strike (STA) 3
+4 Divine Gambit (STA) 4
+4 Duress (STA) 29
+4 Eliminate (STA) 30
+4 Infuriate (STA) 41
+4 Negate (STA) 18
+4 Opt (STA) 19
+4 Revitalize (STA) 9
+4 Shock (STA) 44
+4 Snakeskin Veil (STA) 57
+4 Strategic Planning (STA) 20
+4 Thrill of Possibility (STA) 46
+4 Village Rites (STA) 35
+4 Whirlwind Denial (STA) 23
+
+### The Last Deck has 72 cards in it.

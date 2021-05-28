@@ -1,0 +1,215 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Act of Treason (JMP) 289
+4 Aegis Turtle (JMP) 138
+4 Aerial Assault (JMP) 80
+4 Aether Spellbomb (JMP) 456
+4 Aggressive Urge (JMP) 374
+4 Agonizing Syphon (JMP) 199
+4 Alloy Myr (JMP) 457
+4 Ambassador Oak (JMP) 375
+4 Ancestral Statue (JMP) 458
+4 Angel of Mercy (JMP) 84
+4 Angelic Edict (JMP) 87
+4 Angelic Page (JMP) 88
+4 Arbor Armament (JMP) 376
+4 Archaeomender (JMP) 9
+4 Ashmouth Hound (JMP) 290
+4 Auger Spree (JMP) 449
+4 Bake into a Pie (JMP) 201
+4 Bathe in Dragonfire (JMP) 293
+4 Battlefield Promotion (JMP) 91
+4 Befuddle (JMP) 140
+4 Black Cat (JMP) 203
+4 Blighted Bat (JMP) 205
+4 Blindblast (JMP) 295
+4 Bloodhunter Bat (JMP) 210
+4 Bloodrock Cyclops (JMP) 297
+4 Boggart Brute (JMP) 299
+4 Bone Splinters (JMP) 213
+4 Borderland Marauder (JMP) 300
+4 Borderland Minotaur (JMP) 301
+4 Bulwark Giant (JMP) 93
+4 Burglar Rat (JMP) 214
+4 Cadaver Imp (JMP) 215
+4 Cathar's Companion (JMP) 94
+4 Cauldron Familiar (JMP) 216
+4 Cemetery Recruitment (JMP) 217
+4 Child of Night (JMP) 218
+4 Chromatic Sphere (JMP) 462
+4 Cloudreader Sphinx (JMP) 143
+4 Cloudshift (JMP) 97
+4 Collateral Damage (JMP) 305
+4 Commune with Dinosaurs (JMP) 384
+4 Corpse Hauler (JMP) 219
+4 Crookclaw Transmuter (JMP) 145
+4 Crow of Dark Tidings (JMP) 221
+4 Crushing Canopy (JMP) 386
+4 Dawntreader Elk (JMP) 387
+4 Death's Approach (JMP) 222
+4 Divine Arrow (JMP) 100
+4 Douse in Gloom (JMP) 223
+4 Dragon Fodder (JMP) 309
+
+
+### New Deck
+
+4 Dragon Hatchling (JMP) 310
+4 Drainpipe Vermin (JMP) 224
+4 Dutiful Attendant (JMP) 226
+4 Elemental Uprising (JMP) 390
+4 Erratic Visionary (JMP) 150
+4 Eternal Thirst (JMP) 229
+4 Explore (JMP) 393
+4 Fa'adiyah Seer (JMP) 394
+4 Fanatical Firebrand (JMP) 315
+4 Feral Invocation (JMP) 396
+4 Feral Prowler (JMP) 397
+4 Fertilid (JMP) 398
+4 Festering Newt (JMP) 234
+4 Flame Lash (JMP) 316
+4 Fling (JMP) 320
+4 Flurry of Horns (JMP) 321
+4 Forced Worship (JMP) 104
+4 Forge Devil (JMP) 322
+4 Fortify (JMP) 105
+4 Funeral Rites (JMP) 235
+4 Ghoulcaller's Accomplice (JMP) 237
+4 Ghoulraiser (JMP) 238
+4 Gingerbrute (JMP) 466
+4 Goblin Instigator (JMP) 327
+4 Goblin Shortcutter (JMP) 330
+4 Grave Bramble (JMP) 401
+4 Healer's Hawk (JMP) 107
+4 Heartfire (JMP) 333
+4 Hungry Flames (JMP) 336
+4 Indomitable Will (JMP) 109
+4 Initiate's Companion (JMP) 403
+4 Innocent Blood (JMP) 244
+4 Inspired Charge (JMP) 110
+4 Inspiring Captain (JMP) 111
+4 Ironshell Beetle (JMP) 405
+4 Jousting Dummy (JMP) 470
+4 Kalastria Nightwatch (JMP) 245
+4 Kiln Fiend (JMP) 338
+4 Kitesail Corsair (JMP) 155
+4 Knight of the Tusk (JMP) 114
+4 Knightly Valor (JMP) 115
+4 Last Gasp (JMP) 247
+4 Launch Party (JMP) 248
+4 Lawless Broker (JMP) 249
+4 Lawmage's Binding (JMP) 453
+4 Leaf Gilder (JMP) 408
+4 Leave in the Dust (JMP) 156
+4 Lightning Diadem (JMP) 343
+4 Lightning Elemental (JMP) 344
+4 Lightning Shrieker (JMP) 345
+
+
+### New Deck
+
+4 Lightning Visionary (JMP) 22
+4 Lightning-Core Excavator (JMP) 32
+4 Lightwalker (JMP) 118
+4 Macabre Waltz (JMP) 252
+4 Mana Geode (JMP) 472
+4 Marauder's Axe (JMP) 473
+4 Mark of the Vampire (JMP) 254
+4 Mesa Unicorn (JMP) 122
+4 Miasmic Mummy (JMP) 256
+4 Minotaur Skullcleaver (JMP) 349
+4 Minotaur Sureshot (JMP) 350
+4 Molten Ravager (JMP) 351
+4 Moment of Heroism (JMP) 124
+4 Mugging (JMP) 352
+4 Murmuring Phantasm (JMP) 157
+4 Myr Sire (JMP) 475
+4 Narcolepsy (JMP) 159
+4 New Horizons (JMP) 414
+4 Nightshade Stinger (JMP) 258
+4 Nocturnal Feeder (JMP) 16
+4 Octoprophet (JMP) 161
+4 Orazca Frillback (JMP) 416
+4 Ornery Goblin (JMP) 353
+4 Outnumber (JMP) 354
+4 Pacifism (JMP) 125
+4 Parasitic Implant (JMP) 262
+4 Peel from Reality (JMP) 163
+4 Penumbra Bobcat (JMP) 418
+4 Perilous Myr (JMP) 476
+4 Phyrexian Broodlings (JMP) 263
+4 Phyrexian Debaser (JMP) 264
+4 Phyrexian Rager (JMP) 266
+4 Pillar of Flame (JMP) 355
+4 Pirate's Cutlass (JMP) 477
+4 Plagued Rusalka (JMP) 268
+4 Pouncing Cheetah (JMP) 419
+4 Prescient Chimera (JMP) 164
+4 Presence of Gond (JMP) 420
+4 Prophetic Prism (JMP) 478
+4 Prosperous Pirates (JMP) 165
+4 Raise the Alarm (JMP) 129
+4 Rishadan Airship (JMP) 170
+4 Ronom Unicorn (JMP) 131
+4 Roving Keep (JMP) 480
+4 Rumbling Baloth (JMP) 426
+4 Runed Servitor (JMP) 481
+4 Rupture Spire (JMP) 495
+4 Sage's Row Savant (JMP) 171
+4 Sailor of Means (JMP) 172
+4 Sanitarium Skeleton (JMP) 273
+
+
+### New Deck
+
+4 Sarkhan's Rage (JMP) 360
+4 Scroll of Avacyn (JMP) 483
+4 Scrounging Bandar (JMP) 428
+4 Sea Gate Oracle (JMP) 173
+4 Selhoff Occultist (JMP) 174
+4 Shambling Goblin (JMP) 277
+4 Signpost Scarecrow (JMP) 485
+4 Skittering Surveyor (JMP) 486
+4 Slate Street Ruffian (JMP) 279
+4 Soul Salvage (JMP) 280
+4 Spitting Earth (JMP) 364
+4 Sporemound (JMP) 433
+4 Storm Sculptor (JMP) 179
+4 Sweep Away (JMP) 180
+4 Sylvan Brushstrider (JMP) 434
+4 Sylvan Ranger (JMP) 435
+4 Take Heart (JMP) 134
+4 Tandem Tactics (JMP) 135
+4 Terramorphic Expanse (JMP) 78
+4 Terrarion (JMP) 488
+4 Thermo-Alchemist (JMP) 365
+4 Thought Collapse (JMP) 184
+4 Thought Scour (JMP) 185
+4 Thriving Bluff (JMP) 33
+4 Thriving Grove (JMP) 34
+4 Thriving Heath (JMP) 35
+4 Thriving Isle (JMP) 36
+4 Thriving Moor (JMP) 37
+4 Time to Feed (JMP) 438
+4 Tithebearer Giant (JMP) 284
+4 Torch Fiend (JMP) 367
+4 Towering-Wave Mystic (JMP) 186
+4 Trusty Retriever (JMP) 8
+4 Vampire Neonate (JMP) 285
+4 Vastwood Zendikon (JMP) 440
+4 Vedalken Entrancer (JMP) 188
+4 Voice of the Provinces (JMP) 137
+4 Voyage's End (JMP) 189
+4 Wailing Ghoul (JMP) 286
+4 Wall of Vines (JMP) 443
+4 Waterknot (JMP) 192
+4 Wight of Precinct Six (JMP) 287
+4 Wildheart Invoker (JMP) 444
+4 Wildsize (JMP) 445
+4 Winged Words (JMP) 196
+4 Wishful Merfolk (JMP) 197
+
+### The Last Deck has 184 cards in it.

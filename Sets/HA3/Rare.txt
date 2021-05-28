@@ -1,0 +1,15 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Body Double (HA3) 6
+4 Devil's Play (HA3) 15
+4 Enchantress's Presence (HA3) 19
+4 Mirari's Wake (HA3) 23
+4 Ratchet Bomb (HA3) 25
+4 Swan Song (HA3) 9
+4 Tectonic Reformation (HA3) 18
+4 Tempered Steel (HA3) 4
+
+### The Last Deck has 32 cards in it.

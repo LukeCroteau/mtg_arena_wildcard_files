@@ -1,0 +1,13 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Brain Maggot (HA2) 7
+4 Ghost Quarter (HA2) 22
+4 Goblin Ruinblaster (HA2) 12
+4 Merrow Reejerey (HA2) 5
+4 Nyx-Fleece Ram (HA2) 1
+4 Virulent Plague (HA2) 9
+
+### The Last Deck has 24 cards in it.

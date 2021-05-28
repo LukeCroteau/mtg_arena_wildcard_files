@@ -1,0 +1,61 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Admiral's Order (RIX) 31
+4 Angrath's Fury (RIX) 204
+4 Arch of Orazca (RIX) 185
+4 Awakened Amalgam (RIX) 175
+4 Bishop of Binding (RIX) 2
+4 Blood Sun (RIX) 92
+4 Brass's Bounty (RIX) 94
+4 Captain's Hook (RIX) 177
+4 Champion of Dusk (RIX) 64
+4 Crafty Cutpurse (RIX) 33
+4 Dead Man's Chest (RIX) 66
+4 Deeproot Elite (RIX) 127
+4 Dire Fleet Daredevil (RIX) 99
+4 Dire Fleet Poisoner (RIX) 68
+4 Etali, Primal Storm (RIX) 100
+4 Form of the Dinosaur (RIX) 103
+4 Ghalta, Primal Hunger (RIX) 130
+4 Golden Guardian // Gold-Forge Garrison (RIX) 179
+4 Hadana's Climb // Winged Temple of Orazca (RIX) 158
+4 Induced Amnesia (RIX) 40
+4 Jadelight Ranger (RIX) 136
+4 Journey to Eternity // Atzal, Cave of Eternity (RIX) 160
+4 Kumena's Awakening (RIX) 42
+4 Mastermind's Acquisition (RIX) 77
+4 Nezahal, Primal Tide (RIX) 45
+4 Paladin of Atonement (RIX) 16
+4 Path of Discovery (RIX) 142
+4 Path of Mettle // Metzali, Tower of Triumph (RIX) 165
+4 Profane Procession // Tomb of the Dusk Rose (RIX) 166
+4 Protean Raider (RIX) 167
+4 Radiant Destiny (RIX) 18
+4 Release to the Wind (RIX) 46
+4 Seafloor Oracle (RIX) 51
+4 Siegehorn Ceratops (RIX) 171
+4 Silent Gravestone (RIX) 182
+4 Silverclad Ferocidons (RIX) 115
+4 Slaughter the Strong (RIX) 22
+4 Sphinx's Decree (RIX) 24
+4 Storm the Vault // Vault of Catlacan (RIX) 173
+4 Temple Altisaur (RIX) 28
+4 Tendershoot Dryad (RIX) 147
+4 Tetzimoc, Primal Death (RIX) 86
+4 Tilonalli's Summoner (RIX) 121
+4 Tomb Robber (RIX) 87
+4 Vona's Hunger (RIX) 90
+4 Vraska's Scorn (RIX) 200
+4 Warkite Marauder (RIX) 60
+4 Wayward Swordtooth (RIX) 150
+4 World Shaper (RIX) 151
+4 Zetalpa, Primal Dawn (RIX) 30
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

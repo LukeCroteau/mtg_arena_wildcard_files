@@ -1,0 +1,118 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Altar of the Pantheon (THB) 231
+4 Arena Trickster (THB) 126
+4 Aspect of Lamprey (THB) 85
+4 Aspect of Manticore (THB) 127
+4 Blight-Breath Catoblepas (THB) 86
+4 Brine Giant (THB) 44
+4 Bronze Sword (THB) 232
+4 Captivating Unicorn (THB) 6
+4 Chain to Memory (THB) 46
+4 Daybreak Chimera (THB) 10
+4 Deny the Divine (THB) 47
+4 Discordant Piper (THB) 88
+4 Dreadful Apathy (THB) 11
+4 Eidolon of Philosophy (THB) 48
+4 Elite Instructor (THB) 49
+4 Final Death (THB) 95
+4 Final Flare (THB) 134
+4 Flicker of Fate (THB) 16
+4 Flummoxed Cyclops (THB) 135
+4 Fruit of Tizerus (THB) 96
+4 Funeral Rites (THB) 97
+4 Gift of Strength (THB) 171
+4 Glory Bearers (THB) 17
+4 Grim Physician (THB) 100
+4 Heliod's Pilgrim (THB) 20
+4 Hero of the Games (THB) 137
+4 Hero of the Pride (THB) 22
+4 Hyrax Tower Scout (THB) 173
+4 Ichthyomorphosis (THB) 51
+4 Ilysian Caryatid (THB) 174
+4 Incendiary Oracle (THB) 140
+4 Indomitable Will (THB) 25
+4 Infuriate (THB) 141
+4 Inspire Awe (THB) 175
+4 Iroas's Blessing (THB) 142
+4 Irreverent Revelers (THB) 143
+4 Karametra's Blessing (THB) 26
+4 Lampad of Death's Vigil (THB) 103
+4 Leonin of the Lost Pride (THB) 28
+4 Loathsome Chimera (THB) 177
+4 Memory Drain (THB) 54
+4 Mindwrack Harpy (THB) 276
+4 Mire's Grasp (THB) 106
+4 Mogis's Favor (THB) 107
+4 Moss Viper (THB) 179
+4 Naiad of Hidden Coves (THB) 56
+4 Nexus Wardens (THB) 184
+4 Nylea's Forerunner (THB) 186
+4 Nylea's Huntmaster (THB) 187
+4 Nyxborn Brute (THB) 144
+
+
+### New Deck
+
+4 Nyxborn Colossus (THB) 191
+4 Nyxborn Courser (THB) 29
+4 Nyxborn Marauder (THB) 109
+4 Nyxborn Seaguard (THB) 57
+4 Omen of the Dead (THB) 110
+4 Omen of the Forge (THB) 145
+4 Omen of the Hunt (THB) 192
+4 Omen of the Sea (THB) 58
+4 Omen of the Sun (THB) 30
+4 Oread of Mountain's Blaze (THB) 146
+4 Pharika's Libation (THB) 111
+4 Pious Wayfarer (THB) 32
+4 Plummet (THB) 194
+4 Portent of Betrayal (THB) 149
+4 Rage-Scarred Berserker (THB) 113
+4 Relentless Pursuit (THB) 195
+4 Return to Nature (THB) 197
+4 Revoke Existence (THB) 34
+4 Riptide Turtle (THB) 61
+4 Rumbling Sentry (THB) 35
+4 Satyr's Cunning (THB) 152
+4 Scavenging Harpy (THB) 114
+4 Sentinel's Eyes (THB) 36
+4 Setessan Skirmisher (THB) 200
+4 Setessan Training (THB) 201
+4 Skola Grovedancer (THB) 202
+4 Skophos Warleader (THB) 154
+4 Sleep of the Dead (THB) 66
+4 Soulreaper of Mogis (THB) 115
+4 Stampede Rider (THB) 155
+4 Starlit Mantle (THB) 67
+4 Stern Dismissal (THB) 68
+4 Sunlit Hoplite (THB) 273
+4 Sunmane Pegasus (THB) 38
+4 Temple Thief (THB) 116
+4 Thaumaturge's Familiar (THB) 238
+4 Thirst for Meaning (THB) 74
+4 Thrill of Possibility (THB) 159
+4 Towering-Wave Mystic (THB) 77
+4 Transcendent Envoy (THB) 40
+4 Traveler's Amulet (THB) 240
+4 Triton Waverider (THB) 78
+4 Triumphant Surge (THB) 41
+4 Underworld Charger (THB) 120
+4 Underworld Rage-Hound (THB) 163
+4 Unknown Shores (THB) 249
+4 Venomous Hierophant (THB) 122
+4 Vexing Gull (THB) 79
+4 Voracious Typhon (THB) 203
+4 Warbriar Blessing (THB) 204
+
+
+### New Deck
+
+4 Wings of Hubris (THB) 241
+4 Witness of Tomorrows (THB) 82
+4 Wrap in Flames (THB) 164
+
+### The Last Deck has 12 cards in it.

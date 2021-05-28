@@ -1,0 +1,11 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Burning-Tree Emissary (HA1) 16
+4 Goblin Matron (HA1) 11
+4 Imperious Perfect (HA1) 15
+4 Ornithopter (HA1) 18
+
+### The Last Deck has 16 cards in it.

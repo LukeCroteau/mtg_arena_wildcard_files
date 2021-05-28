@@ -1,0 +1,9 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Sword of Body and Mind (HA4) 24
+4 Triumphant Reckoning (HA4) 4
+
+### The Last Deck has 8 cards in it.

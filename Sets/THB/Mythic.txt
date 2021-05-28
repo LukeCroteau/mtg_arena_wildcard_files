@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ashiok, Nightmare Muse (THB) 208
+4 Ashiok, Sculptor of Fears (THB) 274
+4 Athreos, Shroud-Veiled (THB) 269
+4 Calix, Destiny's Hand (THB) 211
+4 Elspeth, Sun's Nemesis (THB) 14
+4 Elspeth, Undaunted Hero (THB) 270
+4 Erebos, Bleak-Hearted (THB) 93
+4 Heliod, Sun-Crowned (THB) 18
+4 Kiora Bests the Sea God (THB) 52
+4 Klothys, God of Destiny (THB) 220
+4 Kroxa, Titan of Death's Hunger (THB) 221
+4 Nylea, Keen-Eyed (THB) 185
+4 Nyxbloom Ancient (THB) 190
+4 Ox of Agonas (THB) 147
+4 Polukranos, Unchained (THB) 224
+4 Purphoros, Bronze-Blooded (THB) 150
+4 Thassa, Deep-Dwelling (THB) 71
+4 Uro, Titan of Nature's Wrath (THB) 229
+
+### The Last Deck has 72 cards in it.

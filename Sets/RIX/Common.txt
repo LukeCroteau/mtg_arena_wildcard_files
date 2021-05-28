@@ -1,0 +1,84 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aggressive Urge (RIX) 122
+4 Bombard (RIX) 93
+4 Brazen Freebooter (RIX) 95
+4 Buccaneer's Bravado (RIX) 96
+4 Canal Monitor (RIX) 63
+4 Cinder Barrens (RIX) 205
+4 Cleansing Ray (RIX) 4
+4 Colossal Dreadmaw (RIX) 125
+4 Crashing Tide (RIX) 34
+4 Dark Inquiry (RIX) 65
+4 Deadeye Rig-Hauler (RIX) 36
+4 Dinosaur Hunter (RIX) 67
+4 Divine Verdict (RIX) 5
+4 Dusk Charger (RIX) 69
+4 Dusk Legion Zealot (RIX) 70
+4 Evolving Wilds (RIX) 186
+4 Exultant Skymarcher (RIX) 7
+4 Fanatical Firebrand (RIX) 101
+4 Fathom Fleet Boarder (RIX) 71
+4 Frilled Deathspitter (RIX) 104
+4 Giltgrove Stalker (RIX) 131
+4 Gleaming Barrier (RIX) 178
+4 Goblin Trailblazer (RIX) 105
+4 Grasping Scoundrel (RIX) 74
+4 Gruesome Fate (RIX) 75
+4 Hardy Veteran (RIX) 132
+4 Hunt the Weak (RIX) 133
+4 Impale (RIX) 76
+4 Jade Bearer (RIX) 134
+4 Jadecraft Artisan (RIX) 135
+4 Jungleborn Pioneer (RIX) 137
+4 Kitesail Corsair (RIX) 41
+4 Knight of the Stampede (RIX) 138
+4 Legion Conquistador (RIX) 11
+4 Luminous Bonds (RIX) 12
+4 Martyr of Dusk (RIX) 14
+4 Mist-Cloaked Herald (RIX) 43
+4 Moment of Craving (RIX) 79
+4 Moment of Triumph (RIX) 15
+4 Mutiny (RIX) 106
+4 Naturalize (RIX) 139
+4 Negate (RIX) 44
+4 Orazca Frillback (RIX) 140
+4 Orazca Raptor (RIX) 108
+4 Orazca Relic (RIX) 181
+4 Overgrown Armasaur (RIX) 141
+4 Plummet (RIX) 143
+4 Raptor Companion (RIX) 19
+4 Recover (RIX) 84
+4 River Darter (RIX) 47
+
+
+### New Deck
+
+4 Sailor of Means (RIX) 49
+4 Sanguine Glorifier (RIX) 20
+4 Sea Legs (RIX) 50
+4 Secrets of the Golden City (RIX) 52
+4 Shatter (RIX) 114
+4 Snubhorn Sentry (RIX) 23
+4 Soul of the Rapids (RIX) 56
+4 Spire Winder (RIX) 57
+4 Squire's Devotion (RIX) 25
+4 Stampeding Horncrest (RIX) 116
+4 Strider Harness (RIX) 183
+4 Sun Sentinel (RIX) 26
+4 Sun-Collared Raptor (RIX) 118
+4 Sun-Crested Pterodon (RIX) 27
+4 Swab Goblin (RIX) 203
+4 Swaggering Corsair (RIX) 119
+4 Sworn Guardian (RIX) 58
+4 Tilonalli's Crown (RIX) 120
+4 Traveler's Amulet (RIX) 184
+4 Vampire Champion (RIX) 198
+4 Vampire Revenant (RIX) 89
+4 Voracious Vampire (RIX) 91
+4 Waterknot (RIX) 61
+
+### The Last Deck has 92 cards in it.

@@ -1,0 +1,97 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aether Gust (M20) 42
+4 Air Elemental (M20) 44
+4 Ancestral Blade (M20) 3
+4 Angel of Vitality (M20) 4
+4 Apostle of Purifying Light (M20) 6
+4 Barkhide Troll (M20) 165
+4 Blightbeetle (M20) 87
+4 Blood for Bones (M20) 89
+4 Bloodsoaked Altar (M20) 90
+4 Bloodthirsty Aerialist (M20) 91
+4 Brineborn Cutthroat (M20) 50
+4 Captivating Gyre (M20) 51
+4 Cerulean Drake (M20) 53
+4 Chandra's Spitfire (M20) 132
+4 Chandra, Novice Pyromancer (M20) 128
+4 Colossus Hammer (M20) 223
+4 Corpse Knight (M20) 206
+4 Creeping Trailblazer (M20) 207
+4 Cryptic Caves (M20) 244
+4 Devout Decree (M20) 13
+4 Diamond Knight (M20) 224
+4 Disfigure (M20) 95
+4 Diviner's Lockbox (M20) 225
+4 Dragon Mage (M20) 135
+4 Ember Hauler (M20) 137
+4 Empyrean Eagle (M20) 208
+4 Eternal Isolation (M20) 15
+4 Fencing Ace (M20) 16
+4 Flame Sweep (M20) 139
+4 Fry (M20) 140
+4 Gauntlets of Light (M20) 17
+4 Gnarlback Rhino (M20) 300
+4 Goblin Ringleader (M20) 143
+4 Gods Willing (M20) 19
+4 Gravedigger (M20) 103
+4 Gruesome Scourger (M20) 104
+4 Hard Cover (M20) 63
+4 Herald of the Sun (M20) 23
+4 Howling Giant (M20) 177
+4 Ironroot Warlord (M20) 209
+4 Lightning Stormkin (M20) 213
+4 Loaming Shaman (M20) 180
+4 Loyal Pegasus (M20) 28
+4 Manifold Key (M20) 230
+4 Mask of Immolation (M20) 151
+4 Master Splicer (M20) 29
+4 Meteor Golem (M20) 232
+4 Might of the Masses (M20) 182
+4 Moldervine Reclamation (M20) 214
+4 Noxious Grasp (M20) 110
+
+
+### New Deck
+
+4 Ogre Siegebreaker (M20) 215
+4 Overcome (M20) 186
+4 Overgrowth Elemental (M20) 187
+4 Pattern Matcher (M20) 234
+4 Portal of Sanctuary (M20) 71
+4 Pulse of Murasa (M20) 189
+4 Pyroclastic Elemental (M20) 296
+4 Rapacious Dragon (M20) 153
+4 Renowned Weaponsmith (M20) 72
+4 Retributive Wand (M20) 236
+4 Risen Reef (M20) 217
+4 Rule of Law (M20) 35
+4 Salvager of Ruin (M20) 237
+4 Scampering Scorcher (M20) 158
+4 Scholar of the Ages (M20) 74
+4 Scuttlemutt (M20) 238
+4 Season of Growth (M20) 191
+4 Skyknight Vanguard (M20) 218
+4 Spectral Sailor (M20) 76
+4 Thirsting Bloodlord (M20) 293
+4 Thought Distortion (M20) 117
+4 Thrashing Brontodon (M20) 197
+4 Tomebound Lich (M20) 219
+4 Twinblade Paladin (M20) 285
+4 Uncaged Fury (M20) 163
+4 Unchained Berserker (M20) 164
+4 Vampire of the Dire Moon (M20) 120
+4 Veil of Summer (M20) 198
+4 Vengeful Warchief (M20) 121
+4 Volcanic Dragon (M20) 336
+4 Warden of Evos Isle (M20) 79
+4 Waterkin Shaman (M20) 288
+4 Wolfrider's Saddle (M20) 204
+4 Woodland Champion (M20) 205
+4 Yarok's Fenlurker (M20) 123
+4 Yarok's Wavecrasher (M20) 81
+
+### The Last Deck has 144 cards in it.

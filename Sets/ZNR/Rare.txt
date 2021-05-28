@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Akiri, Fearless Voyager (ZNR) 220
+4 Archon of Emeria (ZNR) 4
+4 Archpriest of Iona (ZNR) 5
+4 Branchloft Pathway // Boulderloft Pathway (ZNR) 258
+4 Brightclimb Pathway // Grimclimb Pathway (ZNR) 259
+4 Charix, the Raging Isle (ZNR) 49
+4 Clearwater Pathway // Murkwater Pathway (ZNR) 260
+4 Confounding Conundrum (ZNR) 53
+4 Coralhelm Chronicler (ZNR) 54
+4 Coveted Prize (ZNR) 95
+4 Cragcrown Pathway // Timbercrown Pathway (ZNR) 261
+4 Cragplate Baloth (ZNR) 183
+4 Crawling Barrens (ZNR) 262
+4 Felidar Retreat (ZNR) 16
+4 Glasspool Mimic // Glasspool Shore (ZNR) 60
+4 Grakmaw, Skyclave Ravager (ZNR) 223
+4 Hagra Mauling // Hagra Broodpit (ZNR) 106
+4 Inscription of Abundance (ZNR) 186
+4 Inscription of Insight (ZNR) 61
+4 Inscription of Ruin (ZNR) 108
+4 Kargan Intimidator (ZNR) 145
+4 Kaza, Roil Chaser (ZNR) 225
+4 Kazandu Mammoth // Kazandu Valley (ZNR) 189
+4 Legion Angel (ZNR) 23
+4 Linvala, Shield of Sea Gate (ZNR) 226
+4 Lotus Cobra (ZNR) 193
+4 Luminarch Aspirant (ZNR) 24
+4 Maddening Cacophony (ZNR) 67
+4 Magmatic Channeler (ZNR) 148
+4 Master of Winds (ZNR) 68
+4 Maul of the Skyclaves (ZNR) 27
+4 Myriad Construct (ZNR) 246
+4 Nahiri's Lithoforming (ZNR) 151
+4 Needleverge Pathway // Pillarverge Pathway (ZNR) 263
+4 Nighthawk Scavenger (ZNR) 115
+4 Nimble Trapfinder (ZNR) 72
+4 Nullpriest of Oblivion (ZNR) 118
+4 Ondu Inversion // Ondu Skyruins (ZNR) 30
+4 Orah, Skyclave Hierophant (ZNR) 233
+4 Oran-Rief Ooze (ZNR) 198
+4 Phylath, World Sculptor (ZNR) 234
+4 Relic Robber (ZNR) 153
+4 Riverglide Pathway // Lavaglide Pathway (ZNR) 264
+4 Roiling Vortex (ZNR) 156
+4 Scute Swarm (ZNR) 203
+4 Shadows' Verdict (ZNR) 124
+4 Shatterskull Charger (ZNR) 159
+4 Skyclave Apparition (ZNR) 39
+4 Skyclave Relic (ZNR) 252
+4 Skyclave Shade (ZNR) 125
+
+
+### New Deck
+
+4 Soul Shatter (ZNR) 127
+4 Squad Commander (ZNR) 41
+4 Swarm Shambler (ZNR) 207
+4 Taborax, Hope's Demise (ZNR) 129
+4 Tajuru Paragon (ZNR) 209
+4 Thieving Skydiver (ZNR) 85
+4 Throne of Makindi (ZNR) 265
+4 Valakut Awakening // Valakut Stoneforge (ZNR) 174
+4 Valakut Exploration (ZNR) 175
+4 Verazol, the Split Current (ZNR) 239
+4 Wayward Guide-Beast (ZNR) 176
+4 Yasharn, Implacable Earth (ZNR) 240
+4 Zagras, Thief of Heartbeats (ZNR) 241
+4 Zareth San, the Trickster (ZNR) 242
+
+### The Last Deck has 56 cards in it.

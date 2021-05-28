@@ -1,0 +1,17 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Inexorable Tide (HA2) 6
+4 Knight of the Reliquary (HA2) 15
+4 Maelstrom Pulse (HA2) 16
+4 Meddling Mage (HA2) 17
+4 Pack Rat (HA2) 8
+4 Ranger of Eos (HA2) 2
+4 Sigil of the Empty Throne (HA2) 3
+4 Terravore (HA2) 14
+4 Thalia, Guardian of Thraben (HA2) 4
+4 Waste Not (HA2) 10
+
+### The Last Deck has 40 cards in it.

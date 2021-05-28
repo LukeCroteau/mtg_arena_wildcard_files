@@ -1,0 +1,76 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Allure of the Unknown (THB) 207
+4 Aphemia, the Cacophony (THB) 84
+4 Arasta of the Endless Web (THB) 165
+4 Archon of Sun's Grace (THB) 3
+4 Ashiok's Erasure (THB) 43
+4 Ashiok's Forerunner (THB) 277
+4 Atris, Oracle of Half-Truths (THB) 209
+4 Bronzehide Lion (THB) 210
+4 Dalakos, Crafter of Wonders (THB) 212
+4 Deathbellow War Cry (THB) 294
+4 Demon of Loathing (THB) 292
+4 Dream Trawler (THB) 214
+4 Dryad of the Ilysian Grove (THB) 169
+4 Eat to Extinction (THB) 90
+4 Eidolon of Obstruction (THB) 12
+4 Elspeth Conquers Death (THB) 13
+4 Elspeth's Devotee (THB) 272
+4 Enigmatic Incarnation (THB) 215
+4 Erebos's Intervention (THB) 94
+4 Gallia of the Endless Dance (THB) 217
+4 Grasping Giant (THB) 288
+4 Gravebreaker Lamia (THB) 98
+4 Haktos the Unscarred (THB) 218
+4 Heliod's Intervention (THB) 19
+4 Idyllic Tutor (THB) 24
+4 Ironscale Hydra (THB) 296
+4 Kunoros, Hound of Athreos (THB) 222
+4 Labyrinth of Skophos (THB) 243
+4 Mantle of the Wolf (THB) 178
+4 Nadir Kraken (THB) 55
+4 Nessian Boar (THB) 181
+4 Nightmare Shepherd (THB) 108
+4 Nylea's Intervention (THB) 188
+4 Nyx Lotus (THB) 235
+4 Phoenix of Ash (THB) 148
+4 Protean Thaumaturge (THB) 60
+4 Purphoros's Intervention (THB) 151
+4 Serpent of Yawning Depths (THB) 291
+4 Setessan Champion (THB) 198
+4 Shadowspear (THB) 236
+4 Shatter the Sky (THB) 37
+4 Sphinx Mindbreaker (THB) 290
+4 Storm Herald (THB) 156
+4 Storm's Wrath (THB) 157
+4 Taranika, Akroan Veteran (THB) 39
+4 Tectonic Giant (THB) 158
+4 Temple of Abandon (THB) 244
+4 Temple of Deceit (THB) 245
+4 Temple of Enlightenment (THB) 246
+4 Temple of Malice (THB) 247
+
+
+### New Deck
+
+4 Temple of Plenty (THB) 248
+4 Terror of Mount Velus (THB) 295
+4 Thassa's Intervention (THB) 72
+4 Thassa's Oracle (THB) 73
+4 The Akroan War (THB) 124
+4 The First Iroan Games (THB) 170
+4 Thryx, the Sudden Storm (THB) 76
+4 Treacherous Blessing (THB) 117
+4 Treeshaker Chimera (THB) 297
+4 Tymaret Calls the Dead (THB) 118
+4 Underworld Breach (THB) 161
+4 Underworld Sentinel (THB) 293
+4 Victory's Envoy (THB) 289
+4 Wavebreak Hippocamp (THB) 80
+4 Woe Strider (THB) 123
+
+### The Last Deck has 60 cards in it.

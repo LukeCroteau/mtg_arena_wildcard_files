@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Inspiring Leader (M20) 282
+4 Ajani, Strength of the Pride (M20) 2
+4 Cavalier of Dawn (M20) 10
+4 Cavalier of Flame (M20) 125
+4 Cavalier of Gales (M20) 52
+4 Cavalier of Night (M20) 94
+4 Cavalier of Thorns (M20) 167
+4 Chandra, Awakened Inferno (M20) 127
+4 Chandra, Flame's Fury (M20) 294
+4 Kaalia, Zenith Seeker (M20) 210
+4 Kethis, the Hidden Hand (M20) 211
+4 Kykar, Wind's Fury (M20) 212
+4 Mu Yanling, Celestial Wind (M20) 286
+4 Mu Yanling, Sky Dancer (M20) 68
+4 Omnath, Locus of the Roil (M20) 216
+4 Rienne, Angel of Rebirth (M20) 281
+4 Sorin, Imperious Bloodlord (M20) 115
+4 Sorin, Vampire Lord (M20) 290
+4 Vivien, Arkbow Ranger (M20) 199
+4 Vivien, Nature's Avenger (M20) 298
+4 Yarok, the Desecrated (M20) 220
+
+### The Last Deck has 84 cards in it.

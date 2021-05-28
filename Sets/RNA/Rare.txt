@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Absorb (RNA) 151
+4 Amplifire (RNA) 92
+4 Awaken the Erstwhile (RNA) 61
+4 Bedeck // Bedazzle (RNA) 221
+4 Bedevil (RNA) 157
+4 Benthic Biomancer (RNA) 32
+4 Biomancer's Familiar (RNA) 158
+4 Blood Crypt (RNA) 245
+4 Breeding Pool (RNA) 246
+4 Cindervines (RNA) 161
+4 Deputy of Detention (RNA) 165
+4 Domri's Nodorog (RNA) 272
+4 Dovin's Dismissal (RNA) 267
+4 Electrodominance (RNA) 99
+4 End-Raze Forerunners (RNA) 124
+4 Ethereal Absolution (RNA) 170
+4 Font of Agonies (RNA) 74
+4 Glass of the Guildpact (RNA) 233
+4 Godless Shrine (RNA) 248
+4 Growth-Chamber Guardian (RNA) 128
+4 Gruul Spellbreaker (RNA) 179
+4 Guardian Project (RNA) 130
+4 Gutterbones (RNA) 76
+4 Hallowed Fountain (RNA) 251
+4 Hero of Precinct One (RNA) 11
+4 Immolation Shaman (RNA) 106
+4 Incubation Druid (RNA) 131
+4 Judith, the Scourge Diva (RNA) 185
+4 Kaya's Wrath (RNA) 187
+4 Lavinia, Azorius Renegade (RNA) 189
+4 Lumbering Battlement (RNA) 15
+4 Mass Manipulation (RNA) 42
+4 Mirror March (RNA) 108
+4 Nikya of the Old Ways (RNA) 193
+4 Pestilent Spirit (RNA) 81
+4 Plaza of Harmony (RNA) 254
+4 Precognitive Perception (RNA) 45
+4 Priest of Forgotten Gods (RNA) 83
+4 Rampage of the Clans (RNA) 134
+4 Repudiate // Replicate (RNA) 227
+4 Revival // Revenge (RNA) 228
+4 Rix Maadi Reveler (RNA) 109
+4 Simic Ascendancy (RNA) 207
+4 Smothering Tithe (RNA) 22
+4 Sphinx of Foresight (RNA) 55
+4 Stomping Ground (RNA) 259
+4 Teysa Karlov (RNA) 212
+4 Theater of Horrors (RNA) 213
+4 Thrash // Threat (RNA) 229
+4 Tithe Taker (RNA) 27
+
+
+### New Deck
+
+4 Tome of the Guildpact (RNA) 242
+4 Unbreakable Formation (RNA) 29
+4 Verity Circle (RNA) 58
+4 Warrant // Warden (RNA) 230
+4 Zegana, Utopian Speaker (RNA) 214
+
+### The Last Deck has 20 cards in it.

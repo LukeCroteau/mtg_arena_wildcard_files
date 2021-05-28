@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alrund's Epiphany (KHM) 41
+4 Alrund, God of the Cosmos // Hakka, Whispering Raven (KHM) 40
+4 Battle Mammoth (KHM) 160
+4 Burning-Rune Demon (KHM) 81
+4 Eradicator Valkyrie (KHM) 94
+4 Esika, God of the Tree // The Prismatic Bridge (KHM) 168
+4 Goldspan Dragon (KHM) 139
+4 Halvar, God of Battle // Sword of the Realms (KHM) 15
+4 Haunting Voyage (KHM) 98
+4 Kaya the Inexorable (KHM) 218
+4 Koma, Cosmos Serpent (KHM) 221
+4 Niko Aris (KHM) 225
+4 Orvar, the All-Form (KHM) 70
+4 Quakebringer (KHM) 145
+4 Resplendent Marshal (KHM) 22
+4 Starnheim Unleashed (KHM) 33
+4 Toralf, God of Fury // Toralf's Hammer (KHM) 154
+4 Tyvar Kell (KHM) 198
+4 Valki, God of Lies // Tibalt, Cosmic Impostor (KHM) 114
+4 Vorinclex, Monstrous Raider (KHM) 199
+
+### The Last Deck has 80 cards in it.

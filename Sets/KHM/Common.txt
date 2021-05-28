@@ -1,0 +1,131 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alpine Meadow (KHM) 248
+4 Annul (KHM) 42
+4 Arachnoform (KHM) 159
+4 Arctic Treeline (KHM) 249
+4 Augury Raven (KHM) 44
+4 Axgard Braggart (KHM) 1
+4 Axgard Cavalry (KHM) 121
+4 Battlefield Raptor (KHM) 3
+4 Behold the Multiverse (KHM) 46
+4 Berg Strider (KHM) 47
+4 Beskir Shieldmate (KHM) 4
+4 Bind the Monster (KHM) 48
+4 Bound in Gold (KHM) 5
+4 Breakneck Berserker (KHM) 124
+4 Brinebarrow Intruder (KHM) 49
+4 Broken Wings (KHM) 164
+4 Cinderheart Giant (KHM) 126
+4 Codespell Cleric (KHM) 7
+4 Craven Hulk (KHM) 127
+4 Deathknell Berserker (KHM) 83
+4 Demon Bolt (KHM) 129
+4 Demonic Gifts (KHM) 84
+4 Depart the Realm (KHM) 53
+4 Disdainful Stroke (KHM) 54
+4 Dogged Pursuit (KHM) 85
+4 Doomskar Oracle (KHM) 10
+4 Draugr Recruiter (KHM) 87
+4 Draugr Thought-Thief (KHM) 55
+4 Dread Rider (KHM) 89
+4 Duskwielder (KHM) 91
+4 Dwarven Reinforcements (KHM) 134
+4 Elderfang Disciple (KHM) 93
+4 Elderleaf Mentor (KHM) 165
+4 Fearless Pup (KHM) 136
+4 Feed the Serpent (KHM) 95
+4 Frost Bite (KHM) 138
+4 Frostpeak Yeti (KHM) 57
+4 Funeral Longboat (KHM) 238
+4 Giant Ox (KHM) 11
+4 Glacial Floodplain (KHM) 257
+4 Glittering Frost (KHM) 171
+4 Gnottvold Recluse (KHM) 172
+4 Gods' Hall Guardian (KHM) 13
+4 Goldmaw Champion (KHM) 14
+4 Goldvein Pick (KHM) 239
+4 Grim Draugr (KHM) 96
+4 Grizzled Outrider (KHM) 173
+4 Guardian Gladewalker (KHM) 174
+4 Hagi Mob (KHM) 140
+4 Highland Forest (KHM) 261
+
+
+### New Deck
+
+4 Horizon Seeker (KHM) 175
+4 Ice Tunnel (KHM) 262
+4 Icehide Troll (KHM) 176
+4 Immersturm Raider (KHM) 141
+4 Infernal Pet (KHM) 99
+4 Invoke the Divine (KHM) 16
+4 Iron Verdict (KHM) 17
+4 Jarl of the Forsaken (KHM) 100
+4 Jaspera Sentinel (KHM) 178
+4 Karfell Harbinger (KHM) 65
+4 Karfell Kennel-Master (KHM) 101
+4 King Harald's Revenge (KHM) 180
+4 Koma's Faithful (KHM) 102
+4 Littjara Kinseekers (KHM) 66
+4 Mammoth Growth (KHM) 183
+4 Masked Vandal (KHM) 184
+4 Master Skald (KHM) 19
+4 Mists of Littjara (KHM) 67
+4 Mistwalker (KHM) 68
+4 Open the Omenpaths (KHM) 143
+4 Pilfering Hawk (KHM) 71
+4 Priest of the Haunted Edge (KHM) 104
+4 Raiders' Karve (KHM) 242
+4 Raise the Draugr (KHM) 105
+4 Raven Wings (KHM) 243
+4 Ravenform (KHM) 72
+4 Ravenous Lindwurm (KHM) 187
+4 Revitalize (KHM) 23
+4 Rimewood Falls (KHM) 266
+4 Roots of Wisdom (KHM) 190
+4 Run Amok (KHM) 147
+4 Run Ashore (KHM) 74
+4 Sarulf's Packmate (KHM) 192
+4 Scorn Effigy (KHM) 246
+4 Sculptor of Winter (KHM) 193
+4 Seize the Spoils (KHM) 149
+4 Shackles of Treachery (KHM) 150
+4 Shimmerdrift Vale (KHM) 267
+4 Skull Raid (KHM) 111
+4 Smashing Success (KHM) 151
+4 Snakeskin Veil (KHM) 194
+4 Snow-Covered Forest (KHM) 284
+4 Snow-Covered Island (KHM) 278
+4 Snow-Covered Mountain (KHM) 282
+4 Snow-Covered Plains (KHM) 276
+4 Snow-Covered Swamp (KHM) 280
+4 Snowfield Sinkhole (KHM) 269
+4 Squash (KHM) 152
+4 Stalwart Valkyrie (KHM) 31
+4 Starnheim Courser (KHM) 32
+
+
+### New Deck
+
+4 Story Seeker (KHM) 34
+4 Strategic Planning (KHM) 77
+4 Struggle for Skemfar (KHM) 196
+4 Sulfurous Mire (KHM) 270
+4 Tormentor's Helm (KHM) 155
+4 Tuskeri Firewalker (KHM) 157
+4 Undersea Invader (KHM) 78
+4 Valor of the Worthy (KHM) 37
+4 Vault Robber (KHM) 158
+4 Village Rites (KHM) 117
+4 Volatile Fjord (KHM) 273
+4 Warhorn Blast (KHM) 38
+4 Weigh Down (KHM) 118
+4 Wings of the Cosmos (KHM) 39
+4 Withercrown (KHM) 119
+4 Woodland Chasm (KHM) 274
+
+### The Last Deck has 64 cards in it.

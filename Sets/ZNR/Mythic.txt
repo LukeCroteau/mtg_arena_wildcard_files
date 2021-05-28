@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+4 Ancient Greenwarden (ZNR) 178
+4 Angel of Destiny (ZNR) 2
+4 Ashaya, Soul of the Wild (ZNR) 179
+4 Drana, the Last Bloodchief (ZNR) 98
+4 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
+4 Forsaken Monument (ZNR) 244
+4 Jace, Mirror Mage (ZNR) 63
+4 Leyline Tyrant (ZNR) 147
+4 Lithoform Engine (ZNR) 245
+4 Moraug, Fury of Akoum (ZNR) 150
+4 Nahiri, Heir of the Ancients (ZNR) 230
+4 Nissa of Shadowed Boughs (ZNR) 231
+4 Omnath, Locus of Creation (ZNR) 232
+4 Scourge of the Skyclaves (ZNR) 122
+4 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 76
+4 Sea Gate Stormcaller (ZNR) 77
+4 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 161
+4 Tazri, Beacon of Unity (ZNR) 44
+4 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 215
+
+### The Last Deck has 80 cards in it.

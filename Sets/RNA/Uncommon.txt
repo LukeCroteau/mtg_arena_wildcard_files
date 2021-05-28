@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angelic Exaltation (RNA) 2
+4 Archway Angel (RNA) 3
+4 Azorius Skyguard (RNA) 155
+4 Bankrupt in Blood (RNA) 62
+4 Basilica Bell-Haunt (RNA) 156
+4 Biogenic Upgrade (RNA) 123
+4 Bloodmist Infiltrator (RNA) 65
+4 Bolrac-Clan Crusher (RNA) 159
+4 Carnival // Carnage (RNA) 222
+4 Cavalcade of Calamity (RNA) 95
+4 Charging War Boar (RNA) 271
+4 Clamor Shaman (RNA) 96
+4 Clan Guildmage (RNA) 162
+4 Clear the Stage (RNA) 68
+4 Code of Constraint (RNA) 35
+4 Collision // Colossus (RNA) 223
+4 Combine Guildmage (RNA) 163
+4 Consecrate // Consume (RNA) 224
+4 Cry of the Carnarium (RNA) 70
+4 Cult Guildmage (RNA) 164
+4 Dagger Caster (RNA) 97
+4 Depose // Deploy (RNA) 225
+4 Dovin's Acuity (RNA) 168
+4 Dovin's Automaton (RNA) 268
+4 Drill Bit (RNA) 73
+4 Enraged Ceratok (RNA) 125
+4 Essence Capture (RNA) 37
+4 Eyes Everywhere (RNA) 38
+4 Fireblade Artist (RNA) 172
+4 Flames of the Raze-Boar (RNA) 101
+4 Forbidding Spirit (RNA) 9
+4 Frilled Mystic (RNA) 174
+4 Galloping Lizrog (RNA) 175
+4 Gate Colossus (RNA) 232
+4 Gatebreaker Ram (RNA) 126
+4 Gates Ablaze (RNA) 102
+4 Gateway Sneak (RNA) 40
+4 Gruul Beastmaster (RNA) 129
+4 Gyre Engineer (RNA) 180
+4 Hackrobat (RNA) 181
+4 High Alert (RNA) 182
+4 Incubation // Incongruity (RNA) 226
+4 Junktroller (RNA) 235
+4 Knight of the Last Breath (RNA) 188
+4 Light Up the Stage (RNA) 107
+4 Macabre Mockery (RNA) 191
+4 Ministrant of Obligation (RNA) 16
+4 Mortify (RNA) 192
+4 Orzhov Enforcer (RNA) 79
+4 Orzhov Racketeers (RNA) 80
+
+
+### New Deck
+
+4 Pitiless Pontiff (RNA) 194
+4 Pteramander (RNA) 47
+4 Rakdos Firewheeler (RNA) 197
+4 Rally to Battle (RNA) 18
+4 Regenesis (RNA) 136
+4 Resolute Watchdog (RNA) 19
+4 Rhythm of the Wild (RNA) 201
+4 Rumbling Ruin (RNA) 112
+4 Scrabbling Claws (RNA) 238
+4 Screaming Shield (RNA) 239
+4 Senate Guildmage (RNA) 204
+4 Sentinel's Mark (RNA) 20
+4 Sharktocrab (RNA) 206
+4 Silhana Wayfinder (RNA) 141
+4 Skatewing Spy (RNA) 52
+4 Sky Tether (RNA) 21
+4 Smelt-Ward Ignus (RNA) 116
+4 Sphinx of New Prahv (RNA) 208
+4 Sphinx of the Guildpact (RNA) 241
+4 Spire Mangler (RNA) 86
+4 Spirit of the Spires (RNA) 23
+4 Sunder Shaman (RNA) 210
+4 Swirling Torrent (RNA) 56
+4 Syndicate Guildmage (RNA) 211
+4 Tin Street Dodger (RNA) 120
+4 Tower Defense (RNA) 147
+4 Trollbred Guardian (RNA) 148
+4 Vindictive Vampire (RNA) 90
+4 Wall of Lost Thoughts (RNA) 59
+4 Wilderness Reclamation (RNA) 149
+4 Windstorm Drake (RNA) 60
+4 Zhur-Taa Goblin (RNA) 215
+
+### The Last Deck has 128 cards in it.

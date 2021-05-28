@@ -1,0 +1,80 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Acclaimed Contender (ELD) 1
+4 Ayara, First of Locthwain (ELD) 75
+4 Banish into Fable (ELD) 325
+4 Blacklance Paragon (ELD) 79
+4 Bonecrusher Giant // Stomp (ELD) 115
+4 Castle Ardenvale (ELD) 238
+4 Castle Embereth (ELD) 239
+4 Castle Garenbrig (ELD) 240
+4 Castle Locthwain (ELD) 241
+4 Castle Vantress (ELD) 242
+4 Charming Prince (ELD) 8
+4 Chittering Witch (ELD) 319
+4 Clackbridge Troll (ELD) 84
+4 Dance of the Manse (ELD) 186
+4 Doom Foretold (ELD) 187
+4 Embereth Skyblazer (ELD) 321
+4 Emry, Lurker of the Loch (ELD) 43
+4 Escape to the Wilds (ELD) 189
+4 Fabled Passage (ELD) 244
+4 Fae of Wishes // Granted (ELD) 44
+4 Faeburrow Elder (ELD) 190
+4 Faerie Formation (ELD) 316
+4 Feasting Troll King (ELD) 152
+4 Fervent Champion (ELD) 124
+4 Fires of Invention (ELD) 125
+4 Folio of Fancies (ELD) 46
+4 Gadwick, the Wizened (ELD) 48
+4 Giant Killer // Chop Down (ELD) 14
+4 Gilded Goose (ELD) 160
+4 Gluttonous Troll (ELD) 327
+4 Happily Ever After (ELD) 16
+4 Hushbringer (ELD) 18
+4 Irencrag Feat (ELD) 127
+4 Irencrag Pyromancer (ELD) 128
+4 Knights' Charge (ELD) 328
+4 Linden, the Steadfast Queen (ELD) 20
+4 Lochmere Serpent (ELD) 195
+4 Lovestruck Beast // Heart's Desire (ELD) 165
+4 Mace of the Valiant (ELD) 314
+4 Midnight Clock (ELD) 54
+4 Mirrormade (ELD) 55
+4 Murderous Rider // Swift End (ELD) 97
+4 Oathsworn Knight (ELD) 98
+4 Oko's Hospitality (ELD) 312
+4 Once Upon a Time (ELD) 169
+4 Opportunistic Dragon (ELD) 133
+4 Piper of the Swarm (ELD) 100
+4 Return of the Wildspeaker (ELD) 172
+4 Rowan's Stalwarts (ELD) 307
+4 Shimmer Dragon (ELD) 317
+
+
+### New Deck
+
+4 Silverwing Squadron (ELD) 315
+4 Sorcerous Spyglass (ELD) 233
+4 Steelbane Hydra (ELD) 322
+4 Stolen by the Fae (ELD) 66
+4 Stonecoil Serpent (ELD) 235
+4 Stormfist Crusader (ELD) 203
+4 Sundering Stroke (ELD) 144
+4 Taste of Death (ELD) 320
+4 Thorn Mammoth (ELD) 323
+4 Tome of Legends (ELD) 332
+4 Torbran, Thane of Red Fell (ELD) 147
+4 Vantress Gargoyle (ELD) 71
+4 Wicked Wolf (ELD) 181
+4 Wildborn Preserver (ELD) 182
+4 Wishclaw Talisman (ELD) 110
+4 Witch's Vengeance (ELD) 111
+4 Workshop Elders (ELD) 318
+4 Worthy Knight (ELD) 36
+4 Yorvo, Lord of Garenbrig (ELD) 185
+
+### The Last Deck has 76 cards in it.

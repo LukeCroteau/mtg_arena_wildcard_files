@@ -1,0 +1,74 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aetherflux Reservoir (KLR) 217
+4 Aethersphere Harvester (KLR) 218
+4 Aetherstorm Roc (KLR) 4
+4 Animation Module (KLR) 220
+4 Authority of the Consuls (KLR) 9
+4 Baral's Expertise (KLR) 43
+4 Baral, Chief of Compliance (KLR) 42
+4 Blooming Marsh (KLR) 280
+4 Bomat Courier (KLR) 225
+4 Botanical Sanctum (KLR) 281
+4 Bristling Hydra (KLR) 156
+4 Concealed Courtyard (KLR) 282
+4 Confiscation Coup (KLR) 45
+4 Cultivator's Caravan (KLR) 230
+4 Dark Intimations (KLR) 191
+4 Depala, Pilot Exemplar (KLR) 192
+4 Disallow (KLR) 46
+4 Dynavolt Tower (KLR) 235
+4 Electrostatic Pummeler (KLR) 237
+4 Fateful Showdown (KLR) 123
+4 Freejam Regent (KLR) 124
+4 Fumigate (KLR) 19
+4 Glint-Sleeve Siphoner (KLR) 92
+4 Gonti, Lord of Luxury (KLR) 93
+4 Greenbelt Rampager (KLR) 160
+4 Heroic Intervention (KLR) 161
+4 Hope of Ghirapur (KLR) 243
+4 Inspiring Vantage (KLR) 283
+4 Inventors' Fair (KLR) 284
+4 Kambal, Consul of Allocation (KLR) 198
+4 Kari Zev's Expertise (KLR) 134
+4 Kari Zev, Skyship Raider (KLR) 133
+4 Key to the City (KLR) 248
+4 Lifecrafter's Bestiary (KLR) 249
+4 Lost Legacy (KLR) 96
+4 Marionette Master (KLR) 98
+4 Master Trinketeer (KLR) 25
+4 Merchant's Dockhand (KLR) 250
+4 Metallic Mimic (KLR) 251
+4 Metalwork Colossus (KLR) 252
+4 Midnight Oil (KLR) 100
+4 Oath of Ajani (KLR) 200
+4 Oviya Pashiri, Sage Lifecrafter (KLR) 174
+4 Padeem, Consul of Innovation (KLR) 60
+4 Panharmonicon (KLR) 258
+4 Paradoxical Outcome (KLR) 61
+4 Peacewalker Colossus (KLR) 260
+4 Pia Nalaar (KLR) 136
+4 Quicksmith Rebel (KLR) 139
+4 Rishkar's Expertise (KLR) 180
+
+
+### New Deck
+
+4 Rishkar, Peema Renegade (KLR) 179
+4 Scrap Trawler (KLR) 267
+4 Scrapheap Scrounger (KLR) 268
+4 Skyship Stalker (KLR) 146
+4 Spire of Industry (KLR) 285
+4 Spirebluff Canal (KLR) 286
+4 Sram's Expertise (KLR) 33
+4 Sram, Senior Edificer (KLR) 32
+4 Toolcraft Exemplar (KLR) 35
+4 Whir of Invention (KLR) 73
+4 Wildest Dreams (KLR) 187
+4 Yahenni's Expertise (KLR) 112
+4 Yahenni, Undying Partisan (KLR) 111
+
+### The Last Deck has 52 cards in it.

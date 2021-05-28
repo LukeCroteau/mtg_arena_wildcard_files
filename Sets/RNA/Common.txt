@@ -1,0 +1,123 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Act of Treason (RNA) 91
+4 Aeromunculus (RNA) 152
+4 Applied Biomancy (RNA) 153
+4 Arrester's Admonition (RNA) 31
+4 Arrester's Zeal (RNA) 4
+4 Axebane Beast (RNA) 121
+4 Azorius Guildgate (RNA) 243
+4 Azorius Knight-Arbiter (RNA) 154
+4 Azorius Locket (RNA) 231
+4 Blade Juggler (RNA) 63
+4 Bladebrand (RNA) 64
+4 Bring to Trial (RNA) 5
+4 Burn Bright (RNA) 93
+4 Burning-Tree Vandal (RNA) 94
+4 Carrion Imp (RNA) 66
+4 Catacomb Crocodile (RNA) 67
+4 Chillbringer (RNA) 33
+4 Civic Stalwart (RNA) 6
+4 Clear the Mind (RNA) 34
+4 Concordia Pegasus (RNA) 7
+4 Consign to the Pit (RNA) 69
+4 Coral Commando (RNA) 36
+4 Dead Revels (RNA) 71
+4 Debtors' Transport (RNA) 72
+4 Deface (RNA) 98
+4 Elite Arrester (RNA) 266
+4 Expose to Daylight (RNA) 8
+4 Faerie Duelist (RNA) 39
+4 Feral Maaka (RNA) 100
+4 Final Payment (RNA) 171
+4 Footlight Fiend (RNA) 216
+4 Frenzied Arynx (RNA) 173
+4 Gateway Plaza (RNA) 247
+4 Get the Point (RNA) 176
+4 Ghor-Clan Wrecker (RNA) 103
+4 Gift of Strength (RNA) 127
+4 Goblin Gathering (RNA) 104
+4 Grasping Thrull (RNA) 177
+4 Gravel-Hide Goblin (RNA) 105
+4 Grotesque Demise (RNA) 75
+4 Growth Spiral (RNA) 178
+4 Gruul Guildgate (RNA) 249
+4 Gruul Locket (RNA) 234
+4 Haazda Officer (RNA) 10
+4 Humongulus (RNA) 41
+4 Ill-Gotten Inheritance (RNA) 77
+4 Impassioned Orator (RNA) 12
+4 Imperious Oligarch (RNA) 184
+4 Justiciar's Portal (RNA) 13
+4 Knight of Sorrows (RNA) 14
+
+
+### New Deck
+
+4 Lawmage's Binding (RNA) 190
+4 Mammoth Spider (RNA) 132
+4 Noxious Groodion (RNA) 78
+4 Open the Gates (RNA) 133
+4 Orzhov Guildgate (RNA) 252
+4 Orzhov Locket (RNA) 236
+4 Persistent Petitioners (RNA) 44
+4 Plague Wight (RNA) 82
+4 Prowling Caracal (RNA) 17
+4 Prying Eyes (RNA) 46
+4 Quench (RNA) 48
+4 Rafter Demon (RNA) 196
+4 Ragefire (RNA) 270
+4 Rakdos Guildgate (RNA) 255
+4 Rakdos Locket (RNA) 237
+4 Rakdos Roustabout (RNA) 198
+4 Rakdos Trumpeter (RNA) 84
+4 Rampaging Rendhorn (RNA) 135
+4 Root Snare (RNA) 137
+4 Rubble Reading (RNA) 110
+4 Rubble Slinger (RNA) 217
+4 Rubblebelt Recluse (RNA) 111
+4 Rubblebelt Runner (RNA) 202
+4 Sage's Row Savant (RNA) 49
+4 Sagittars' Volley (RNA) 138
+4 Saruli Caretaker (RNA) 139
+4 Sauroform Hybrid (RNA) 140
+4 Savage Smash (RNA) 203
+4 Scorchmark (RNA) 113
+4 Scuttlegator (RNA) 218
+4 Senate Courier (RNA) 50
+4 Senate Griffin (RNA) 219
+4 Shimmer of Possibility (RNA) 51
+4 Simic Guildgate (RNA) 257
+4 Simic Locket (RNA) 240
+4 Skewer the Critics (RNA) 115
+4 Skitter Eel (RNA) 53
+4 Slimebind (RNA) 54
+4 Spear Spewer (RNA) 117
+4 Sphinx's Insight (RNA) 209
+4 Spikewheel Acrobat (RNA) 118
+4 Steeple Creeper (RNA) 142
+4 Stony Strength (RNA) 143
+4 Storm Strike (RNA) 119
+4 Summary Judgment (RNA) 24
+4 Sylvan Brushstrider (RNA) 144
+4 Syndicate Messenger (RNA) 25
+4 Tenth District Veteran (RNA) 26
+4 Territorial Boar (RNA) 145
+4 Thirsting Shade (RNA) 87
+
+
+### New Deck
+
+4 Thought Collapse (RNA) 57
+4 Titanic Brawl (RNA) 146
+4 Twilight Panther (RNA) 28
+4 Undercity Scavenger (RNA) 88
+4 Undercity's Embrace (RNA) 89
+4 Vizkopa Vampire (RNA) 220
+4 Watchful Giant (RNA) 30
+4 Wrecking Beast (RNA) 150
+
+### The Last Deck has 32 cards in it.

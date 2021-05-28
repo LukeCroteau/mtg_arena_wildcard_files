@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adeliz, the Cinder Wind (DOM) 190
+4 Amaranthine Wall (DOM) 210
+4 Arvad the Cursed (DOM) 191
+4 Baird, Steward of Argive (DOM) 4
+4 Board the Weatherlight (DOM) 8
+4 Cast Down (DOM) 81
+4 Chainer's Torment (DOM) 82
+4 Champion of the Flame (DOM) 116
+4 Curator's Ward (DOM) 49
+4 Damping Sphere (DOM) 213
+4 Danitha Capashen, Paragon (DOM) 12
+4 Dauntless Bodyguard (DOM) 14
+4 Diligent Excavator (DOM) 51
+4 Elfhame Druid (DOM) 159
+4 Fight with Fire (DOM) 119
+4 Final Parting (DOM) 93
+4 Firefist Adept (DOM) 121
+4 Fungal Plots (DOM) 160
+4 Gaea's Blessing (DOM) 161
+4 Garna, the Bloodflame (DOM) 194
+4 Goblin Barrage (DOM) 128
+4 Goblin Warchief (DOM) 130
+4 Grunn, the Lonely King (DOM) 165
+4 Hallar, the Firefletcher (DOM) 196
+4 Howling Golem (DOM) 218
+4 Icy Manipulator (DOM) 219
+4 In Bolas's Clutches (DOM) 54
+4 Jhoira's Familiar (DOM) 220
+4 Juggernaut (DOM) 222
+4 Karplusan Hound (DOM) 277
+4 Knight of Grace (DOM) 23
+4 Knight of Malice (DOM) 97
+4 Kwende, Pride of Femeref (DOM) 25
+4 Lingering Phantom (DOM) 99
+4 Memorial to Folly (DOM) 242
+4 Memorial to Genius (DOM) 243
+4 Memorial to Glory (DOM) 244
+4 Memorial to Unity (DOM) 245
+4 Memorial to War (DOM) 246
+4 Merfolk Trickster (DOM) 56
+4 Nature's Spiral (DOM) 175
+4 On Serra's Wings (DOM) 28
+4 Orcish Vandal (DOM) 137
+4 Raff Capashen, Ship's Mage (DOM) 202
+4 Rona, Disciple of Gix (DOM) 203
+4 Sage of Lat-Nam (DOM) 64
+4 Sanctum Spirit (DOM) 30
+4 Seal Away (DOM) 31
+4 Sentinel of the Pearl Trident (DOM) 65
+4 Serra Angel (DOM) 33
+
+
+### New Deck
+
+4 Settle the Score (DOM) 103
+4 Shanna, Sisay's Legacy (DOM) 204
+4 Shield of the Realm (DOM) 228
+4 Skizzik (DOM) 145
+4 Slimefoot, the Stowaway (DOM) 205
+4 Slinn Voda, the Rising Deep (DOM) 66
+4 Song of Freyalise (DOM) 179
+4 Sorcerer's Wand (DOM) 231
+4 Spore Swarm (DOM) 180
+4 Sporecrown Thallid (DOM) 181
+4 Tatyova, Benthic Druid (DOM) 206
+4 Teferi's Sentinel (DOM) 273
+4 Tetsuko Umezawa, Fugitive (DOM) 69
+4 Thallid Soothsayer (DOM) 107
+4 The Eldest Reborn (DOM) 90
+4 The Flame of Keld (DOM) 123
+4 Thorn Elemental (DOM) 185
+4 Tiana, Ship's Caretaker (DOM) 208
+4 Time of Ice (DOM) 70
+4 Triumph of Gerrard (DOM) 38
+4 Untamed Kavu (DOM) 186
+4 Urgoros, the Empty One (DOM) 109
+4 Urza's Tome (DOM) 235
+4 Valduk, Keeper of the Flame (DOM) 148
+4 Warcry Phoenix (DOM) 150
+4 Weight of Memory (DOM) 74
+4 Whisper, Blood Liturgist (DOM) 111
+4 Wild Onslaught (DOM) 188
+4 Wizard's Lightning (DOM) 152
+4 Wizard's Retort (DOM) 75
+4 Yargle, Glutton of Urborg (DOM) 113
+4 Zhalfirin Void (DOM) 249
+
+### The Last Deck has 128 cards in it.

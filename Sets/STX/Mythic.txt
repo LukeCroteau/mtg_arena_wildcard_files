@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Beledros Witherbloom (STX) 163
+4 Blex, Vexing Pest // Search for Blex (STX) 148
+4 Blot Out the Sky (STX) 167
+4 Body of Research (STX) 168
+4 Crackle with Power (STX) 95
+4 Ecological Appreciation (STX) 128
+4 Extus, Oriq Overlord // Awaken the Blood Avatar (STX) 149
+4 Galazeth Prismari (STX) 189
+4 Harness Infinity (STX) 191
+4 Hofri Ghostforge (STX) 192
+4 Jadzi, Oracle of Arcavios // Journey to the Oracle (STX) 151
+4 Kasmina, Enigma Sage (STX) 196
+4 Magma Opus (STX) 203
+4 Mascot Exhibition (STX) 5
+4 Mavinda, Students' Advocate (STX) 21
+4 Mila, Crafty Companion // Lukka, Wayward Bonder (STX) 153
+4 Professor Onyx (STX) 83
+4 Rowan, Scholar of Sparks // Will, Scholar of Frost (STX) 156
+4 Shadrix Silverquill (STX) 230
+4 Tanazir Quandrix (STX) 240
+4 Velomachus Lorehold (STX) 245
+
+### The Last Deck has 84 cards in it.

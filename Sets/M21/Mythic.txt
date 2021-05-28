@@ -1,0 +1,28 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Baneslayer Angel (M21) 6
+4 Basri Ket (M21) 7
+4 Basri, Devoted Paladin (M21) 320
+4 Chandra, Flame's Catalyst (M21) 332
+4 Chandra, Heart of Fire (M21) 135
+4 Chromatic Orrery (M21) 228
+4 Discontinuity (M21) 48
+4 Elder Gargaroth (M21) 179
+4 Fiery Emancipation (M21) 143
+4 Garruk, Savage Herald (M21) 336
+4 Garruk, Unleashed (M21) 183
+4 Grim Tutor (M21) 103
+4 Liliana, Death Mage (M21) 328
+4 Liliana, Waker of the Dead (M21) 108
+4 Mangara, the Diplomat (M21) 27
+4 Massacre Wurm (M21) 114
+4 Rin and Seri, Inseparable (M21) 278
+4 Teferi, Master of Time (M21) 75
+4 Teferi, Timeless Voyager (M21) 324
+4 Terror of the Peaks (M21) 164
+4 Ugin, the Spirit Dragon (M21) 1
+
+### The Last Deck has 84 cards in it.

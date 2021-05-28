@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, the Greathearted (WAR) 184
+4 Awakening of Vitu-Ghazi (WAR) 152
+4 Bioessence Hydra (WAR) 186
+4 Blast Zone (WAR) 244
+4 Bolas's Citadel (WAR) 79
+4 Casualties of War (WAR) 187
+4 Chandra, Fire Artisan (WAR) 119
+4 Command the Dreadhorde (WAR) 82
+4 Commence the Endgame (WAR) 45
+4 Deliver Unto Evil (WAR) 85
+4 Domri, Anarch of Bolas (WAR) 191
+4 Dreadhorde Arcanist (WAR) 125
+4 Dreadhorde Butcher (WAR) 194
+4 Dreadhorde Invasion (WAR) 86
+4 Enter the God-Eternals (WAR) 196
+4 Fblthp, the Lost (WAR) 50
+4 Feather, the Redeemed (WAR) 197
+4 Gideon's Battle Cry (WAR) 267
+4 Ignite the Beacon (WAR) 18
+4 Jace's Ruse (WAR) 273
+4 Jace, Wielder of Mysteries (WAR) 54
+4 Karn's Bastion (WAR) 248
+4 Karn, the Great Creator (WAR) 1
+4 Krenko, Tin Street Kingpin (WAR) 137
+4 Living Twister (WAR) 203
+4 Massacre Girl (WAR) 99
+4 Mizzium Tank (WAR) 138
+4 Mobilized District (WAR) 249
+4 Narset's Reversal (WAR) 62
+4 Neheb, Dreadhorde Champion (WAR) 140
+4 Nissa, Who Shakes the World (WAR) 169
+4 Oath of Kaya (WAR) 209
+4 Parhelion II (WAR) 24
+4 Planewide Celebration (WAR) 172
+4 Ral, Storm Conduit (WAR) 211
+4 Ravnica at War (WAR) 28
+4 Role Reversal (WAR) 214
+4 Sarkhan the Masterless (WAR) 143
+4 Silent Submersible (WAR) 66
+4 Single Combat (WAR) 30
+4 Solar Blaze (WAR) 216
+4 Sorin, Vengeful Bloodlord (WAR) 217
+4 Soul Diviner (WAR) 218
+4 Spark Double (WAR) 68
+4 Storrev, Devkarin Lich (WAR) 219
+4 Tamiyo, Collector of Tales (WAR) 220
+4 Teferi, Time Raveler (WAR) 221
+4 The Elderspell (WAR) 89
+4 Time Wipe (WAR) 223
+4 Tolsimir, Friend to Wolves (WAR) 224
+
+
+### New Deck
+
+4 Tomik, Distinguished Advokist (WAR) 34
+4 Ugin, the Ineffable (WAR) 2
+4 Vivien's Arkbow (WAR) 181
+4 Vivien, Champion of the Wilds (WAR) 180
+4 Widespread Brutality (WAR) 226
+
+### The Last Deck has 20 cards in it.

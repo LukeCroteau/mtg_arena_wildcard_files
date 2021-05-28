@@ -1,0 +1,66 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Assassin's Trophy (GRN) 152
+4 Assure // Assemble (GRN) 221
+4 Beast Whisperer (GRN) 123
+4 Blood Operative (GRN) 63
+4 Bounty Agent (GRN) 2
+4 Bounty of Might (GRN) 124
+4 Camaraderie (GRN) 157
+4 Chamber Sentry (GRN) 232
+4 Charnel Troll (GRN) 160
+4 Chromatic Lantern (GRN) 233
+4 Citywide Bust (GRN) 4
+4 Connive // Concoct (GRN) 222
+4 Dawn of Hope (GRN) 8
+4 Deafening Clarion (GRN) 165
+4 Drowned Secrets (GRN) 39
+4 Emmara, Soul of the Accord (GRN) 168
+4 Erratic Cyclops (GRN) 98
+4 Etrata, the Silencer (GRN) 170
+4 Expansion // Explosion (GRN) 224
+4 Experimental Frenzy (GRN) 99
+4 Find // Finality (GRN) 225
+4 Firemind's Research (GRN) 171
+4 Gruesome Menagerie (GRN) 71
+4 Guildmages' Forum (GRN) 250
+4 Hatchery Spider (GRN) 132
+4 Ionize (GRN) 179
+4 Izoni, Thousand-Eyed (GRN) 180
+4 Knight of Autumn (GRN) 183
+4 Legion Warboss (GRN) 109
+4 Light of the Legion (GRN) 19
+4 Mausoleum Secrets (GRN) 75
+4 Midnight Reaper (GRN) 77
+4 Mission Briefing (GRN) 44
+4 Narcomoeba (GRN) 47
+4 Niv-Mizzet, Parun (GRN) 192
+4 Omnispell Adept (GRN) 49
+4 Overgrown Tomb (GRN) 253
+4 Pelt Collector (GRN) 141
+4 Quasiduplicate (GRN) 51
+4 Ral's Dispersal (GRN) 266
+4 Response // Resurgence (GRN) 229
+4 Risk Factor (GRN) 113
+4 Ritual of Soot (GRN) 84
+4 Runaway Steam-Kin (GRN) 115
+4 Sacred Foundry (GRN) 254
+4 Steam Vents (GRN) 257
+4 Swiftblade Vindicator (GRN) 203
+4 Tajic, Legion's Edge (GRN) 204
+4 Temple Garden (GRN) 258
+4 Thief of Sanity (GRN) 205
+
+
+### New Deck
+
+4 Unmoored Ego (GRN) 212
+4 Venerated Loxodon (GRN) 30
+4 Vivid Revival (GRN) 148
+4 Vraska's Stoneglare (GRN) 272
+4 Watery Grave (GRN) 259
+
+### The Last Deck has 20 cards in it.

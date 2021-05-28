@@ -1,0 +1,93 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Affectionate Indrik (GRN) 121
+4 Arboretum Elemental (GRN) 122
+4 Attendant of Vraska (GRN) 271
+4 Beacon Bolt (GRN) 154
+4 Beamsplitter Mage (GRN) 155
+4 Book Devourer (GRN) 93
+4 Boros Challenger (GRN) 156
+4 Chemister's Insight (GRN) 32
+4 Circuitous Route (GRN) 125
+4 Citywatch Sphinx (GRN) 33
+4 Conclave Cavalier (GRN) 161
+4 Conclave Guildmage (GRN) 162
+4 Conclave Tribunal (GRN) 6
+4 Crackling Drake (GRN) 163
+4 Creeping Chill (GRN) 66
+4 Crush Contraband (GRN) 7
+4 Demotion (GRN) 9
+4 Dimir Spybug (GRN) 166
+4 Discovery // Dispersal (GRN) 223
+4 Disinformation Campaign (GRN) 167
+4 District Guide (GRN) 128
+4 Electrostatic Field (GRN) 97
+4 Enhanced Surveillance (GRN) 40
+4 Flight of Equenauts (GRN) 11
+4 Flower // Flourish (GRN) 226
+4 Gatekeeper Gargoyle (GRN) 235
+4 Gird for Battle (GRN) 12
+4 Glaive of the Guildpact (GRN) 236
+4 Glowspore Shaman (GRN) 173
+4 Goblin Banneret (GRN) 102
+4 Goblin Cratermaker (GRN) 103
+4 Golgari Findbroker (GRN) 175
+4 Golgari Raiders (GRN) 130
+4 Grappling Sundew (GRN) 131
+4 Guild Summit (GRN) 41
+4 Haazda Marshal (GRN) 13
+4 Hellkite Whelp (GRN) 106
+4 House Guildmage (GRN) 177
+4 Inescapable Blaze (GRN) 107
+4 Inspiring Unicorn (GRN) 16
+4 Integrity // Intervention (GRN) 227
+4 Invert // Invent (GRN) 228
+4 Join Shields (GRN) 181
+4 Justice Strike (GRN) 182
+4 Kraul Harpooner (GRN) 136
+4 Kraul Swarm (GRN) 73
+4 Lava Coil (GRN) 108
+4 League Guildmage (GRN) 185
+4 Ledev Champion (GRN) 186
+4 Legion Guildmage (GRN) 187
+
+
+### New Deck
+
+4 Lotleth Giant (GRN) 74
+4 Might of the Masses (GRN) 137
+4 Molderhulk (GRN) 190
+4 Murmuring Mystic (GRN) 45
+4 Necrotic Wound (GRN) 79
+4 Nightveil Predator (GRN) 191
+4 Nightveil Sprite (GRN) 48
+4 Ochran Assassin (GRN) 194
+4 Pilfering Imp (GRN) 81
+4 Plaguecrafter (GRN) 82
+4 Price of Fame (GRN) 83
+4 Ral's Staticaster (GRN) 268
+4 Rampaging Monument (GRN) 239
+4 Roc Charger (GRN) 24
+4 Selective Snare (GRN) 53
+4 Silent Dart (GRN) 241
+4 Sinister Sabotage (GRN) 54
+4 Smelt-Ward Minotaur (GRN) 116
+4 Sprouting Renewal (GRN) 145
+4 Status // Statue (GRN) 230
+4 Street Riot (GRN) 117
+4 Sunhome Stalwart (GRN) 26
+4 Swarm Guildmage (GRN) 201
+4 Swathcutter Giant (GRN) 202
+4 Thought Erasure (GRN) 206
+4 Thoughtbound Phantasm (GRN) 55
+4 Truefire Captain (GRN) 209
+4 Undercity Necrolisk (GRN) 87
+4 Wand of Vertebrae (GRN) 242
+4 Wee Dragonauts (GRN) 214
+4 Whispering Snitch (GRN) 90
+4 Worldsoul Colossus (GRN) 215
+
+### The Last Deck has 128 cards in it.
