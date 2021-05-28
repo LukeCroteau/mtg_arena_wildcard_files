@@ -1,6 +1,25 @@
 This list contains the Set Identifier and real name of each set, in case you wondered what STA is.
 
+AKR - Amonkhet Remastered
+DOM - Dominaria
+ELD - Throne of Eldraine
+GRN - Guilds of Ravnica
 HA1 - Historic Anthology 1
 HA2 - Historic Anthology 2
 HA3 - Historic Anthology 3
 HA4 - Historic Anthology 4
+IKO - Ikoria: Lair of Behemoths
+JMP - Jumpstart
+KHM - Kaldheim
+KLR - Kaladesh Remastered
+M19 - Core Set 2019
+M20 - Core Set 2020
+M21 - Core Set 2021
+RIX - Rivals of Ixalan
+RNA - Ravnica Allegiance
+STA - Strixhaven Mystical Archive
+STX - Strixhaven: School of Mages
+THB - Theros Beyond Death
+WAR - War of the Spark
+XLN - Ixalan
+ZNR - Zendikar Rising
