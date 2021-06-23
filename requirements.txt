@@ -1,1 +1,1 @@
-mtgsdk==1.3.1
+scrython==1.9.0

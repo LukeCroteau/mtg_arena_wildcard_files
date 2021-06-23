@@ -1,6 +1,6 @@
-from mtgsdk import Card
 from pathlib import Path
-import sys
+import scrython
+import sys, time
 
 def outputItems(cardList: list, setId: str, rarity: str):
     if len(cardList) == 0:
@@ -16,9 +16,9 @@ def outputItems(cardList: list, setId: str, rarity: str):
     outfile.write('Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)\n\n\n')
 
     for card in cardList:
-        if (card.rarity == rarity) and (card.name not in cardnames) and ('Basic Land' not in card.type):
-            cardnames.add(card.name)
-            outfile.write('4 {} ({}) {}\n'.format(card.name, upSetId, "".join(_ for _ in card.number if _ in ".1234567890")))
+        if (card['name'] not in cardnames) and ('Basic Land' not in card['type']):
+            cardnames.add(card['name'])
+            outfile.write('4 {} ({}) {}\n'.format(card['name'], upSetId, "".join(_ for _ in card['number'] if _ in ".1234567890")))
 
             curcount += 1
 
@@ -31,32 +31,51 @@ def outputItems(cardList: list, setId: str, rarity: str):
     outfile.close()
 
 def generateSets(setNames :str):
+    setlist = scrython.sets.Sets().data()
     sets = setNames.split(',')
-    rarities = ['Common', 'Uncommon', 'Rare', 'Mythic']
 
     setRealnames = set()
     outfile = open('./Sets/Master Set List.txt', 'w')
     outfile.write('This list contains the Set Identifier and real name of each set, in case you wondered what STA is.\n\n')
 
     for setId in sets:
-        cards = Card.where(set=setId).all()
+        card_lists = {}
+        cards = scrython.cards.Search(q='++e:{}'.format(setId))
 
-        setFound = len(cards) > 0
-        if not setFound:
+        if cards.total_cards() == 0:
             print('Set not found:', setId)
             continue
 
-        cards.sort(key=lambda x: x.name)
+        def parseScrythonCards(cardData):
+            for card in cardData:
+                tmpCard = {'name': card['name'], 'type': card['type_line'], 'number': card['collector_number']}
+                try:
+                    card_lists[card['rarity']].append(tmpCard)
+                except:
+                    card_lists[card['rarity']] = [tmpCard]
+
+        parseScrythonCards(cards.data())
+
+        curPage = 1
+        while cards.has_more():
+            time.sleep(0.5)
+            curPage += 1
+            cards = scrython.cards.Search(q='++e:{}'.format(setId), page=curPage)
+            parseScrythonCards(cards.data())
+        
         Path('./Sets/{}'.format(setId.upper())).mkdir(parents=True, exist_ok=True)
 
-        for rarity in rarities:
-            if sum(1 for i in cards if i.rarity == rarity) > 0:
-                outputItems(cards, setId, rarity)
+        for rar, lst in card_lists.items():
+            lst.sort(key=lambda x: x['name'])
+            outputItems(lst, setId, rar)
 
         print('Set generated:', setId)
-        if cards[0].set_name not in setRealnames:
-            setRealnames.add(cards[0].set_name)
-            outfile.write('{} - {}\n'.format(setId, cards[0].set_name))
+
+        for s in setlist:
+            if (s['code'].upper() == setId) and (s['name'] not in setRealnames):
+                setRealnames.add(s['name'] )
+                outfile.write('{} - {}\n'.format(setId, s['name']))
+                break
 
     outfile.close()
 
