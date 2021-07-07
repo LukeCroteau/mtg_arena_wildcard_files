@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adult Gold Dragon (AFR) 216
+4 Asmodeus the Archfiend (AFR) 88
+4 Bard Class (AFR) 217
+4 Cave of the Frost Dragon (AFR) 253
+4 Circle of Dreams Druid (AFR) 176
+4 Dancing Sword (AFR) 8
+4 Delina, Wild Mage (AFR) 138
+4 Den of the Bugbear (AFR) 254
+4 Dragon Turtle (AFR) 56
+4 Drizzt Do'Urden (AFR) 220
+4 Dungeon Descent (AFR) 255
+4 Eye of Vecna (AFR) 243
+4 Fighter Class (AFR) 222
+4 Flumph (AFR) 15
+4 Forsworn Paladin (AFR) 104
+4 Froghemoth (AFR) 184
+4 Gelatinous Cube (AFR) 105
+4 Grazilaxx, Illithid Scholar (AFR) 60
+4 Guardian of Faith (AFR) 18
+4 Hall of Storm Giants (AFR) 257
+4 Hand of Vecna (AFR) 246
+4 Hive of the Eye Tyrant (AFR) 258
+4 Hobgoblin Bandit Lord (AFR) 147
+4 Instrument of the Bards (AFR) 190
+4 Lair of the Hydra (AFR) 259
+4 Long Rest (AFR) 193
+4 Loyal Warhound (AFR) 23
+4 Meteor Swarm (AFR) 155
+4 Mind Flayer (AFR) 63
+4 Minion of the Mighty (AFR) 156
+4 Monk Class (AFR) 228
+4 Nadaar, Selfless Paladin (AFR) 27
+4 Ochre Jelly (AFR) 196
+4 Orb of Dragonkind (AFR) 157
+4 Orcus, Prince of Undeath (AFR) 229
+4 Oswald Fiddlebender (AFR) 28
+4 Paladin Class (AFR) 29
+4 Ranger Class (AFR) 202
+4 Rogue Class (AFR) 230
+4 Skeletal Swarming (AFR) 232
+4 Sorcerer Class (AFR) 233
+4 Sphere of Annihilation (AFR) 121
+4 Tasha's Hideous Laughter (AFR) 78
+4 Teleportation Circle (AFR) 39
+4 The Blackstaff of Waterdeep (AFR) 48
+4 Treasure Chest (AFR) 252
+4 Treasure Vault (AFR) 261
+4 Triumphant Adventurer (AFR) 237
+4 True Polymorph (AFR) 80
+4 Varis, Silverymoon Ranger (AFR) 209
+
+
+### New Deck
+
+4 Volo, Guide to Monsters (AFR) 238
+4 Vorpal Sword (AFR) 124
+4 Werewolf Pack Leader (AFR) 211
+4 Westgate Regent (AFR) 126
+4 Wight (AFR) 127
+4 Wish (AFR) 166
+4 Wizard's Spellbook (AFR) 82
+4 Xorn (AFR) 167
+4 Yuan-Ti Malison (AFR) 86
+4 Zalto, Fire Giant Duke (AFR) 171
+
+### The Last Deck has 40 cards in it.

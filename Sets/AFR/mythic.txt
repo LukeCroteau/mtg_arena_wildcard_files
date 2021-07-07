@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Acererak the Archlich (AFR) 87
+4 Demilich (AFR) 53
+4 Ebondeath, Dracolich (AFR) 100
+4 Ellywick Tumblestrum (AFR) 181
+4 Flameskull (AFR) 143
+4 Grand Master of Flowers (AFR) 17
+4 Icingdeath, Frost Tyrant (AFR) 20
+4 Inferno of the Star Mounts (AFR) 151
+4 Iymrith, Desert Doom (AFR) 62
+4 Lolth, Spider Queen (AFR) 112
+4 Minsc, Beloved Ranger (AFR) 227
+4 Mordenkainen (AFR) 64
+4 Old Gnawbone (AFR) 197
+4 The Book of Exalted Deeds (AFR) 4
+4 The Book of Vile Darkness (AFR) 91
+4 The Deck of Many Things (AFR) 241
+4 The Tarrasque (AFR) 207
+4 Tiamat (AFR) 235
+4 Xanathar, Guild Kingpin (AFR) 239
+4 Zariel, Archduke of Avernus (AFR) 172
+
+### The Last Deck has 80 cards in it.

@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aberrant Mind Sorcerer (AFR) 44
+4 Bag of Holding (AFR) 240
+4 Barbarian Class (AFR) 131
+4 Barrowin of Clan Undurr (AFR) 218
+4 Battle Cry Goblin (AFR) 132
+4 Black Dragon (AFR) 90
+4 Blink Dog (AFR) 3
+4 Blue Dragon (AFR) 49
+4 Bruenor Battlehammer (AFR) 219
+4 Burning Hands (AFR) 135
+4 Chaos Channeler (AFR) 136
+4 Check for Traps (AFR) 92
+4 Choose Your Weapon (AFR) 175
+4 Cleric Class (AFR) 6
+4 Cloister Gargoyle (AFR) 7
+4 Critical Hit (AFR) 137
+4 Death-Priest of Myrkul (AFR) 95
+4 Demogorgon's Clutches (AFR) 96
+4 Displacer Beast (AFR) 54
+4 Divine Smite (AFR) 12
+4 Dragon's Disciple (AFR) 13
+4 Drider (AFR) 98
+4 Druid Class (AFR) 180
+4 Dungeon Crawler (AFR) 99
+4 Dungeon Map (AFR) 242
+4 Eccentric Apprentice (AFR) 57
+4 Farideh, Devil's Chosen (AFR) 221
+4 Feywild Trickster (AFR) 58
+4 Fifty Feet of Rope (AFR) 244
+4 Fly (AFR) 59
+4 Goblin Morningstar (AFR) 145
+4 Green Dragon (AFR) 186
+4 Gretchen Titchwillow (AFR) 223
+4 Grim Wanderer (AFR) 107
+4 Guild Thief (AFR) 61
+4 Hama Pashar, Ruin Seeker (AFR) 224
+4 Hulking Bugbear (AFR) 149
+4 Hunter's Mark (AFR) 188
+4 Ingenious Smith (AFR) 21
+4 Intrepid Outlander (AFR) 191
+4 Iron Golem (AFR) 247
+4 Kalain, Reclusive Painter (AFR) 225
+4 Keen-Eared Sentry (AFR) 22
+4 Krydle of Baldur's Gate (AFR) 226
+4 Lightfoot Rogue (AFR) 111
+4 Loathsome Troll (AFR) 192
+4 Lurking Roper (AFR) 194
+4 Magic Missile (AFR) 154
+4 Monk of the Open Hand (AFR) 25
+4 Moon-Blessed Cleric (AFR) 26
+
+
+### New Deck
+
+4 Plate Armor (AFR) 32
+4 Portable Hole (AFR) 33
+4 Power Word Kill (AFR) 114
+4 Power of Persuasion (AFR) 67
+4 Prosperous Innkeeper (AFR) 200
+4 Purple Worm (AFR) 201
+4 Rally Maneuver (AFR) 36
+4 Ray of Enfeeblement (AFR) 116
+4 Ray of Frost (AFR) 68
+4 Reaper's Talisman (AFR) 117
+4 Red Dragon (AFR) 160
+4 Rust Monster (AFR) 161
+4 Shessra, Death's Whisper (AFR) 231
+4 Skullport Merchant (AFR) 120
+4 Split the Party (AFR) 76
+4 Sudden Insight (AFR) 77
+4 Targ Nar, Demon-Fang Gnoll (AFR) 234
+4 Temple of the Dragon Queen (AFR) 260
+4 Tiger-Tribe Hunter (AFR) 163
+4 Trelasarra, Moon Dancer (AFR) 236
+4 Trickster's Talisman (AFR) 79
+4 Wandering Troubadour (AFR) 210
+4 Warlock Class (AFR) 125
+4 White Dragon (AFR) 41
+4 Wild Shape (AFR) 212
+4 Wizard Class (AFR) 81
+4 You Find Some Prisoners (AFR) 169
+4 You Happen On a Glade (AFR) 214
+4 You Meet in a Tavern (AFR) 215
+4 You See a Pair of Goblins (AFR) 170
+
+### The Last Deck has 120 cards in it.

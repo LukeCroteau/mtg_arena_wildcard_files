@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 +2 Mace (AFR) 1
+4 Air-Cult Elemental (AFR) 45
+4 Arborea Pegasus (AFR) 2
+4 Arcane Investigator (AFR) 46
+4 Armory Veteran (AFR) 130
+4 Baleful Beholder (AFR) 89
+4 Bar the Gate (AFR) 47
+4 Boots of Speed (AFR) 133
+4 Brazen Dwarf (AFR) 134
+4 Bulette (AFR) 173
+4 Bull's Strength (AFR) 174
+4 Celestial Unicorn (AFR) 5
+4 Charmed Sleep (AFR) 50
+4 Circle of the Moon Druid (AFR) 177
+4 Clattering Skeletons (AFR) 93
+4 Clever Conjurer (AFR) 51
+4 Compelled Duel (AFR) 178
+4 Contact Other Plane (AFR) 52
+4 Dawnbringer Cleric (AFR) 9
+4 Deadly Dispute (AFR) 94
+4 Delver's Torch (AFR) 10
+4 Devoted Paladin (AFR) 11
+4 Devour Intellect (AFR) 97
+4 Dire Wolf Prowler (AFR) 179
+4 Djinni Windseeker (AFR) 55
+4 Dragon's Fire (AFR) 139
+4 Dueling Rapier (AFR) 140
+4 Dwarfhold Champion (AFR) 14
+4 Earth-Cult Elemental (AFR) 141
+4 Elturgard Ranger (AFR) 182
+4 Evolving Wilds (AFR) 256
+4 Eyes of the Beholder (AFR) 101
+4 Farideh's Fireball (AFR) 142
+4 Fates' Reversal (AFR) 102
+4 Feign Death (AFR) 103
+4 Find the Path (AFR) 183
+4 Gloom Stalker (AFR) 16
+4 Gnoll Hunter (AFR) 185
+4 Goblin Javelineer (AFR) 144
+4 Greataxe (AFR) 245
+4 Grim Bounty (AFR) 106
+4 Half-Elf Monk (AFR) 19
+4 Herald of Hadar (AFR) 108
+4 Hill Giant Herdgorger (AFR) 187
+4 Hired Hexblade (AFR) 109
+4 Hoard Robber (AFR) 110
+4 Hoarding Ogre (AFR) 146
+4 Hobgoblin Captain (AFR) 148
+4 Improvised Weaponry (AFR) 150
+4 Inspiring Bard (AFR) 189
+
+
+### New Deck
+
+4 Jaded Sell-Sword (AFR) 152
+4 Kick in the Door (AFR) 153
+4 Leather Armor (AFR) 248
+4 Manticore (AFR) 113
+4 Mimic (AFR) 249
+4 Minimus Containment (AFR) 24
+4 Mordenkainen's Polymorph (AFR) 65
+4 Neverwinter Dryad (AFR) 195
+4 Owlbear (AFR) 198
+4 Paladin's Shield (AFR) 30
+4 Pixie Guide (AFR) 66
+4 Planar Ally (AFR) 31
+4 Plummet (AFR) 199
+4 Plundering Barbarian (AFR) 158
+4 Potion of Healing (AFR) 34
+4 Precipitous Drop (AFR) 115
+4 Price of Loyalty (AFR) 159
+4 Priest of Ancient Lore (AFR) 35
+4 Ranger's Hawk (AFR) 37
+4 Ranger's Longbow (AFR) 203
+4 Rimeshield Frost Giant (AFR) 69
+4 Scaled Herbalist (AFR) 204
+4 Scion of Stygia (AFR) 70
+4 Secret Door (AFR) 71
+4 Sepulcher Ghoul (AFR) 118
+4 Shambling Ghast (AFR) 119
+4 Shocking Grasp (AFR) 72
+4 Shortcut Seeker (AFR) 73
+4 Silver Raven (AFR) 74
+4 Soulknife Spy (AFR) 75
+4 Spare Dagger (AFR) 250
+4 Spike Pit Trap (AFR) 251
+4 Spoils of the Hunt (AFR) 205
+4 Steadfast Paladin (AFR) 38
+4 Swarming Goblins (AFR) 162
+4 Sylvan Shepherd (AFR) 206
+4 Thieves' Tools (AFR) 122
+4 Underdark Basilisk (AFR) 208
+4 Unexpected Windfall (AFR) 164
+4 Valor Singer (AFR) 165
+4 Vampire Spawn (AFR) 123
+4 Veteran Dungeoneer (AFR) 40
+4 You Come to a River (AFR) 83
+4 You Come to the Gnoll Camp (AFR) 168
+4 You Find a Cursed Idol (AFR) 213
+4 You Find the Villains' Lair (AFR) 84
+4 You Hear Something on Watch (AFR) 42
+4 You See a Guard Approach (AFR) 85
+4 You're Ambushed on the Road (AFR) 43
+4 Yuan-Ti Fang-Blade (AFR) 128
+
+
+### New Deck
+
+4 Zombie Ogre (AFR) 129
+
+### The Last Deck has 4 cards in it.
