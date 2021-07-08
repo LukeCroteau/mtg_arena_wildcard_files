@@ -40,7 +40,7 @@ def generateSets(setNames :str):
 
     for setId in sets:
         card_lists = {}
-        cards = scrython.cards.Search(q='++e:{}'.format(setId))
+        cards = scrython.cards.Search(q='++e:{} game:arena is:booster'.format(setId))
 
         if cards.total_cards() == 0:
             print('Set not found:', setId)
