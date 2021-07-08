@@ -27,7 +27,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Devoted Paladin (AFR) 11
 4 Devour Intellect (AFR) 97
 4 Dire Wolf Prowler (AFR) 179
-4 Djinni Windseeker (AFR) 55
+4 Djinni Windseer (AFR) 55
 4 Dragon's Fire (AFR) 139
 4 Dueling Rapier (AFR) 140
 4 Dwarfhold Champion (AFR) 14
@@ -88,7 +88,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Silver Raven (AFR) 74
 4 Soulknife Spy (AFR) 75
 4 Spare Dagger (AFR) 250
-4 Spike Pit Trap (AFR) 251
+4 Spiked Pit Trap (AFR) 251
 4 Spoils of the Hunt (AFR) 205
 4 Steadfast Paladin (AFR) 38
 4 Swarming Goblins (AFR) 162
