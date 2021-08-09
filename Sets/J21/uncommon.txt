@@ -1,0 +1,315 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abiding Grace (J21) 32
+4 Abzan Battle Priest (J21) 33
+4 Abzan Falconer (J21) 34
+4 Accursed Horde (J21) 282
+4 Acolyte of Affliction (J21) 674
+4 Aethershield Artificer (J21) 35
+4 Alirios, Enraptured (J21) 164
+4 Allied Assault (J21) 37
+4 Alseid of Life's Bounty (J21) 38
+4 Altar of the Goyf (J21) 733
+4 Angel of the God-Pharaoh (J21) 44
+4 Angelic Exaltation (J21) 41
+4 Animating Faerie // Bring to Life (J21) 165
+4 Arcbound Shikari (J21) 677
+4 Arcbound Whelp (J21) 410
+4 Archfiend of Sorrows (J21) 285
+4 Arcus Acolyte (J21) 678
+4 Armorcraft Judge (J21) 541
+4 Ascent of the Worthy (J21) 679
+4 Baffling End (J21) 49
+4 Barbed Spike (J21) 50
+4 Batterbone (J21) 735
+4 Battle Screech (J21) 53
+4 Battle Squadron (J21) 413
+4 Battle-Rattle Shaman (J21) 412
+4 Beetleback Chief (J21) 414
+4 Belligerent Sliver (J21) 415
+4 Bestial Menace (J21) 547
+4 Biogenic Upgrade (J21) 548
+4 Birthing Boughs (J21) 736
+4 Blazing Rootwalla (J21) 418
+4 Blood Artist (J21) 292
+4 Bloodchief's Thirst (J21) 294
+4 Bloodline Pretender (J21) 737
+4 Bond of Revival (J21) 296
+4 Boneyard Aberration (J21) 14
+4 Boros Elite (J21) 57
+4 Bounty of the Deep (J21) 8
+4 Bred for the Hunt (J21) 681
+4 Brineborn Cutthroat (J21) 171
+4 Captain Ripley Vance (J21) 427
+4 Carrier Thrall (J21) 302
+4 Cast Out (J21) 59
+4 Censor (J21) 176
+4 Clamor Shaman (J21) 429
+4 Clattering Augur (J21) 305
+4 Combine Chrysalis (J21) 686
+4 Conclave Tribunal (J21) 64
+4 Dauntless Bodyguard (J21) 66
+4 Davriel, Rogue Shadowmage (J21) 309
+
+
+### New Deck
+
+4 Deathless Ancient (J21) 313
+4 Destiny Spinner (J21) 559
+4 Devouring Light (J21) 67
+4 Diffusion Sliver (J21) 181
+4 Dismiss (J21) 182
+4 Dragon Egg (J21) 434
+4 Dragon's Rage Channeler (J21) 438
+4 Dregscape Sliver (J21) 319
+4 Dueling Coach (J21) 72
+4 Dwynen's Elite (J21) 562
+4 Elusive Krasis (J21) 688
+4 Elven Bow (J21) 564
+4 Enlarge (J21) 565
+4 Essence Capture (J21) 183
+4 Etchings of the Chosen (J21) 689
+4 Eternal Taskmaster (J21) 324
+4 Evolution Sage (J21) 567
+4 Exclude (J21) 185
+4 Exclusion Mage (J21) 186
+4 Exuberant Wolfbear (J21) 569
+4 Faerie Vandal (J21) 191
+4 Fall of the Impostor (J21) 690
+4 Fast // Furious (J21) 730
+4 Fell Specter (J21) 329
+4 Fencing Ace (J21) 79
+4 Fight as One (J21) 80
+4 Filigree Attendant (J21) 192
+4 First Sliver's Chosen (J21) 81
+4 Flame Sweep (J21) 445
+4 Flameblade Adept (J21) 444
+4 Flaxen Intruder // Welcome Home (J21) 572
+4 Fleshbag Marauder (J21) 331
+4 Flourishing Fox (J21) 82
+4 Foundry Inspector (J21) 741
+4 Furnace Whelp (J21) 447
+4 Furyblade Vampire (J21) 448
+4 Gauntlets of Light (J21) 85
+4 Gempalm Incinerator (J21) 451
+4 Ghirapur Guide (J21) 574
+4 Ghost-Lit Drifter (J21) 196
+4 Giant's Amulet (J21) 197
+4 Gird for Battle (J21) 87
+4 Glass Casket (J21) 88
+4 Glorious Enforcer (J21) 89
+4 Glowspore Shaman (J21) 692
+4 Goblin Barrage (J21) 455
+4 Goblin Morningstar (J21) 459
+4 Goblin Oriflamme (J21) 460
+4 Goblin Rally (J21) 461
+4 Good-Fortune Unicorn (J21) 694
+
+
+### New Deck
+
+4 Goremand (J21) 333
+4 Graceful Restoration (J21) 695
+4 Graveshifter (J21) 334
+4 Grinning Ignus (J21) 464
+4 Guttersnipe (J21) 465
+4 Haunted Dead (J21) 336
+4 Healer's Flock (J21) 91
+4 Heartless Act (J21) 337
+4 Heir of Falkenrath // Heir to the Night (J21) 338
+4 Hellkite Punisher (J21) 467
+4 Herald of the Sun (J21) 93
+4 Herd Baloth (J21) 584
+4 Hollowhead Sliver (J21) 469
+4 Hordeling Outburst (J21) 470
+4 Hunting Pack (J21) 587
+4 Hypnotic Sprite // Mesmeric Glare (J21) 201
+4 Icy Manipulator (J21) 743
+4 Improbable Alliance (J21) 696
+4 Incorrigible Youths (J21) 473
+4 Incremental Growth (J21) 588
+4 Indulgent Aristocrat (J21) 340
+4 Ingenious Infiltrator (J21) 697
+4 Insatiable Gorgers (J21) 474
+4 Inspiring Call (J21) 589
+4 Integrity // Intervention (J21) 731
+4 Invigorating Surge (J21) 590
+4 Iridescent Hornbeetle (J21) 591
+4 Journey to Oblivion (J21) 98
+4 Jungle Creeper (J21) 698
+4 Junk Winder (J21) 204
+4 Justice Strike (J21) 699
+4 Jwari Disruption // Jwari Ruins (J21) 206
+4 Kinetic Augur (J21) 479
+4 King of the Pride (J21) 99
+4 Kraul Swarm (J21) 343
+4 Kuldotha Flamefiend (J21) 481
+4 Lagonna-Band Storyteller (J21) 101
+4 Lava Coil (J21) 482
+4 Lavabelly Sliver (J21) 701
+4 Lazotep Chancellor (J21) 702
+4 Leeching Sliver (J21) 344
+4 Legion Vanguard (J21) 345
+4 Lightning Axe (J21) 483
+4 Liliana's Devotee (J21) 346
+4 Liliana's Elite (J21) 347
+4 Littjara Glade-Warden (J21) 596
+4 Living Lightning (J21) 486
+4 Llanowar Tribe (J21) 598
+4 Loch Dragon (J21) 727
+4 Longtusk Cub (J21) 600
+
+
+### New Deck
+
+4 Longtusk Stalker (J21) 27
+4 Lord of the Accursed (J21) 349
+4 Mad Ratter (J21) 488
+4 Manaweft Sliver (J21) 601
+4 Manic Scribe (J21) 211
+4 Manor Guardian (J21) 17
+4 Markov Crusader (J21) 354
+4 Merfolk Falconer (J21) 215
+4 Merfolk Trickster (J21) 216
+4 Merrow Reejerey (J21) 217
+4 Might of the Masses (J21) 603
+4 Mire Triton (J21) 358
+4 Monoskelion (J21) 748
+4 Mowu, Loyal Companion (J21) 605
+4 Munitions Expert (J21) 705
+4 Nantuko Cultivator (J21) 607
+4 Necromancer's Familiar (J21) 364
+4 Nessian Hornbeetle (J21) 608
+4 Neutralize (J21) 222
+4 Nimbus Swimmer (J21) 706
+4 Oketra's Attendant (J21) 109
+4 On Serra's Wings (J21) 111
+4 Oneirophage (J21) 226
+4 Orcish Vandal (J21) 491
+4 Ore-Scale Guardian (J21) 493
+4 Overcome (J21) 611
+4 Paradise Druid (J21) 614
+4 Peema Aether-Seer (J21) 616
+4 Pelakka Predation // Pelakka Caverns (J21) 371
+4 Plaguecrafter (J21) 373
+4 Prophetic Titan (J21) 708
+4 Rage Forger (J21) 496
+4 Rain of Revelation (J21) 233
+4 Rakdos Headliner (J21) 709
+4 Rapacious Dragon (J21) 497
+4 Ravenous Bloodseeker (J21) 498
+4 Ravenous Intruder (J21) 499
+4 Ravenous Squirrel (J21) 728
+4 Raving Visionary (J21) 234
+4 Reckless Racer (J21) 501
+4 Reckless Wurm (J21) 502
+4 Rewind (J21) 237
+4 Rip Apart (J21) 711
+4 Roc Egg (J21) 120
+4 Rotwidow Pack (J21) 712
+4 Ruination Rioter (J21) 713
+4 Rust Monster (J21) 505
+4 Sanctuary Raptor (J21) 755
+4 Sarkhan's Whelp (J21) 507
+4 Scale Up (J21) 631
+
+
+### New Deck
+
+4 Scour the Desert (J21) 122
+4 Scour the Laboratory (J21) 243
+4 Scurry Oak (J21) 633
+4 Scuttletide (J21) 244
+4 Scuttling Sliver (J21) 245
+4 Seal Away (J21) 124
+4 Selfless Savior (J21) 127
+4 Serra Angel (J21) 130
+4 Servant of the Conduit (J21) 634
+4 Sharktocrab (J21) 715
+4 Shepherd of the Flock // Usher to Safety (J21) 134
+4 Shiv's Embrace (J21) 511
+4 Shoreline Scout (J21) 12
+4 Sigiled Contender (J21) 135
+4 Sigiled Starfish (J21) 247
+4 Silvergill Adept (J21) 248
+4 Skatewing Spy (J21) 249
+4 Skilled Animator (J21) 250
+4 Skull Prophet (J21) 717
+4 Skyblade's Boon (J21) 136
+4 Skyshroud Lookout (J21) 30
+4 Slag Strider (J21) 514
+4 Sling-Gang Lieutenant (J21) 386
+4 Song of Freyalise (J21) 640
+4 Soulherder (J21) 718
+4 Specimen Collector (J21) 253
+4 Spectral Sailor (J21) 254
+4 Spire Patrol (J21) 719
+4 Splendor Mare (J21) 139
+4 Spore Swarm (J21) 641
+4 Spreading Insurrection (J21) 518
+4 Sprouting Renewal (J21) 643
+4 Squirrel Sanctuary (J21) 645
+4 Squirrel Sovereign (J21) 646
+4 Static Discharge (J21) 25
+4 Steelform Sliver (J21) 144
+4 Stitchwing Skaab (J21) 256
+4 Storm-Kiln Artist (J21) 520
+4 Stormfront Pegasus (J21) 999
+4 Strike It Rich (J21) 521
+4 Sudden Edict (J21) 389
+4 Supreme Will (J21) 258
+4 Taunting Arbormage (J21) 651
+4 Tempered Sliver (J21) 652
+4 Teyo, the Shieldmage (J21) 147
+4 Thraben Watcher (J21) 151
+4 Throatseeker (J21) 391
+4 Throes of Chaos (J21) 526
+4 Thundering Djinn (J21) 725
+4 Thwart the Grave (J21) 392
+
+
+### New Deck
+
+4 Tide Skimmer (J21) 262
+4 Timeless Witness (J21) 654
+4 Tireless Provisioner (J21) 655
+4 Tolarian Kraken (J21) 264
+4 Treasure Keeper (J21) 758
+4 Triumph of Gerrard (J21) 152
+4 Turn into a Pumpkin (J21) 266
+4 Ulvenwald Mysteries (J21) 661
+4 Unbreakable Bond (J21) 395
+4 Undead Augur (J21) 396
+4 Unsubstantiate (J21) 267
+4 Urgoros, the Empty One (J21) 398
+4 Valiant Rescuer (J21) 153
+4 Valkyrie's Sword (J21) 154
+4 Valorous Stance (J21) 155
+4 Vampire of the Dire Moon (J21) 399
+4 Vastwood Fortification // Vastwood Thicket (J21) 663
+4 Vesperlark (J21) 156
+4 Void Beckoner (J21) 403
+4 Volcanic Dragon (J21) 531
+4 Volley Veteran (J21) 532
+4 Waker of Waves (J21) 271
+4 Waterkin Shaman (J21) 272
+4 Webweaver Changeling (J21) 666
+4 Wild Onslaught (J21) 668
+4 Wildwood Scourge (J21) 669
+4 Windstorm Drake (J21) 276
+4 Wingsteed Trainer (J21) 7
+4 Wispweaver Angel (J21) 159
+4 Witch's Oven (J21) 761
+4 Woodland Champion (J21) 671
+4 Wormhole Serpent (J21) 280
+4 Wren's Run Hydra (J21) 672
+4 You See a Pair of Goblins (J21) 536
+4 Young Necromancer (J21) 406
+4 Young Pyromancer (J21) 535
+4 Youthful Valkyrie (J21) 161
+4 Zhalfirin Decoy (J21) 162
+
+### The Last Deck has 152 cards in it.

@@ -1,0 +1,20 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Chatterfang, Squirrel General (J21) 552
+4 Davriel, Soul Broker (J21) 15
+4 Freyalise, Skyshroud Partisan (J21) 26
+4 Kiora, the Tide's Fury (J21) 10
+4 Ranger-Captain of Eos (J21) 115
+4 Sarkhan, Wanderer to Shiv (J21) 23
+4 Seasoned Pyromancer (J21) 509
+4 Serra the Benevolent (J21) 132
+4 Serra's Emissary (J21) 131
+4 Svyelun of Sea and Sky (J21) 259
+4 Teyo, Aegis Adept (J21) 6
+4 The First Sliver (J21) 691
+4 Yawgmoth, Thran Physician (J21) 405
+
+### The Last Deck has 52 cards in it.

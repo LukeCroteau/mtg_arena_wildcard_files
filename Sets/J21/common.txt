@@ -1,0 +1,433 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abnormal Endurance (J21) 281
+4 Adaptive Snapjaw (J21) 537
+4 Aeromoeba (J21) 163
+4 Aeromunculus (J21) 675
+4 Aetherstream Leopard (J21) 538
+4 Ainok Bond-Kin (J21) 36
+4 Alchemist's Gift (J21) 283
+4 Alchemist's Greeting (J21) 407
+4 Amorphous Axe (J21) 734
+4 Angel of the Dawn (J21) 43
+4 Angelheart Protector (J21) 39
+4 Angelic Edict (J21) 40
+4 Angelic Purge (J21) 42
+4 Anointed Chorister (J21) 45
+4 Anointed Deacon (J21) 284
+4 Anointer of Valor (J21) 46
+4 Applied Biomancy (J21) 676
+4 Arbor Armament (J21) 540
+4 Arcbound Mouser (J21) 47
+4 Arcbound Prototype (J21) 48
+4 Arcbound Slasher (J21) 408
+4 Arcbound Tracker (J21) 409
+4 Aven Eternal (J21) 167
+4 Aviation Pioneer (J21) 168
+4 Awaken the Bear (J21) 542
+4 Azra Smokeshaper (J21) 287
+4 Baffling Defenses (J21) 2
+4 Bannerhide Krushok (J21) 544
+4 Barge In (J21) 411
+4 Barren Moor (J21) 763
+4 Battering Krasis (J21) 545
+4 Battlefield Promotion (J21) 51
+4 Battlefield Raptor (J21) 52
+4 Bear Cub (J21) 546
+4 Black Cat (J21) 288
+4 Bladeback Sliver (J21) 417
+4 Blight Keeper (J21) 290
+4 Blighted Bat (J21) 289
+4 Blisterstick Shaman (J21) 419
+4 Blitz Leech (J21) 291
+4 Blood Burglar (J21) 293
+4 Blood Glutton (J21) 295
+4 Bloodfell Caves (J21) 764
+4 Bloodhaze Wolverine (J21) 421
+4 Bloom Hulk (J21) 549
+4 Blossoming Sands (J21) 765
+4 Blur Sliver (J21) 422
+4 Bogardan Dragonheart (J21) 423
+4 Bonded Construct (J21) 738
+4 Bonds of Faith (J21) 55
+
+
+### New Deck
+
+4 Bone Shards (J21) 298
+4 Boneclad Necromancer (J21) 297
+4 Breaching Hippocamp (J21) 170
+4 Breathless Knight (J21) 680
+4 Bubble Snare (J21) 172
+4 Burdened Aerialist (J21) 173
+4 Burglar Rat (J21) 299
+4 Burn Bright (J21) 425
+4 Burning-Tree Vandal (J21) 426
+4 Burrog Befuddler (J21) 174
+4 Cabal Initiate (J21) 300
+4 Captivating Unicorn (J21) 58
+4 Capture Sphere (J21) 175
+4 Captured by Lagacs (J21) 682
+4 Cathartic Reunion (J21) 428
+4 Celestial Enforcer (J21) 60
+4 Cemetery Recruitment (J21) 303
+4 Changeling Outcast (J21) 304
+4 Charge Through (J21) 551
+4 Chatter of the Squirrel (J21) 553
+4 Chatterstorm (J21) 554
+4 Choking Tethers (J21) 178
+4 Chromatic Sphere (J21) 739
+4 Chrome Courier (J21) 684
+4 Cleaving Sliver (J21) 430
+4 Cloudshift (J21) 62
+4 Codespell Cleric (J21) 63
+4 Cogworker's Puzzleknot (J21) 740
+4 Coordinated Charge (J21) 65
+4 Coralhelm Guide (J21) 179
+4 Corpse Churn (J21) 307
+4 Courage in Crisis (J21) 556
+4 Crocanura (J21) 557
+4 Crookclaw Transmuter (J21) 180
+4 Davriel's Shadowfugue (J21) 310
+4 Davriel's Withering (J21) 16
+4 Deadly Alliance (J21) 311
+4 Death Wind (J21) 314
+4 Deathbloom Thallid (J21) 312
+4 Deepwood Denizen (J21) 558
+4 Destructive Digger (J21) 433
+4 Discerning Taste (J21) 317
+4 Disciple of the Sun (J21) 68
+4 Dismal Backwater (J21) 766
+4 Djeru's Renunciation (J21) 69
+4 Doomed Traveler (J21) 70
+4 Dragon Fodder (J21) 435
+4 Dragon Hatchling (J21) 436
+4 Dragon Mantle (J21) 437
+4 Drainpipe Vermin (J21) 318
+
+
+### New Deck
+
+4 Drannith Healer (J21) 71
+4 Drey Keeper (J21) 687
+4 Duskshell Crawler (J21) 561
+4 Echoing Return (J21) 320
+4 Elderfang Disciple (J21) 321
+4 Elderleaf Mentor (J21) 563
+4 Enduring Sliver (J21) 74
+4 Epicure of Blood (J21) 323
+4 Ethereal Grasp (J21) 9
+4 Etherium Spinner (J21) 184
+4 Evolving Wilds (J21) 767
+4 Excavating Anurid (J21) 568
+4 Expedition Diviner (J21) 187
+4 Eyeblight Assassin (J21) 325
+4 Eyekite (J21) 188
+4 Faceless Agent (J21) 1
+4 Facevaulter (J21) 326
+4 Faerie Duelist (J21) 189
+4 Faerie Guidemother // Gift of the Fae (J21) 76
+4 Faerie Seer (J21) 190
+4 Fairgrounds Patrol (J21) 77
+4 Faithless Salvaging (J21) 439
+4 Feat of Resistance (J21) 78
+4 Feed the Serpent (J21) 327
+4 Feed the Swarm (J21) 328
+4 Ferocious Pup (J21) 570
+4 Fierce Witchstalker (J21) 571
+4 Fiery Temper (J21) 440
+4 Fire Prophecy (J21) 441
+4 First-Sphere Gargantua (J21) 330
+4 Fissure Wizard (J21) 442
+4 Fists of Flame (J21) 443
+4 Floodhound (J21) 193
+4 Forgotten Cave (J21) 768
+4 Forsake the Worldly (J21) 83
+4 Fortify (J21) 84
+4 Foul Watcher (J21) 194
+4 Foundry Street Denizen (J21) 446
+4 Funnel-Web Recluse (J21) 573
+4 Galvanic Relay (J21) 450
+4 Geomancer's Gambit (J21) 452
+4 Ghostform (J21) 195
+4 Gift of Growth (J21) 575
+4 Gilded Light (J21) 86
+4 Gilt-Blade Prowler (J21) 332
+4 Glimmer Bairn (J21) 576
+4 Glimmerbell (J21) 198
+4 Gnarlid Colony (J21) 577
+4 Goatnap (J21) 453
+4 Goblin Anarchomancer (J21) 693
+
+
+### New Deck
+
+4 Goblin Arsonist (J21) 454
+4 Goblin Bird-Grabber (J21) 456
+4 Goblin Wizardry (J21) 462
+4 Gouged Zealot (J21) 463
+4 Grim Physician (J21) 335
+4 Grizzled Outrider (J21) 579
+4 Grizzly Bears (J21) 580
+4 Guardian Gladewalker (J21) 581
+4 Gust of Wind (J21) 199
+4 Hard Evidence (J21) 200
+4 Harrow (J21) 583
+4 Healer's Hawk (J21) 92
+4 Hell Mongrel (J21) 339
+4 Highspire Infusion (J21) 585
+4 Hive Stirrings (J21) 94
+4 Hobblefiend (J21) 468
+4 Hunter's Edge (J21) 586
+4 Ichor Wellspring (J21) 742
+4 Igneous Elemental (J21) 471
+4 Implement of Combustion (J21) 744
+4 Implement of Examination (J21) 745
+4 Imposing Vantasaur (J21) 95
+4 Impostor of the Sixth Pride (J21) 96
+4 Incendiary Oracle (J21) 472
+4 Insolent Neonate (J21) 475
+4 Into the Roil (J21) 203
+4 Iron Bully (J21) 746
+4 Irregular Cohort (J21) 97
+4 Jewel-Eyed Cobra (J21) 592
+4 Jungle Hollow (J21) 769
+4 Jungleborn Pioneer (J21) 593
+4 Just the Wind (J21) 205
+4 Karfell Kennel-Master (J21) 341
+4 Kargan Dragonrider (J21) 477
+4 Keen Glidemaster (J21) 207
+4 Keldon Raider (J21) 478
+4 Khalni Garden (J21) 770
+4 Kitchen Imp (J21) 342
+4 Kitesail Corsair (J21) 208
+4 Kor Skyfisher (J21) 100
+4 Krenko's Command (J21) 480
+4 Kujar Seedsculptor (J21) 594
+4 Lancer Sliver (J21) 102
+4 Late to Dinner (J21) 103
+4 Law-Rune Enforcer (J21) 104
+4 Leonin Sanctifier (J21) 4
+4 Lifecraft Cavalry (J21) 595
+4 Light of Hope (J21) 105
+4 Lightning Spear (J21) 484
+4 Lightning Visionary (J21) 485
+
+
+### New Deck
+
+4 Lightning-Core Excavator (J21) 747
+4 Liliana's Steward (J21) 348
+4 Living Tempest (J21) 209
+4 Llanowar Elves (J21) 597
+4 Llanowar Visionary (J21) 599
+4 Lofty Denial (J21) 210
+4 Lonely Sandbar (J21) 771
+4 Lumbering Lightshield (J21) 5
+4 Macabre Waltz (J21) 350
+4 Mad Prophet (J21) 487
+4 Makeshift Battalion (J21) 106
+4 Man-o'-War (J21) 212
+4 Mantle of Tides (J21) 213
+4 Marauding Blight-Priest (J21) 351
+4 Marauding Boneslasher (J21) 352
+4 Mark of the Vampire (J21) 353
+4 Martyr for the Cause (J21) 107
+4 Mentor of Evos Isle (J21) 11
+4 Merchant of the Vale // Haggle (J21) 489
+4 Miasmic Mummy (J21) 356
+4 Mind Rake (J21) 357
+4 Mistwalker (J21) 219
+4 Mob (J21) 359
+4 Moment of Craving (J21) 360
+4 Moment of Heroism (J21) 108
+4 Moonblade Shinobi (J21) 220
+4 Mother Bear (J21) 604
+4 Mulldrifter (J21) 221
+4 Murasa Behemoth (J21) 606
+4 Murder (J21) 361
+4 Myr Enforcer (J21) 749
+4 Myr Scrapling (J21) 750
+4 Myr Sire (J21) 751
+4 Nested Shambler (J21) 365
+4 Nezumi Cutthroat (J21) 367
+4 Ninja of the Deep Hours (J21) 223
+4 Nylea's Forerunner (J21) 609
+4 Ob Nixilis's Cruelty (J21) 369
+4 Ojutai's Summons (J21) 224
+4 Okiba-Gang Shinobi (J21) 370
+4 Omen of the Forge (J21) 490
+4 Omen of the Sea (J21) 225
+4 Omen of the Sun (J21) 110
+4 Oread of Mountain's Blaze (J21) 492
+4 Ornery Goblin (J21) 494
+4 Ornithopter of Paradise (J21) 753
+4 Owlbear (J21) 612
+4 Pacifism (J21) 112
+4 Pack's Favor (J21) 613
+4 Parcel Myr (J21) 227
+
+
+### New Deck
+
+4 Passwall Adept (J21) 228
+4 Penumbra Bobcat (J21) 617
+4 Phantasmal Form (J21) 229
+4 Phantom Ninja (J21) 230
+4 Pious Wayfarer (J21) 113
+4 Plague Wight (J21) 374
+4 Plaguecrafter's Familiar (J21) 18
+4 Pollenbright Druid (J21) 618
+4 Ponder (J21) 999
+4 Pondering Mage (J21) 231
+4 Predatory Sliver (J21) 619
+4 Prey's Vengeance (J21) 620
+4 Professor of Zoomancy (J21) 621
+4 Prophetic Prism (J21) 754
+4 Prosperous Pirates (J21) 232
+4 Putrid Goblin (J21) 375
+4 Queen's Agent (J21) 376
+4 Radiant's Judgment (J21) 114
+4 Raise the Draugr (J21) 377
+4 Ransack the Lab (J21) 378
+4 Rat Colony (J21) 379
+4 Reaper of Night // Harvest Fear (J21) 380
+4 Recalibrate (J21) 235
+4 Reckless Charge (J21) 500
+4 Reckless Ringleader (J21) 21
+4 Renegade Tactics (J21) 503
+4 Reprobation (J21) 116
+4 Resculpt (J21) 236
+4 Revolutionist (J21) 504
+4 Riparian Tiger (J21) 622
+4 Roaming Ghostlight (J21) 239
+4 Rousing Read (J21) 240
+4 Rugged Highlands (J21) 772
+4 Ruin Rat (J21) 381
+4 Runeclaw Bear (J21) 624
+4 Rupture Spire (J21) 773
+4 Sabertooth Mauler (J21) 625
+4 Sage of Shaila's Claim (J21) 626
+4 Sailor of Means (J21) 241
+4 Sandsteppe Outcast (J21) 121
+4 Saproling Migration (J21) 628
+4 Sarkhan's Rage (J21) 506
+4 Sarkhan's Scorn (J21) 22
+4 Sauroform Hybrid (J21) 629
+4 Savage Swipe (J21) 630
+4 Scion of Shiv (J21) 24
+4 Scorching Dragonfire (J21) 508
+4 Scour All Possibilities (J21) 242
+4 Scoured Barrens (J21) 774
+4 Scurrid Colony (J21) 632
+
+
+### New Deck
+
+4 Scuttlegator (J21) 729
+4 Sea Gate Banneret (J21) 123
+4 Secluded Steppe (J21) 775
+4 Segovian Angel (J21) 125
+4 Selfless Cathar (J21) 126
+4 Sentinel Sliver (J21) 128
+4 Seraph of Dawn (J21) 129
+4 Servant of the Scale (J21) 635
+4 Setessan Skirmisher (J21) 636
+4 Shambleshark (J21) 714
+4 Shambling Goblin (J21) 382
+4 Shaper Apprentice (J21) 246
+4 Shelter (J21) 133
+4 Shivan Fire (J21) 510
+4 Shock (J21) 512
+4 Sinister Starfish (J21) 383
+4 Skola Grovedancer (J21) 637
+4 Skophos Reaver (J21) 513
+4 Skullsnatcher (J21) 384
+4 Skyclave Squid (J21) 251
+4 Skymarch Bloodletter (J21) 385
+4 Skyshroud Ambush (J21) 29
+4 Smell Fear (J21) 638
+4 Snakeskin Veil (J21) 639
+4 Snare Tactician (J21) 137
+4 So Shiny (J21) 252
+4 Soul of Migration (J21) 138
+4 Sparktongue Dragon (J21) 515
+4 Sparring Construct (J21) 757
+4 Spinehorn Minotaur (J21) 516
+4 Springbloom Druid (J21) 642
+4 Stalwart Valkyrie (J21) 140
+4 Star Pupil (J21) 142
+4 Steadfast Sentry (J21) 143
+4 Steelfin Whale (J21) 255
+4 Stirring Address (J21) 145
+4 Storm Caller (J21) 519
+4 Storm God's Oracle (J21) 721
+4 Storm Sculptor (J21) 257
+4 Strangling Spores (J21) 387
+4 Striking Sliver (J21) 522
+4 Striped Bears (J21) 648
+4 Subtle Strike (J21) 388
+4 Supernatural Stamina (J21) 390
+4 Sure Strike (J21) 523
+4 Sustainer of the Realm (J21) 146
+4 Swiftwater Cliffs (J21) 777
+4 Tajuru Pathwarden (J21) 650
+4 Tazeem Roilmage (J21) 260
+4 Terminal Agony (J21) 723
+
+
+### New Deck
+
+4 Thermo-Alchemist (J21) 524
+4 Thornwood Falls (J21) 778
+4 Thraben Inspector (J21) 149
+4 Thraben Standard Bearer (J21) 150
+4 Thrill of Possibility (J21) 525
+4 Thriving Rhino (J21) 653
+4 Tightening Coils (J21) 263
+4 Titanic Brawl (J21) 656
+4 Titanic Growth (J21) 657
+4 Tome Anima (J21) 265
+4 Tormenting Voice (J21) 528
+4 Tourach's Canticle (J21) 393
+4 Tranquil Cove (J21) 779
+4 Tranquil Thicket (J21) 780
+4 Trufflesnout (J21) 658
+4 Trumpeting Herd (J21) 659
+4 Twin-Silk Spider (J21) 660
+4 Typhoid Rats (J21) 394
+4 Unexpected Fangs (J21) 397
+4 Unholy Heat (J21) 529
+4 Universal Automaton (J21) 759
+4 Unknown Shores (J21) 781
+4 Unsummon (J21) 268
+4 Urban Daggertooth (J21) 662
+4 Venomous Changeling (J21) 400
+4 Vermin Gorger (J21) 401
+4 Veteran Charger (J21) 31
+4 Vexing Gull (J21) 269
+4 Viashino Lashclaw (J21) 530
+4 Village Rites (J21) 402
+4 Vivien's Grizzly (J21) 665
+4 Wall of One Thousand Cuts (J21) 157
+4 Warlord's Fury (J21) 533
+4 Warteye Witch (J21) 404
+4 Waterknot (J21) 273
+4 Watertrap Weaver (J21) 274
+4 Wavesifter (J21) 726
+4 Weapon Rack (J21) 760
+4 Weaselback Redcap (J21) 534
+4 Wildheart Invoker (J21) 667
+4 Wind-Scarred Crag (J21) 782
+4 Windcaller Aven (J21) 275
+4 Winding Way (J21) 670
+4 Winged Shepherd (J21) 158
+4 Winged Words (J21) 277
+4 Witching Well (J21) 278
+4 Yavimaya Sapherd (J21) 673
+4 Yoked Plowbeast (J21) 160
+
+### The Last Deck has 192 cards in it.

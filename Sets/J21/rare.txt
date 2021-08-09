@@ -1,0 +1,97 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abandoned Sarcophagus (J21) 732
+4 Aeve, Progenitor Ooze (J21) 539
+4 Archmage's Charm (J21) 166
+4 Asylum Visitor (J21) 286
+4 Ayula, Queen Among Bears (J21) 543
+4 Bazaar Trademage (J21) 169
+4 Benalish Partisan (J21) 3
+4 Birgi, God of Storytelling // Harnfel, Horn of Bounty (J21) 416
+4 Blade Splicer (J21) 54
+4 Bloodbraid Marauder (J21) 420
+4 Bonescythe Sliver (J21) 56
+4 Breya's Apprentice (J21) 424
+4 Bristling Hydra (J21) 550
+4 Callous Bloodmage (J21) 301
+4 Chainer, Nightmare Adept (J21) 683
+4 Champion of Wits (J21) 177
+4 Charming Prince (J21) 61
+4 Chitterspitter (J21) 555
+4 Cloudshredder Sliver (J21) 685
+4 Conspiracy Theorist (J21) 431
+4 Cordial Vampire (J21) 306
+4 Dark Salvation (J21) 308
+4 Dark-Dweller Oracle (J21) 432
+4 Dire Fleet Poisoner (J21) 315
+4 Diregraf Colossus (J21) 316
+4 Dragonsguard Elite (J21) 560
+4 Elite Spellbinder (J21) 73
+4 Endling (J21) 322
+4 Esika's Chariot (J21) 566
+4 Esper Sentinel (J21) 75
+4 Gadrak, the Crown-Scourge (J21) 449
+4 Goblin Dark-Dwellers (J21) 457
+4 Goblin Engineer (J21) 458
+4 Goreclaw, Terror of Qal Sisma (J21) 578
+4 Hanweir Militia Captain // Westvale Cult Leader (J21) 90
+4 Hardened Scales (J21) 582
+4 Harmonic Prodigy (J21) 466
+4 Inniaz, the Gale Force (J21) 202
+4 Irencrag Pyromancer (J21) 476
+4 Knight of Autumn (J21) 700
+4 Lonis, Cryptozoologist (J21) 703
+4 Lord of Extinction (J21) 704
+4 Managorger Phoenix (J21) 20
+4 Marrow-Gnawer (J21) 355
+4 Marwyn, the Nurturer (J21) 602
+4 Master of the Pearl Trident (J21) 214
+4 Mist-Syndicate Naga (J21) 218
+4 Murderous Rider // Swift End (J21) 362
+4 Necrogoyf (J21) 363
+4 Nether Spirit (J21) 366
+
+
+### New Deck
+
+4 Nettlecyst (J21) 752
+4 Nullpriest of Oblivion (J21) 368
+4 Oran-Rief Ooze (J21) 610
+4 Parallel Lives (J21) 615
+4 Pashalik Mons (J21) 495
+4 Piper of the Swarm (J21) 372
+4 Pool of Vigorous Growth (J21) 28
+4 Priest of Fell Rites (J21) 707
+4 Reap the Past (J21) 710
+4 Restoration Angel (J21) 117
+4 Return to the Ranks (J21) 118
+4 Righteous Valkyrie (J21) 119
+4 Rise and Shine (J21) 238
+4 Rishkar, Peema Renegade (J21) 623
+4 Sanctum Weaver (J21) 627
+4 Scrap Trawler (J21) 756
+4 Simic Ascendancy (J21) 716
+4 Sliver Hive (J21) 776
+4 Spiteful Sliver (J21) 517
+4 Squirrel Mob (J21) 644
+4 Squirrel Wrangler (J21) 647
+4 Starfield Mystic (J21) 141
+4 Sterling Grove (J21) 720
+4 Subversive Acolyte (J21) 19
+4 Sylvan Anthem (J21) 649
+4 Sythis, Harvest's Hand (J21) 722
+4 Territorial Kavu (J21) 724
+4 Thalia's Lieutenant (J21) 148
+4 Thought Monitor (J21) 261
+4 Thunderbreak Regent (J21) 527
+4 Tome of the Infinite (J21) 13
+4 Tropical Island (J21) 999
+4 Verdant Command (J21) 664
+4 Voracious Greatshark (J21) 270
+4 Wonder (J21) 279
+4 Zabaz, the Glimmerwasp (J21) 762
+
+### The Last Deck has 144 cards in it.

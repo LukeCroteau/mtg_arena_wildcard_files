@@ -10,6 +10,7 @@ HA2 - Historic Anthology 2
 HA3 - Historic Anthology 3
 HA4 - Historic Anthology 4
 IKO - Ikoria: Lair of Behemoths
+J21 - Jumpstart: Historic Horizons
 JMP - Jumpstart
 KHM - Kaldheim
 KLR - Kaladesh Remastered
