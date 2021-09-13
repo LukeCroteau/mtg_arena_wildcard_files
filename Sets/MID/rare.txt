@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adeline, Resplendent Cathar (MID) 1
+4 Angelfire Ignition (MID) 209
+4 Augur of Autumn (MID) 168
+4 Bloodline Culling (MID) 89
+4 Briarbridge Tracker (MID) 172
+4 Brutal Cathar // Moonrage Brute (MID) 7
+4 Burn Down the House (MID) 131
+4 Can't Stay Away (MID) 213
+4 Champion of the Perished (MID) 91
+4 Croaking Counterpart (MID) 215
+4 Curse of Leeches // Leeching Lurker (MID) 94
+4 Curse of Shaken Faith (MID) 134
+4 Curse of Silence (MID) 15
+4 Curse of Surveillance (MID) 46
+4 Dennick, Pious Apprentice // Dennick, Pious Apparition (MID) 217
+4 Deserted Beach (MID) 260
+4 Dire-Strain Rampage (MID) 219
+4 Falkenrath Pit Fighter (MID) 137
+4 Fateful Absence (MID) 18
+4 Florian, Voldaren Scion (MID) 223
+4 Galvanic Iteration (MID) 224
+4 Geistflame Reservoir (MID) 142
+4 Ghoulcaller's Harvest (MID) 225
+4 Gisa, Glorious Resurrector (MID) 103
+4 Grafted Identity (MID) 57
+4 Graveyard Trespasser // Graveyard Glutton (MID) 104
+4 Hallowed Respite (MID) 227
+4 Haunted Ridge (MID) 263
+4 Jadar, Ghoulcaller of Nephalia (MID) 108
+4 Katilda, Dawnhart Prime (MID) 230
+4 Liesa, Forgotten Archangel (MID) 232
+4 Light Up the Night (MID) 146
+4 Ludevic, Necrogenius // Olag, Ludevic's Hubris (MID) 233
+4 Malevolent Hermit // Benevolent Geist (MID) 61
+4 Mask of Griselbrand (MID) 111
+4 Memory Deluge (MID) 62
+4 Old Stickfingers (MID) 234
+4 Overgrown Farmland (MID) 265
+4 Patrician Geist (MID) 69
+4 Pithing Needle (MID) 257
+4 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
+4 Rem Karolus, Stalwart Slayer (MID) 235
+4 Rite of Harmony (MID) 236
+4 Rockfall Vale (MID) 266
+4 Saryth, the Viper's Fang (MID) 197
+4 Shipwreck Marsh (MID) 267
+4 Sigarda's Splendor (MID) 33
+4 Siphon Insight (MID) 241
+4 Slaughter Specialist (MID) 122
+4 Slogurk, the Overslime (MID) 242
+
+
+### New Deck
+
+4 Sludge Monster (MID) 76
+4 Smoldering Egg // Ashmouth Dragon (MID) 159
+4 Storm the Festival (MID) 200
+4 Sungold Sentinel (MID) 37
+4 Suspicious Stowaway // Seafaring Werewolf (MID) 80
+4 The Celestus (MID) 252
+4 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
+4 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (MID) 246
+4 Triskaidekaphile (MID) 81
+4 Unnatural Growth (MID) 206
+4 Vadrik, Astral Archmage (MID) 248
+4 Vanquish the Horde (MID) 41
+4 Wake to Slaughter (MID) 250
+4 Willow Geist (MID) 207
+
+### The Last Deck has 56 cards in it.

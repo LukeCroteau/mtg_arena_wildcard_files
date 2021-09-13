@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abandon the Post (MID) 127
+4 Ardent Elementalist (MID) 128
+4 Arrogant Outlaw (MID) 84
+4 Baithook Angler // Hook-Haunt Drifter (MID) 42
+4 Bat Whisperer (MID) 86
+4 Bird Admirer // Wing Shredder (MID) 169
+4 Bladebrand (MID) 87
+4 Blessed Defiance (MID) 5
+4 Blood Pact (MID) 88
+4 Bounding Wolf (MID) 170
+4 Bramble Armor (MID) 171
+4 Brimstone Vandal (MID) 130
+4 Burn the Accursed (MID) 132
+4 Candlegrove Witch (MID) 8
+4 Candlelit Cavalry (MID) 175
+4 Candletrap (MID) 9
+4 Cathar Commando (MID) 10
+4 Celestus Sanctifier (MID) 12
+4 Clarion Cathars (MID) 14
+4 Component Collector (MID) 43
+4 Consider (MID) 44
+4 Crawl from the Cellar (MID) 93
+4 Crossroads Candleguide (MID) 253
+4 Dawnhart Rejuvenator (MID) 180
+4 Defenestrate (MID) 95
+4 Devious Cover-Up (MID) 48
+4 Diregraf Horde (MID) 96
+4 Drownyard Amalgam (MID) 50
+4 Duel for Dominance (MID) 184
+4 Duress (MID) 98
+4 Eaten Alive (MID) 99
+4 Eccentric Farmer (MID) 185
+4 Ecstatic Awakener // Awoken Demon (MID) 100
+4 Electric Revelation (MID) 135
+4 Evolving Wilds (MID) 261
+4 Falcon Abomination (MID) 52
+4 Falkenrath Perforator (MID) 136
+4 Famished Foragers (MID) 138
+4 Festival Crasher (MID) 140
+4 Flare of Faith (MID) 19
+4 Flip the Switch (MID) 54
+4 Galedrifter // Waildrifter (MID) 55
+4 Gavony Silversmith (MID) 21
+4 Gavony Trapper (MID) 22
+4 Geistwave (MID) 56
+4 Harvesttide Infiltrator // Harvesttide Assailant (MID) 143
+4 Harvesttide Sentry (MID) 186
+4 Hedgewitch's Mask (MID) 23
+4 Hobbling Zombie (MID) 106
+4 Homestead Courage (MID) 24
+
+
+### New Deck
+
+4 Howl of the Hunt (MID) 188
+4 Immolation (MID) 144
+4 Jack-o'-Lantern (MID) 254
+4 Lambholt Harrier (MID) 145
+4 Larder Zombie (MID) 58
+4 Locked in the Cemetery (MID) 60
+4 Lunarch Veteran // Luminous Phantom (MID) 27
+4 Might of the Old Ways (MID) 189
+4 Moonrager's Slash (MID) 148
+4 Morkrut Behemoth (MID) 114
+4 Mounted Dreadknight (MID) 150
+4 Mourning Patrol // Morning Apparition (MID) 28
+4 Neonate's Rush (MID) 151
+4 No Way Out (MID) 116
+4 Novice Occultist (MID) 117
+4 Olivia's Midnight Ambush (MID) 118
+4 Organ Hoarder (MID) 66
+4 Otherworldly Gaze (MID) 67
+4 Pack's Betrayal (MID) 153
+4 Path to the Festival (MID) 191
+4 Pestilent Wolf (MID) 192
+4 Plummet (MID) 193
+4 Raze the Effigy (MID) 156
+4 Return to Nature (MID) 195
+4 Revenge of the Drowned (MID) 72
+4 Ritual Guardian (MID) 30
+4 Rotten Reunion (MID) 119
+4 Search Party Captain (MID) 32
+4 Secrets of the Key (MID) 73
+4 Shadowbeast Sighting (MID) 198
+4 Shady Traveler // Stalking Predator (MID) 120
+4 Shipwreck Sifters (MID) 74
+4 Siege Zombie (MID) 121
+4 Silver Bolt (MID) 258
+4 Snarling Wolf (MID) 199
+4 Soul-Guide Gryff (MID) 35
+4 Startle (MID) 78
+4 Stolen Vitality (MID) 161
+4 Stormrider Spirit (MID) 79
+4 Stuffed Bear (MID) 259
+4 Sungold Barrage (MID) 36
+4 Tapping at the Window (MID) 201
+4 Tavern Ruffian // Tavern Smasher (MID) 163
+4 Thraben Exorcism (MID) 39
+4 Timberland Guide (MID) 202
+4 Tireless Hauler // Dire-Strain Brawler (MID) 203
+4 Unblinking Observer (MID) 82
+4 Unruly Mob (MID) 40
+4 Vampire Interloper (MID) 125
+4 Voldaren Stinger (MID) 167
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

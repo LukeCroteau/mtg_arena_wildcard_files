@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury (MID) 211
+4 Bloodthirsty Adversary (MID) 129
+4 Consuming Blob (MID) 177
+4 Enduring Angel // Angelic Enforcer (MID) 17
+4 Hostile Hostel // Creeping Inn (MID) 264
+4 Intrepid Adversary (MID) 25
+4 Jerren, Corrupted Bishop // Ormendahl, the Corrupter (MID) 109
+4 Lier, Disciple of the Drowned (MID) 59
+4 Lord of the Forsaken (MID) 110
+4 Moonveil Regent (MID) 149
+4 Poppet Stitcher // Poppet Factory (MID) 71
+4 Primal Adversary (MID) 194
+4 Sigarda, Champion of Light (MID) 240
+4 Sigardian Savior (MID) 34
+4 Spectral Adversary (MID) 77
+4 Sunstreak Phoenix (MID) 162
+4 Tainted Adversary (MID) 124
+4 Teferi, Who Slows the Sunset (MID) 245
+4 The Meathook Massacre (MID) 112
+4 Wrenn and Seven (MID) 208
+
+### The Last Deck has 80 cards in it.

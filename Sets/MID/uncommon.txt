@@ -1,0 +1,94 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ambitious Farmhand // Seasoned Cathar (MID) 2
+4 Arcane Infusion (MID) 210
+4 Baneblade Scoundrel // Baneclaw Marauder (MID) 85
+4 Beloved Beggar // Generous Soul (MID) 3
+4 Bereaved Survivor // Dauntless Avenger (MID) 4
+4 Bladestitched Skaab (MID) 212
+4 Bloodtithe Collector (MID) 90
+4 Borrowed Time (MID) 6
+4 Brood Weaver (MID) 173
+4 Burly Breaker // Dire-Strain Demolisher (MID) 174
+4 Cathar's Call (MID) 11
+4 Cathartic Pyre (MID) 133
+4 Chaplain of Alms // Chapel Shieldgeist (MID) 13
+4 Clear Shot (MID) 176
+4 Contortionist Troupe (MID) 178
+4 Corpse Cobble (MID) 214
+4 Covert Cutpurse // Covetous Geist (MID) 92
+4 Covetous Castaway // Ghostly Castigator (MID) 45
+4 Dawnhart Mentor (MID) 179
+4 Dawnhart Wardens (MID) 216
+4 Deathbonnet Sprout // Deathbonnet Hulk (MID) 181
+4 Defend the Celestus (MID) 182
+4 Delver of Secrets // Insectile Aberration (MID) 47
+4 Devoted Grafkeeper // Departed Soulkeeper (MID) 218
+4 Diregraf Rebirth (MID) 220
+4 Dissipate (MID) 49
+4 Dreadhound (MID) 97
+4 Dryad's Revival (MID) 183
+4 Duelcraft Trainer (MID) 16
+4 Fading Hope (MID) 51
+4 Faithful Mending (MID) 221
+4 Fangblade Brigand // Fangblade Eviscerator (MID) 139
+4 Field of Ruin (MID) 262
+4 Firmament Sage (MID) 53
+4 Flame Channeler // Embodiment of Flame (MID) 141
+4 Fleshtaker (MID) 222
+4 Foul Play (MID) 101
+4 Gavony Dawnguard (MID) 20
+4 Ghoulish Procession (MID) 102
+4 Grizzly Ghoul (MID) 226
+4 Heirloom Mirror // Inherited Fiend (MID) 105
+4 Hound Tamer // Untamed Pup (MID) 187
+4 Hungry for More (MID) 228
+4 Infernal Grasp (MID) 107
+4 Join the Dance (MID) 229
+4 Kessig Naturalist // Lord of the Ulvenwald (MID) 231
+4 Loyal Gryff (MID) 26
+4 Lunar Frenzy (MID) 147
+4 Moonsilver Key (MID) 255
+4 Morbid Opportunist (MID) 113
+
+
+### New Deck
+
+4 Mysterious Tome // Chilling Chronicle (MID) 63
+4 Mystic Skull // Mystic Monstrosity (MID) 256
+4 Nebelgast Intruder (MID) 64
+4 Necrosynthesis (MID) 115
+4 Obsessive Astronomer (MID) 152
+4 Odric's Outrider (MID) 29
+4 Ominous Roost (MID) 65
+4 Outland Liberator // Frenzied Trapbreaker (MID) 190
+4 Overwhelmed Archivist // Archive Haunt (MID) 68
+4 Phantom Carriage (MID) 70
+4 Play with Fire (MID) 154
+4 Purifying Dragon (MID) 155
+4 Rise of the Ants (MID) 196
+4 Rite of Oblivion (MID) 237
+4 Ritual of Hope (MID) 31
+4 Rootcoil Creeper (MID) 238
+4 Sacred Fire (MID) 239
+4 Seize the Storm (MID) 158
+4 Skaab Wrangler (MID) 75
+4 Spellrune Painter // Spellrune Howler (MID) 160
+4 Storm Skreelix (MID) 243
+4 Stromkirk Bloodthief (MID) 123
+4 Sunrise Cavalier (MID) 244
+4 Sunset Revelry (MID) 38
+4 Thermo-Alchemist (MID) 164
+4 Turn the Earth (MID) 205
+4 Unnatural Moonrise (MID) 247
+4 Vampire Socialite (MID) 249
+4 Vengeful Strangler // Strangling Grasp (MID) 126
+4 Village Watch // Village Reavers (MID) 165
+4 Vivisection (MID) 83
+4 Voldaren Ambusher (MID) 166
+4 Winterthorn Blessing (MID) 251
+
+### The Last Deck has 132 cards in it.

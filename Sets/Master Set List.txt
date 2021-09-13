@@ -5,10 +5,6 @@ AKR - Amonkhet Remastered
 DOM - Dominaria
 ELD - Throne of Eldraine
 GRN - Guilds of Ravnica
-HA1 - Historic Anthology 1
-HA2 - Historic Anthology 2
-HA3 - Historic Anthology 3
-HA4 - Historic Anthology 4
 IKO - Ikoria: Lair of Behemoths
 J21 - Jumpstart: Historic Horizons
 JMP - Jumpstart
@@ -17,9 +13,9 @@ KLR - Kaladesh Remastered
 M19 - Core Set 2019
 M20 - Core Set 2020
 M21 - Core Set 2021
+MID - Innistrad: Midnight Hunt
 RIX - Rivals of Ixalan
 RNA - Ravnica Allegiance
-STA - Strixhaven Mystical Archive
 STX - Strixhaven: School of Mages
 THB - Theros Beyond Death
 WAR - War of the Spark
