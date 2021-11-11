@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Avabruck Caretaker // Hollowhenge Huntmaster (VOW) 187
+4 Cemetery Desecrator (VOW) 100
+4 Cemetery Gatekeeper (VOW) 148
+4 Cemetery Illuminator (VOW) 50
+4 Cemetery Protector (VOW) 6
+4 Cemetery Prowler (VOW) 191
+4 Chandra, Dressed to Kill (VOW) 149
+4 Cultivator Colossus (VOW) 195
+4 Faithbound Judge // Sinner's Judgment (VOW) 12
+4 Hallowed Haunting (VOW) 17
+4 Henrika Domnathi // Henrika, Infernal Seer (VOW) 119
+4 Jacob Hauken, Inspector // Hauken's Insight (VOW) 65
+4 Kaya, Geist Hunter (VOW) 240
+4 Manaform Hellkite (VOW) 170
+4 Necroduality (VOW) 70
+4 Olivia, Crimson Bride (VOW) 245
+4 Savior of Ollenbock (VOW) 34
+4 Sorin the Mirthless (VOW) 131
+4 Toxrill, the Corrosive (VOW) 132
+4 Volatile Arsonist // Dire-Strain Anarchist (VOW) 181
+
+### The Last Deck has 80 cards in it.

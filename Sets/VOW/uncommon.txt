@@ -1,0 +1,94 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alluring Suitor // Deadly Dancer (VOW) 141
+4 Ancient Lumberknot (VOW) 230
+4 Angelic Quartermaster (VOW) 2
+4 Archghoul of Thraben (VOW) 93
+4 Arm the Cathars (VOW) 3
+4 Ballista Watcher // Ballista Wielder (VOW) 143
+4 Biolume Egg // Biolume Serpent (VOW) 49
+4 Blood Hypnotist (VOW) 145
+4 Bloodsworn Squire // Bloodsworn Knight (VOW) 97
+4 Bloodtithe Harvester (VOW) 232
+4 Boarded Window (VOW) 253
+4 Bramble Wurm (VOW) 189
+4 Bride's Gown (VOW) 4
+4 Brine Comber // Brinebound Gift (VOW) 233
+4 Cartographer's Survey (VOW) 190
+4 Catapult Fodder // Catapult Captain (VOW) 99
+4 Child of the Pack // Savage Packmate (VOW) 234
+4 Circle of Confinement (VOW) 7
+4 Cloaked Cadet (VOW) 192
+4 Cobbled Lancer (VOW) 52
+4 Crawling Infestation (VOW) 193
+4 Dawnhart Geist (VOW) 8
+4 Distracting Geist // Clever Distraction (VOW) 9
+4 Diver Skaab (VOW) 56
+4 Dormant Grove // Gnarled Grovestrider (VOW) 198
+4 Dread Fugue (VOW) 107
+4 Edgar's Awakening (VOW) 110
+4 Fell Stinger (VOW) 112
+4 Fleeting Spirit (VOW) 14
+4 Foreboding Statue // Forsaken Thresher (VOW) 256
+4 Frenzied Devils (VOW) 159
+4 Geistlight Snare (VOW) 60
+4 Groom's Finery (VOW) 117
+4 Gryffwing Cavalry (VOW) 16
+4 Gutter Skulker // Gutter Shortcut (VOW) 62
+4 Hero's Downfall (VOW) 120
+4 Honeymoon Hearse (VOW) 160
+4 Infestation Expert // Infested Werewolf (VOW) 206
+4 Innocent Traveler // Malicious Invader (VOW) 121
+4 Into the Night (VOW) 163
+4 Laid to Rest (VOW) 207
+4 Lambholt Raconteur // Lambholt Ravager (VOW) 167
+4 Lantern of the Lost (VOW) 259
+4 Lunar Rejection (VOW) 67
+4 Magma Pummeler (VOW) 169
+4 Markov Purifier (VOW) 241
+4 Markov Retribution (VOW) 171
+4 Markov Waltzer (VOW) 242
+4 Mischievous Catgeist // Catlike Curiosity (VOW) 69
+4 Oakshade Stalker // Moonlit Ambusher (VOW) 212
+
+
+### New Deck
+
+4 Ollenbock Escort (VOW) 27
+4 Packsong Pup (VOW) 213
+4 Panicked Bystander // Cackling Culprit (VOW) 28
+4 Parasitic Grasp (VOW) 123
+4 Radiant Grace // Radiant Restraints (VOW) 31
+4 Reclusive Taxidermist (VOW) 214
+4 Rending Flame (VOW) 175
+4 Resistance Squad (VOW) 32
+4 Restless Bloodseeker // Bloodsoaked Reveler (VOW) 128
+4 Retrieve (VOW) 215
+4 Runebound Wolf (VOW) 176
+4 Sanguine Statuette (VOW) 177
+4 Sawblade Slinger (VOW) 217
+4 Screaming Swarm (VOW) 75
+4 Sigardian Paladin (VOW) 247
+4 Skulking Killer (VOW) 130
+4 Skull Skaab (VOW) 248
+4 Soulcipher Board // Cipherbound Spirit (VOW) 79
+4 Spiked Ripsaw (VOW) 220
+4 Stormchaser Drake (VOW) 82
+4 Thirst for Discovery (VOW) 85
+4 Twinblade Geist // Twinblade Invocation (VOW) 40
+4 Undead Butler (VOW) 133
+4 Valorous Stance (VOW) 42
+4 Vampires' Vengeance (VOW) 180
+4 Vilespawn Spider (VOW) 250
+4 Voltaic Visionary // Volt-Charged Berserker (VOW) 183
+4 Wandering Mind (VOW) 251
+4 Wash Away (VOW) 87
+4 Wedding Security (VOW) 138
+4 Whispering Wizard (VOW) 88
+4 Witness the Future (VOW) 90
+4 Wolfkin Outcast // Wedding Crasher (VOW) 229
+
+### The Last Deck has 132 cards in it.

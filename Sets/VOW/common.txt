@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abrade (VOW) 139
+4 Adamant Will (VOW) 1
+4 Aim for the Head (VOW) 92
+4 Alchemist's Retrieval (VOW) 47
+4 Ancestral Anger (VOW) 142
+4 Apprentice Sharpshooter (VOW) 185
+4 Belligerent Guest (VOW) 144
+4 Binding Geist // Spectral Binding (VOW) 48
+4 Bleed Dry (VOW) 94
+4 Blood Fountain (VOW) 95
+4 Blood Petal Celebrant (VOW) 146
+4 Blood Servitor (VOW) 252
+4 Bloodcrazed Socialite (VOW) 96
+4 Bloody Betrayal (VOW) 147
+4 Bramble Armor (VOW) 188
+4 Ceremonial Knife (VOW) 254
+4 Chill of the Grave (VOW) 51
+4 Courier Bat (VOW) 102
+4 Cradle of Safety (VOW) 54
+4 Cruel Witness (VOW) 55
+4 Crushing Canopy (VOW) 194
+4 Dawnhart Disciple (VOW) 196
+4 Daybreak Combatants (VOW) 153
+4 Desperate Farmer // Depraved Harvester (VOW) 104
+4 Diregraf Scavenger (VOW) 105
+4 Doomed Dissenter (VOW) 106
+4 Dreadlight Monstrosity (VOW) 57
+4 Drogskol Infantry // Drogskol Armaments (VOW) 10
+4 End the Festivities (VOW) 155
+4 Estwald Shieldbasher (VOW) 11
+4 Evolving Wilds (VOW) 263
+4 Falkenrath Celebrants (VOW) 156
+4 Fear of Death (VOW) 59
+4 Fearful Villager // Fearsome Werewolf (VOW) 157
+4 Fierce Retribution (VOW) 13
+4 Flame-Blessed Bolt (VOW) 158
+4 Flourishing Hunter (VOW) 199
+4 Gift of Fangs (VOW) 113
+4 Gluttonous Guest (VOW) 114
+4 Grisly Ritual (VOW) 116
+4 Gryff Rider (VOW) 15
+4 Heron of Hope (VOW) 18
+4 Heron-Blessed Geist (VOW) 19
+4 Honored Heirloom (VOW) 257
+4 Hookhand Mariner // Riphook Raider (VOW) 203
+4 Hungry Ridgewolf (VOW) 161
+4 Kessig Flamebreather (VOW) 164
+4 Kindly Ancestor // Ancestor's Embrace (VOW) 22
+4 Lacerate Flesh (VOW) 166
+4 Lantern Bearer // Lanterns' Lift (VOW) 66
+
+
+### New Deck
+
+4 Lightning Wolf (VOW) 168
+4 Massive Might (VOW) 208
+4 Militia Rallier (VOW) 24
+4 Mindleech Ghoul (VOW) 122
+4 Moldgraf Millipede (VOW) 209
+4 Mulch (VOW) 210
+4 Nature's Embrace (VOW) 211
+4 Nebelgast Beguiler (VOW) 25
+4 Nurturing Presence (VOW) 26
+4 Parish-Blade Trainee (VOW) 29
+4 Persistent Specimen (VOW) 125
+4 Piercing Light (VOW) 30
+4 Pointed Discussion (VOW) 126
+4 Pyre Spawn (VOW) 173
+4 Ragged Recluse // Odious Witch (VOW) 127
+4 Reckless Impulse (VOW) 174
+4 Repository Skaab (VOW) 73
+4 Rot-Tide Gargantua (VOW) 129
+4 Rural Recruit (VOW) 216
+4 Sanctify (VOW) 33
+4 Scattered Thoughts (VOW) 74
+4 Selhoff Entomber (VOW) 76
+4 Serpentine Ambush (VOW) 77
+4 Sheltering Boughs (VOW) 218
+4 Sigarda's Imprisonment (VOW) 35
+4 Skywarp Skaab (VOW) 78
+4 Snarling Wolf (VOW) 219
+4 Spore Crawler (VOW) 222
+4 Sporeback Wolf (VOW) 223
+4 Steelclad Spirit (VOW) 80
+4 Stitched Assistant (VOW) 81
+4 Supernatural Rescue (VOW) 37
+4 Sure Strike (VOW) 179
+4 Syncopate (VOW) 83
+4 Syphon Essence (VOW) 84
+4 Toxic Scorpion (VOW) 224
+4 Traveling Minister (VOW) 39
+4 Undying Malice (VOW) 134
+4 Unhallowed Phalanx (VOW) 135
+4 Unholy Officiant (VOW) 41
+4 Vampire Slayer (VOW) 43
+4 Vampire's Kiss (VOW) 136
+4 Voldaren Epicure (VOW) 182
+4 Wanderlight Spirit (VOW) 86
+4 Weary Prisoner // Wrathful Jailbreaker (VOW) 184
+4 Weaver of Blossoms // Blossom-Clad Werewolf (VOW) 226
+4 Wedding Invitation (VOW) 260
+4 Witch's Web (VOW) 227
+4 Wolf Strike (VOW) 228
+4 Wretched Throng (VOW) 91
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

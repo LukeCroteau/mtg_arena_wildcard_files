@@ -18,6 +18,7 @@ RIX - Rivals of Ixalan
 RNA - Ravnica Allegiance
 STX - Strixhaven: School of Mages
 THB - Theros Beyond Death
+VOW - Innistrad: Crimson Vow
 WAR - War of the Spark
 XLN - Ixalan
 ZNR - Zendikar Rising

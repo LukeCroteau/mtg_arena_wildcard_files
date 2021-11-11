@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alchemist's Gambit (VOW) 140
+4 Anje, Maid of Dishonor (VOW) 231
+4 Ascendant Packleader (VOW) 186
+4 Bloodvial Purveyor (VOW) 98
+4 By Invitation Only (VOW) 5
+4 Change of Fortune (VOW) 150
+4 Concealing Curtains // Revealing Eye (VOW) 101
+4 Consuming Tide (VOW) 53
+4 Creepy Puppeteer (VOW) 151
+4 Curse of Hospitality (VOW) 152
+4 Deathcap Glade (VOW) 261
+4 Demonic Bargain (VOW) 103
+4 Dig Up (VOW) 197
+4 Dollhouse of Horrors (VOW) 255
+4 Dominating Vampire (VOW) 154
+4 Dorothea, Vengeful Victim // Dorothea's Retribution (VOW) 235
+4 Dreadfeast Demon (VOW) 108
+4 Dreamroot Cascade (VOW) 262
+4 Dreamshackle Geist (VOW) 58
+4 Dying to Serve (VOW) 109
+4 Edgar, Charmed Groom // Edgar Markov's Coffin (VOW) 236
+4 Eruth, Tormented Prophet (VOW) 237
+4 Falkenrath Forebear (VOW) 111
+4 Geralf, Visionary Stitcher (VOW) 61
+4 Glorious Sunrise (VOW) 200
+4 Graf Reaver (VOW) 115
+4 Grolnok, the Omnivore (VOW) 238
+4 Halana and Alena, Partners (VOW) 239
+4 Hamlet Vanguard (VOW) 201
+4 Headless Rider (VOW) 118
+4 Hiveheart Shaman (VOW) 202
+4 Hopeful Initiate (VOW) 20
+4 Howling Moon (VOW) 204
+4 Howlpack Piper // Wildsong Howler (VOW) 205
+4 Hullbreaker Horror (VOW) 63
+4 Ill-Tempered Loner // Howlpack Avenger (VOW) 162
+4 Inspired Idea (VOW) 64
+4 Investigator's Journal (VOW) 258
+4 Katilda, Dawnhart Martyr // Katilda's Rising Dawn (VOW) 21
+4 Kessig Wolfrider (VOW) 165
+4 Lantern Flare (VOW) 23
+4 Mirrorhall Mimic // Ghastly Mimicry (VOW) 68
+4 Odric, Blood-Cursed (VOW) 243
+4 Old Rutstein (VOW) 244
+4 Olivia's Attendants (VOW) 172
+4 Overcharged Amalgam (VOW) 71
+4 Patchwork Crawler (VOW) 72
+4 Path of Peril (VOW) 124
+4 Runo Stromkirk // Krothuss, Lord of the Deep (VOW) 246
+4 Shattered Sanctum (VOW) 264
+
+
+### New Deck
+
+4 Sigarda's Summons (VOW) 36
+4 Splendid Reclamation (VOW) 221
+4 Stensia Uprising (VOW) 178
+4 Stormcarved Coast (VOW) 265
+4 Sundown Pass (VOW) 266
+4 Thalia, Guardian of Thraben (VOW) 38
+4 Torens, Fist of the Angels (VOW) 249
+4 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 225
+4 Voice of the Blessed (VOW) 44
+4 Voldaren Bloodcaster // Bloodbat Summoner (VOW) 137
+4 Voldaren Estate (VOW) 267
+4 Wedding Announcement // Wedding Festivity (VOW) 45
+4 Welcoming Vampire (VOW) 46
+4 Winged Portent (VOW) 89
+
+### The Last Deck has 56 cards in it.
