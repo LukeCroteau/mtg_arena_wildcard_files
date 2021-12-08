@@ -21,4 +21,5 @@ THB - Theros Beyond Death
 VOW - Innistrad: Crimson Vow
 WAR - War of the Spark
 XLN - Ixalan
+Y22 - Alchemy: Innistrad
 ZNR - Zendikar Rising

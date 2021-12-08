@@ -1,0 +1,18 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Angel of Unity
+4 Break Expectations
+4 Brittle Blast
+4 Cursebound Witch
+4 Faithful Disciple
+4 Fearsome Whelp
+4 Kindred Denial
+4 Rimewall Protector0
+4 Settle the Wilds (Y22) 99
+4 Soulstealer Axe
+4 Tenacious Pup
+
+### The Last Deck has 44 cards in it.

@@ -1,0 +1,48 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Absorb Energy
+4 Angel of Eternal Dawn
+4 Antique Collector
+4 Arms Scavenger
+4 Assemble from Parts
+4 Begin Anew
+4 Bloodrage Alpha
+4 Citystalker Connoisseur
+4 Clone Crafter
+4 Conductive Current
+4 Discover the Formula
+4 Divine Purge
+4 Electrostatic Blast
+4 Expedition Supplier
+4 Forsaken Crossroads
+4 Frenzied Geistblaster
+4 Geistchanneler
+4 Geistpack Alpha
+4 Gitrog, Horror of Zhava
+4 Grizzled Huntmaster
+4 Hinterland Chef
+4 Hollowhenge Wrangler
+4 Inquisitor Captain
+4 Key to the Archive
+4 Lupine Harbingers
+4 Obessive Collector
+4 Ominous Traveler
+4 Patient Zero
+4 Ravenous Pursuit
+4 Sanguine Brushstroke
+4 Sap Vitality
+4 Sigardian Evangel
+4 Sinister Reflections
+4 Slayer's Bounty
+4 Suntail Squadron
+4 Tireless Angler
+4 Toralf's Disciple
+4 Town-razer Tyrant
+4 Unexpected Conversion
+4 Veteran Ghoulcaller
+4 Wickerwing Effigy
+
+### The Last Deck has 164 cards in it.

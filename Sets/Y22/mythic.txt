@@ -1,0 +1,16 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Captain Eberhart
+4 Ethereal Escort
+4 Geist of Regret
+4 Gutmorn, Pactbound Servant
+4 Ishkanah, Broodmother
+4 Oglor, Devoted Assistant
+4 Puppet Raiser
+4 Rahilda, Wanted Cutthroat // Rahilda, Feral Outlaw
+4 Tibalt, Wicked Tormenter
+
+### The Last Deck has 36 cards in it.
