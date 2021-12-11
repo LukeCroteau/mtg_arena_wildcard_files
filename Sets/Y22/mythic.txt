@@ -10,7 +10,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Ishkanah, Broodmother
 4 Oglor, Devoted Assistant
 4 Puppet Raiser
-4 Rahilda, Wanted Cutthroat // Rahilda, Feral Outlaw
-4 Tibalt, Wicked Tormenter
+4 Rahilda, Wanted Cutthroat
+4 Tibalt, Wicked Tormentor
 
 ### The Last Deck has 36 cards in it.

@@ -28,7 +28,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Inquisitor Captain
 4 Key to the Archive
 4 Lupine Harbingers
-4 Obessive Collector
+4 Obsessive Collector
 4 Ominous Traveler
 4 Patient Zero
 4 Ravenous Pursuit
