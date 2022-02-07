@@ -1,0 +1,99 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Acquisition Octopus (NEO) 44
+4 Anchor to Reality (NEO) 45
+4 Asari Captain (NEO) 215
+4 Assassin's Ink (NEO) 87
+4 Awakened Awareness (NEO) 47
+4 Azusa's Many Journeys // Likeness of the Seeker (NEO) 172
+4 Banishing Slash (NEO) 3
+4 Behold the Unspeakable // Vision of the Unspeakable (NEO) 48
+4 Blade-Blizzard Kitsune (NEO) 5
+4 Blossom Prancer (NEO) 175
+4 Boon of Boseiju (NEO) 176
+4 Born to Drive (NEO) 6
+4 Boseiju Reaches Skyward // Branch of Boseiju (NEO) 177
+4 Bronze Cudgels (NEO) 240
+4 Bronzeplate Boar (NEO) 135
+4 Circuit Mender (NEO) 242
+4 Colossal Skyturtle (NEO) 216
+4 Containment Construct (NEO) 243
+4 Covert Technician (NEO) 49
+4 Discover the Impossible (NEO) 50
+4 Dockside Chef (NEO) 93
+4 Dokuchi Silencer (NEO) 95
+4 Dragonspark Reactor (NEO) 137
+4 Enormous Energy Blade (NEO) 96
+4 Enthusiastic Mechanaut (NEO) 218
+4 Essence Capture (NEO) 52
+4 Flame Discharge (NEO) 142
+4 Futurist Operative (NEO) 53
+4 Generous Visitor (NEO) 185
+4 Gloomshrieker (NEO) 219
+4 Go-Shintai of Ancient Wars (NEO) 144
+4 Go-Shintai of Boundless Vigor (NEO) 187
+4 Go-Shintai of Hidden Cruelty (NEO) 97
+4 Go-Shintai of Lost Wisdom (NEO) 55
+4 Go-Shintai of Shared Purpose (NEO) 14
+4 Gravelighter (NEO) 98
+4 Heiko Yamazaki, the General (NEO) 146
+4 High-Speed Hoverbike (NEO) 247
+4 Historian's Wisdom (NEO) 192
+4 Hotshot Mechanic (NEO) 16
+4 Imperial Recovery Unit (NEO) 18
+4 Invigorating Hot Spring (NEO) 223
+4 Jukai Naturalist (NEO) 225
+4 Kappa Tech-Wrecker (NEO) 198
+4 Kumano Faces Kakkazan // Etching of Kumano (NEO) 152
+4 Leech Gauntlet (NEO) 106
+4 Life of Toshiro Umezawa // Memory of Toshiro (NEO) 108
+4 Malicious Malfunction (NEO) 110
+4 Mech Hangar (NEO) 270
+4 Michiko's Reign of Truth // Portrait of Michiko (NEO) 29
+
+
+### New Deck
+
+4 Mobilizer Mech (NEO) 65
+4 Naomi, Pillar of Order (NEO) 229
+4 Nezumi Prowler (NEO) 116
+4 Norika Yamazaki, the Poet (NEO) 31
+4 Okiba Salvage (NEO) 118
+4 Oni-Cult Anvil (NEO) 230
+4 Orochi Merge-Keeper (NEO) 203
+4 Patchwork Automaton (NEO) 254
+4 Prodigy's Prototype (NEO) 231
+4 Prosperous Thief (NEO) 73
+4 Rabbit Battery (NEO) 157
+4 Reality Heist (NEO) 75
+4 Reinforced Ronin (NEO) 158
+4 Reito Sentinel (NEO) 256
+4 Replication Specialist (NEO) 76
+4 Roadside Reliquary (NEO) 272
+4 Roaring Earth (NEO) 204
+4 Runaway Trash-Bot (NEO) 257
+4 Secluded Courtyard (NEO) 275
+4 Seismic Wave (NEO) 161
+4 Selfless Samurai (NEO) 35
+4 Silver-Fur Master (NEO) 236
+4 Sky-Blessed Samurai (NEO) 37
+4 Sokenzan Smelter (NEO) 164
+4 Spinning Wheel Kick (NEO) 207
+4 Storyweave (NEO) 209
+4 Tempered in Solitude (NEO) 165
+4 The Fall of Lord Konda // Fragment of Konda (NEO) 12
+4 The Long Reach of Night // Animus of Night's Reach (NEO) 109
+4 Thirst for Knowledge (NEO) 85
+4 Touch the Spirit Realm (NEO) 40
+4 Towashi Guide-Bot (NEO) 262
+4 Twinshot Sniper (NEO) 168
+4 Unforgiving One (NEO) 127
+4 Upriser Renegade (NEO) 170
+4 Walking Skyscraper (NEO) 263
+4 Webspinner Cuff (NEO) 214
+4 When We Were Young (NEO) 43
+
+### The Last Deck has 152 cards in it.

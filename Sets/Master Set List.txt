@@ -14,6 +14,7 @@ M19 - Core Set 2019
 M20 - Core Set 2020
 M21 - Core Set 2021
 MID - Innistrad: Midnight Hunt
+NEO - Kamigawa: Neon Dynasty
 RIX - Rivals of Ixalan
 RNA - Ravnica Allegiance
 STX - Strixhaven: School of Mages

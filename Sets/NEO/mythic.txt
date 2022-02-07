@@ -1,0 +1,25 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ao, the Dawn Sky (NEO) 2
+4 Atsushi, the Blazing Sky (NEO) 134
+4 Blade of the Oni (NEO) 89
+4 Explosive Singularity (NEO) 140
+4 Hidetsugu Consumes All // Vessel of the All-Consuming (NEO) 221
+4 Jin-Gitaxias, Progress Tyrant (NEO) 59
+4 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
+4 Junji, the Midnight Sky (NEO) 102
+4 Kairi, the Swirling Sky (NEO) 60
+4 Kaito Shizuki (NEO) 226
+4 Kodama of the West Tree (NEO) 199
+4 Kura, the Boundless Sky (NEO) 200
+4 Nashi, Moon Sage's Scion (NEO) 114
+4 Spirit-Sister's Call (NEO) 237
+4 Tamiyo, Compleated Sage (NEO) 238
+4 Tezzeret, Betrayer of Flesh (NEO) 84
+4 The Kami War // O-Kagachi Made Manifest (NEO) 227
+4 The Wandering Emperor (NEO) 42
+
+### The Last Deck has 72 cards in it.

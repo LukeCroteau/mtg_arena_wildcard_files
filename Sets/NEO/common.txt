@@ -1,0 +1,132 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Akki Ember-Keeper (NEO) 130
+4 Akki Ronin (NEO) 131
+4 Akki War Paint (NEO) 132
+4 Ambitious Assault (NEO) 133
+4 Ancestral Katana (NEO) 1
+4 Armguard Familiar (NEO) 46
+4 Automated Artificer (NEO) 239
+4 Bamboo Grove Archer (NEO) 173
+4 Bearer of Memory (NEO) 174
+4 Befriending the Moths // Imperial Moth (NEO) 4
+4 Bloodfell Caves (NEO) 264
+4 Blossoming Sands (NEO) 265
+4 Brute Suit (NEO) 241
+4 Careful Cultivation (NEO) 178
+4 Chainflail Centipede (NEO) 90
+4 Clawing Torment (NEO) 91
+4 Coiling Stalker (NEO) 179
+4 Commune with Spirits (NEO) 180
+4 Crackling Emergence (NEO) 136
+4 Debt to the Kami (NEO) 92
+4 Dismal Backwater (NEO) 267
+4 Disruption Protocol (NEO) 51
+4 Dokuchi Shadow-Walker (NEO) 94
+4 Dragonfly Suit (NEO) 9
+4 Dramatist's Puppet (NEO) 244
+4 Ecologist's Terrarium (NEO) 246
+4 Eiganjo Exemplar (NEO) 10
+4 Era of Enlightenment // Hand of Enlightenment (NEO) 11
+4 Experimental Synthesizer (NEO) 138
+4 Explosive Entry (NEO) 139
+4 Fade into Antiquity (NEO) 182
+4 Fang of Shigeki (NEO) 183
+4 Favor of Jukai (NEO) 184
+4 Futurist Sentinel (NEO) 54
+4 Geothermal Kami (NEO) 186
+4 Gift of Wrath (NEO) 143
+4 Golden-Tail Disciple (NEO) 15
+4 Grafted Growth (NEO) 188
+4 Greater Tanuki (NEO) 189
+4 Guardians of Oboro (NEO) 56
+4 Harmonious Emergence (NEO) 190
+4 Heir of the Ancient Fang (NEO) 191
+4 Imperial Oath (NEO) 17
+4 Imperial Subduer (NEO) 19
+4 Inkrise Infiltrator (NEO) 100
+4 Intercessor's Arrest (NEO) 20
+4 Iron Apprentice (NEO) 248
+4 Ironhoof Boar (NEO) 148
+4 Jukai Preserver (NEO) 195
+4 Jukai Trainee (NEO) 196
+
+
+### New Deck
+
+4 Jungle Hollow (NEO) 269
+4 Kaito's Pursuit (NEO) 103
+4 Kami of Industry (NEO) 149
+4 Kami of Restless Shadows (NEO) 104
+4 Kami of Terrible Secrets (NEO) 105
+4 Kami's Flare (NEO) 150
+4 Kindled Fury (NEO) 151
+4 Kitsune Ace (NEO) 22
+4 Lethal Exploit (NEO) 107
+4 Light the Way (NEO) 24
+4 Lucky Offering (NEO) 27
+4 Master's Rebuke (NEO) 202
+4 Mirrorshell Crab (NEO) 63
+4 Mnemonic Sphere (NEO) 64
+4 Moon-Circuit Hacker (NEO) 67
+4 Moonfolk Puzzlemaker (NEO) 68
+4 Moonsnare Prototype (NEO) 69
+4 Moonsnare Specialist (NEO) 70
+4 Mothrider Patrol (NEO) 30
+4 Mukotai Ambusher (NEO) 112
+4 Network Disruptor (NEO) 71
+4 Network Terminal (NEO) 251
+4 Nezumi Bladeblesser (NEO) 115
+4 Ninja's Kunai (NEO) 252
+4 Okiba Reckoner Raid // Nezumi Road Captain (NEO) 117
+4 Papercraft Decoy (NEO) 253
+4 Peerless Samurai (NEO) 156
+4 Planar Incision (NEO) 72
+4 Reckoner Shakedown (NEO) 119
+4 Reckoner's Bargain (NEO) 120
+4 Regent's Authority (NEO) 32
+4 Repel the Vile (NEO) 33
+4 Return to Action (NEO) 121
+4 Rugged Highlands (NEO) 273
+4 Saiba Trespassers (NEO) 77
+4 Scoured Barrens (NEO) 274
+4 Scrapyard Steelbreaker (NEO) 160
+4 Searchlight Companion (NEO) 258
+4 Season of Renewal (NEO) 205
+4 Seven-Tail Mentor (NEO) 36
+4 Short Circuit (NEO) 78
+4 Shrine Steward (NEO) 259
+4 Simian Sling (NEO) 163
+4 Skyswimmer Koi (NEO) 79
+4 Spell Pierce (NEO) 80
+4 Spirited Companion (NEO) 38
+4 Suit Up (NEO) 81
+4 Sunblade Samurai (NEO) 39
+4 Swiftwater Cliffs (NEO) 277
+4 Tales of Master Seshiro // Seshiro's Living Legacy (NEO) 210
+
+
+### New Deck
+
+4 Tamiyo's Compleation (NEO) 83
+4 Tamiyo's Safekeeping (NEO) 211
+4 The Modern Age // Vector Glider (NEO) 66
+4 The Shattered States Era // Nameless Conqueror (NEO) 162
+4 Thornwood Falls (NEO) 279
+4 Thundersteel Colossus (NEO) 261
+4 Towashi Songshaper (NEO) 167
+4 Tranquil Cove (NEO) 280
+4 Twisted Embrace (NEO) 125
+4 Uncharted Haven (NEO) 281
+4 Undercity Scrounger (NEO) 126
+4 Unstoppable Ogre (NEO) 169
+4 Virus Beetle (NEO) 128
+4 Voltage Surge (NEO) 171
+4 Wanderer's Intervention (NEO) 41
+4 Wind-Scarred Crag (NEO) 282
+4 You Are Already Dead (NEO) 129
+
+### The Last Deck has 68 cards in it.

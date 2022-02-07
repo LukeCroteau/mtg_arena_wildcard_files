@@ -1,0 +1,70 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Biting-Palm Ninja (NEO) 88
+4 Boseiju, Who Endures (NEO) 266
+4 Brilliant Restoration (NEO) 7
+4 Cloudsteel Kirin (NEO) 8
+4 Eater of Virtue (NEO) 245
+4 Eiganjo Uprising (NEO) 217
+4 Eiganjo, Seat of the Empire (NEO) 268
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+4 Farewell (NEO) 13
+4 Goro-Goro, Disciple of Ryusei (NEO) 145
+4 Greasefang, Okiba Boss (NEO) 220
+4 Hidetsugu, Devouring Chaos (NEO) 99
+4 Hinata, Dawn-Crowned (NEO) 222
+4 Inventive Iteration // Living Breakthrough (NEO) 57
+4 Invoke Calamity (NEO) 147
+4 Invoke Despair (NEO) 101
+4 Invoke Justice (NEO) 21
+4 Invoke the Ancients (NEO) 193
+4 Invoke the Winds (NEO) 58
+4 Isshin, Two Heavens as One (NEO) 224
+4 Kami of Transience (NEO) 197
+4 Kotose, the Silent Spider (NEO) 228
+4 Kyodai, Soul of Kamigawa (NEO) 23
+4 Light-Paws, Emperor's Voice (NEO) 25
+4 Lion Sash (NEO) 26
+4 Lizard Blades (NEO) 153
+4 March of Burgeoning Life (NEO) 201
+4 March of Otherworldly Light (NEO) 28
+4 March of Reckless Joy (NEO) 154
+4 March of Swirling Mist (NEO) 61
+4 March of Wretched Sorrow (NEO) 111
+4 Mechtitan Core (NEO) 249
+4 Mindlink Mech (NEO) 62
+4 Mirror Box (NEO) 250
+4 Mukotai Soulripper (NEO) 113
+4 Ogre-Head Helm (NEO) 155
+4 Otawara, Soaring City (NEO) 271
+4 Raiyuu, Storm's Edge (NEO) 232
+4 Reckoner Bankbuster (NEO) 255
+4 Risona, Asari Commander (NEO) 233
+4 Satoru Umezawa (NEO) 234
+4 Satsuki, the Living Lore (NEO) 235
+4 Scrap Welder (NEO) 159
+4 Shigeki, Jukai Visionary (NEO) 206
+4 Sokenzan, Crucible of Defiance (NEO) 276
+4 Soul Transfer (NEO) 122
+4 Spring-Leaf Avenger (NEO) 208
+4 Surgehacker Mech (NEO) 260
+4 Takenuma, Abandoned Mire (NEO) 278
+4 Tameshi, Reality Architect (NEO) 82
+
+
+### New Deck
+
+4 Tatsunari, Toad Rider (NEO) 123
+4 Teachings of the Kirin // Kirin-Touched Orochi (NEO) 212
+4 The Dragon-Kami Reborn // Dragon-Kami's Egg (NEO) 181
+4 The Reality Chip (NEO) 74
+4 The Restoration of Eiganjo // Architect of Restoration (NEO) 34
+4 Thousand-Faced Shadow (NEO) 86
+4 Thundering Raiju (NEO) 166
+4 Tribute to Horobi // Echo of Death's Wail (NEO) 124
+4 Weaver of Harmony (NEO) 213
+
+### The Last Deck has 36 cards in it.
