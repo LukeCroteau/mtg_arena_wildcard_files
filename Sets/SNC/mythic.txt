@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 All-Seeing Arbiter (SNC) 34
+4 Angel of Suffering (SNC) 67
+4 Arcane Bombardment (SNC) 101
+4 Body Launderer (SNC) 68
+4 Bootleggers' Stash (SNC) 134
+4 Elspeth Resplendent (SNC) 11
+4 Even the Score (SNC) 42
+4 Falco Spara, Pactweaver (SNC) 186
+4 Halo Fountain (SNC) 15
+4 Jetmir, Nexus of Revels (SNC) 193
+4 Lord Xander, the Collector (SNC) 197
+4 Luxior, Giada's Gift (SNC) 240
+4 Meeting of the Five (SNC) 202
+4 Ob Nixilis, the Adversary (SNC) 206
+4 Raffine, Scheming Seer (SNC) 213
+4 Sanctuary Warden (SNC) 30
+4 Titan of Industry (SNC) 159
+4 Urabrask, Heretic Praetor (SNC) 129
+4 Vivien on the Hunt (SNC) 162
+4 Ziatora, the Incinerator (SNC) 231
+
+### The Last Deck has 80 cards in it.

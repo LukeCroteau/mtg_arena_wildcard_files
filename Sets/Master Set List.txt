@@ -17,6 +17,7 @@ MID - Innistrad: Midnight Hunt
 NEO - Kamigawa: Neon Dynasty
 RIX - Rivals of Ixalan
 RNA - Ravnica Allegiance
+SNC - Streets of New Capenna
 STX - Strixhaven: School of Mages
 THB - Theros Beyond Death
 VOW - Innistrad: Crimson Vow

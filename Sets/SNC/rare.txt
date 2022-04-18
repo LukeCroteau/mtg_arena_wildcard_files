@@ -1,0 +1,71 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aven Heartstabber (SNC) 166
+4 Black Market Tycoon (SNC) 167
+4 Brokers Ascendancy (SNC) 170
+4 Cabaretti Ascendancy (SNC) 172
+4 Cemetery Tampering (SNC) 69
+4 Corpse Explosion (SNC) 179
+4 Cut Your Losses (SNC) 38
+4 Cut of the Profits (SNC) 72
+4 Depopulate (SNC) 10
+4 Devilish Valet (SNC) 105
+4 Endless Detour (SNC) 183
+4 Errant, Street Artist (SNC) 41
+4 Evelyn, the Covetous (SNC) 184
+4 Evolving Door (SNC) 144
+4 Extraction Specialist (SNC) 12
+4 Fight Rigging (SNC) 145
+4 Fleetfoot Dancer (SNC) 188
+4 Gala Greeters (SNC) 148
+4 Getaway Car (SNC) 237
+4 Giada, Font of Hope (SNC) 14
+4 Hoard Hauler (SNC) 109
+4 Hostile Takeover (SNC) 191
+4 Incandescent Aria (SNC) 192
+4 Jaxis, the Troublemaker (SNC) 112
+4 Jetmir's Garden (SNC) 250
+4 Jinnie Fay, Jetmir's Second (SNC) 195
+4 Ledger Shredder (SNC) 46
+4 Maestros Ascendancy (SNC) 198
+4 Maestros Diabolist (SNC) 200
+4 Mysterious Limousine (SNC) 22
+4 Obscura Ascendancy (SNC) 207
+4 Obscura Interceptor (SNC) 209
+4 Ognis, the Dragon's Lash (SNC) 210
+4 Park Heights Pegasus (SNC) 211
+4 Professional Face-Breaker (SNC) 116
+4 Rabble Rousing (SNC) 24
+4 Raffine's Tower (SNC) 254
+4 Reservoir Kraken (SNC) 56
+4 Rigo, Streetwise Mentor (SNC) 215
+4 Riveteers Ascendancy (SNC) 216
+4 Sanguine Spy (SNC) 93
+4 Scheming Fence (SNC) 219
+4 Shadow of Mortality (SNC) 94
+4 Shakedown Heavy (SNC) 95
+4 Soul of Emancipation (SNC) 223
+4 Spara's Headquarters (SNC) 257
+4 Structural Assault (SNC) 126
+4 Tenacious Underdog (SNC) 97
+4 Toluz, Clever Conductor (SNC) 228
+4 Topiary Stomper (SNC) 160
+
+
+### New Deck
+
+4 Undercover Operative (SNC) 63
+4 Unleash the Inferno (SNC) 229
+4 Unlicensed Hearse (SNC) 246
+4 Void Rend (SNC) 230
+4 Widespread Thieving (SNC) 130
+4 Wiretapping (SNC) 65
+4 Workshop Warchief (SNC) 165
+4 Xander's Lounge (SNC) 260
+4 Ziatora's Envoy (SNC) 232
+4 Ziatora's Proving Ground (SNC) 261
+
+### The Last Deck has 40 cards in it.

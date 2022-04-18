@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Antagonize (SNC) 100
+4 Attended Socialite (SNC) 133
+4 Backstreet Bruiser (SNC) 35
+4 Backup Agent (SNC) 2
+4 Big Score (SNC) 102
+4 Body Dropper (SNC) 168
+4 Boon of Safety (SNC) 4
+4 Botanical Plaza (SNC) 247
+4 Broken Wings (SNC) 136
+4 Brokers Hideout (SNC) 248
+4 Brokers Initiate (SNC) 5
+4 Brokers Veteran (SNC) 36
+4 Buy Your Silence (SNC) 6
+4 Cabaretti Courtyard (SNC) 249
+4 Cabaretti Initiate (SNC) 137
+4 Caldaia Strongarm (SNC) 138
+4 Capenna Express (SNC) 139
+4 Case the Joint (SNC) 37
+4 Celebrity Fencer (SNC) 7
+4 Celestial Regulator (SNC) 174
+4 Chrome Cat (SNC) 236
+4 Civic Gardener (SNC) 140
+4 Civil Servant (SNC) 176
+4 Corrupt Court Official (SNC) 70
+4 Crooked Custodian (SNC) 71
+4 Cutthroat Contender (SNC) 73
+4 Dapper Shieldmate (SNC) 9
+4 Daring Escape (SNC) 104
+4 Deal Gone Bad (SNC) 74
+4 Demon's Due (SNC) 75
+4 Dig Up the Body (SNC) 76
+4 Disdainful Stroke (SNC) 39
+4 Echo Inspector (SNC) 40
+4 Exhibition Magician (SNC) 106
+4 Expendable Lackey (SNC) 43
+4 Extract the Truth (SNC) 78
+4 Fake Your Own Death (SNC) 79
+4 For the Family (SNC) 146
+4 Gathering Throng (SNC) 13
+4 Gilded Pinions (SNC) 238
+4 Girder Goons (SNC) 80
+4 Glamorous Outlaw (SNC) 190
+4 Glittermonger (SNC) 149
+4 Goldhound (SNC) 108
+4 Halo Scarab (SNC) 239
+4 High-Rise Sawjack (SNC) 150
+4 Hold for Ransom (SNC) 16
+4 Incriminate (SNC) 84
+4 Inspiring Overseer (SNC) 18
+4 Jackhammer (SNC) 111
+
+
+### New Deck
+
+4 Jetmir's Fixer (SNC) 194
+4 Jewel Thief (SNC) 151
+4 Join the Maestros (SNC) 85
+4 Kill Shot (SNC) 19
+4 Light 'Em Up (SNC) 113
+4 Maestros Initiate (SNC) 86
+4 Maestros Theater (SNC) 251
+4 Majestic Metamorphosis (SNC) 48
+4 Make Disappear (SNC) 49
+4 Masked Bandits (SNC) 201
+4 Mayhem Patrol (SNC) 114
+4 Midnight Assassin (SNC) 87
+4 Most Wanted (SNC) 153
+4 Murder (SNC) 88
+4 Obscura Initiate (SNC) 50
+4 Obscura Storefront (SNC) 252
+4 Ominous Parcel (SNC) 241
+4 Paragon of Modernity (SNC) 242
+4 Plasma Jockey (SNC) 115
+4 Prizefight (SNC) 154
+4 Psionic Snoop (SNC) 53
+4 Quick-Draw Dagger (SNC) 243
+4 Racers' Ring (SNC) 253
+4 Raffine's Guidance (SNC) 25
+4 Raffine's Informant (SNC) 26
+4 Rakish Revelers (SNC) 214
+4 Ready to Rumble (SNC) 119
+4 Revel Ruiner (SNC) 91
+4 Revelation of Power (SNC) 28
+4 Rhox Pummeler (SNC) 155
+4 Riveteers Initiate (SNC) 120
+4 Riveteers Overlook (SNC) 255
+4 Rooftop Nuisance (SNC) 57
+4 Run Out of Town (SNC) 58
+4 Security Bypass (SNC) 59
+4 Sewer Crocodile (SNC) 60
+4 Shattered Seraph (SNC) 221
+4 Sky Crier (SNC) 31
+4 Skybridge Towers (SNC) 256
+4 Snooping Newsie (SNC) 222
+4 Social Climber (SNC) 157
+4 Spara's Adjudicators (SNC) 224
+4 Speakeasy Server (SNC) 32
+4 Sticky Fingers (SNC) 124
+4 Strangle (SNC) 125
+4 Tramway Station (SNC) 258
+4 Warm Welcome (SNC) 164
+4 Waterfront District (SNC) 259
+4 Witness Protection (SNC) 66
+4 Witty Roastmaster (SNC) 131
+
+
+### New Deck
+
+4 Wrecking Crew (SNC) 132
+
+### The Last Deck has 4 cards in it.

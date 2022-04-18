@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A Little Chat (SNC) 47
+4 An Offer You Can't Refuse (SNC) 51
+4 Angelic Observer (SNC) 1
+4 Arc Spitter (SNC) 233
+4 Ballroom Brawlers (SNC) 3
+4 Bouncer's Beatdown (SNC) 135
+4 Brass Knuckles (SNC) 234
+4 Brazen Upstart (SNC) 169
+4 Brokers Charm (SNC) 171
+4 Cabaretti Charm (SNC) 173
+4 Call In a Professional (SNC) 103
+4 Cement Shoes (SNC) 235
+4 Ceremonial Groundbreaker (SNC) 175
+4 Citizen's Crowbar (SNC) 8
+4 Cleanup Crew (SNC) 141
+4 Cormela, Glamour Thief (SNC) 177
+4 Corpse Appraiser (SNC) 178
+4 Courier's Briefcase (SNC) 142
+4 Crew Captain (SNC) 180
+4 Darling of the Masses (SNC) 181
+4 Disciplined Duelist (SNC) 182
+4 Dusk Mangler (SNC) 77
+4 Elegant Entourage (SNC) 143
+4 Exotic Pets (SNC) 185
+4 Faerie Vandal (SNC) 44
+4 Fatal Grudge (SNC) 187
+4 Forge Boss (SNC) 189
+4 Freelance Muscle (SNC) 147
+4 Glittering Stockpile (SNC) 107
+4 Graveyard Shift (SNC) 81
+4 Grisly Sigil (SNC) 82
+4 Hypnotic Grifter (SNC) 45
+4 Illicit Shipment (SNC) 83
+4 Illuminator Virtuoso (SNC) 17
+4 Involuntary Employment (SNC) 110
+4 Knockout Blow (SNC) 20
+4 Lagrella, the Magpie (SNC) 196
+4 Luxurious Libation (SNC) 152
+4 Maestros Charm (SNC) 199
+4 Mage's Attendant (SNC) 21
+4 Metropolis Angel (SNC) 203
+4 Mr. Orfeo, the Boulder (SNC) 204
+4 Night Clubber (SNC) 89
+4 Nimble Larcenist (SNC) 205
+4 Obscura Charm (SNC) 208
+4 Out of the Way (SNC) 52
+4 Patch Up (SNC) 23
+4 Psychic Pickpocket (SNC) 54
+4 Public Enemy (SNC) 55
+4 Pugnacious Pugilist (SNC) 117
+
+
+### New Deck
+
+4 Pyre-Sledge Arsonist (SNC) 118
+4 Queza, Augur of Agonies (SNC) 212
+4 Raffine's Silencer (SNC) 90
+4 Refuse to Yield (SNC) 27
+4 Riveteers Charm (SNC) 217
+4 Riveteers Decoy (SNC) 156
+4 Riveteers Requisitioner (SNC) 121
+4 Rob the Archives (SNC) 122
+4 Rocco, Cabaretti Caterer (SNC) 218
+4 Rogues' Gallery (SNC) 92
+4 Rumor Gatherer (SNC) 29
+4 Scuttling Butler (SNC) 244
+4 Security Rhox (SNC) 220
+4 Sizzling Soloist (SNC) 123
+4 Sleep with the Fishes (SNC) 61
+4 Slip Out the Back (SNC) 62
+4 Stimulus Package (SNC) 225
+4 Suspicious Bookcase (SNC) 245
+4 Swooping Protector (SNC) 33
+4 Syndicate Infiltrator (SNC) 226
+4 Tainted Indulgence (SNC) 227
+4 Take to the Streets (SNC) 158
+4 Tavern Swindler (SNC) 96
+4 Torch Breath (SNC) 127
+4 Unlucky Witness (SNC) 128
+4 Vampire Scrivener (SNC) 98
+4 Venom Connoisseur (SNC) 161
+4 Voice of the Vermin (SNC) 163
+4 Whack (SNC) 99
+4 Wingshield Agent (SNC) 64
+
+### The Last Deck has 120 cards in it.
