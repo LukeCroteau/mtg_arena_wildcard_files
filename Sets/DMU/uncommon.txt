@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aron, Benalia's Ruin (DMU) 193
+4 Baird, Argivian Recruiter (DMU) 195
+4 Balduvian Atrocity (DMU) 79
+4 Balduvian Berserker (DMU) 116
+4 Balmor, Battlemage Captain (DMU) 196
+4 Battlewing Mystic (DMU) 43
+4 Blight Pile (DMU) 82
+4 Bortuk Bonerattle (DMU) 197
+4 Braids's Frightful Return (DMU) 85
+4 Choking Miasma (DMU) 86
+4 Cleaving Skyrider (DMU) 12
+4 Coalition Skyknight (DMU) 14
+4 Combat Research (DMU) 44
+4 Coral Colony (DMU) 45
+4 Cult Conscript (DMU) 88
+4 Cut Down (DMU) 89
+4 Djinn of the Fountain (DMU) 47
+4 Dragon Whelp (DMU) 120
+4 Elas il-Kor, Sadistic Pilgrim (DMU) 198
+4 Electrostatic Infantry (DMU) 122
+4 Elvish Hydromancer (DMU) 162
+4 Ertai's Scorn (DMU) 48
+4 Fires of Victory (DMU) 123
+4 Founding the Third Path (DMU) 50
+4 Frostfist Strider (DMU) 51
+4 Garna, Bloodfist of Keld (DMU) 200
+4 Hero's Heirloom (DMU) 231
+4 Hurler Cyclops (DMU) 130
+4 Hurloon Battle Hymn (DMU) 131
+4 Inscribed Tablet (DMU) 232
+4 Jodah's Codex (DMU) 233
+4 Join Forces (DMU) 21
+4 Joint Exploration (DMU) 56
+4 Knight of Dawn's Light (DMU) 23
+4 Knight of Dusk's Shadow (DMU) 96
+4 Lagomos, Hand of Hatred (DMU) 205
+4 Linebreaker Baloth (DMU) 168
+4 Love Song of Night and Day (DMU) 25
+4 Micromancer (DMU) 57
+4 Monstrous War-Leech (DMU) 98
+4 Mossbeard Ancient (DMU) 173
+4 Nael, Avizoa Aeronaut (DMU) 207
+4 Najal, the Storm Runner (DMU) 208
+4 Nishoba Brawler (DMU) 174
+4 Phoenix Chick (DMU) 140
+4 Phyrexian Missionary (DMU) 27
+4 Pilfer (DMU) 102
+4 Prayer of Binding (DMU) 28
+4 Protect the Negotiators (DMU) 62
+4 Queen Allenal of Ruadach (DMU) 210
+
+
+### New Deck
+
+4 Radha, Coalition Warlord (DMU) 211
+4 Raff, Weatherlight Stalwart (DMU) 212
+4 Relic of Legends (DMU) 236
+4 Resolute Reinforcements (DMU) 29
+4 Rona's Vortex (DMU) 63
+4 Rona, Sheoldred's Faithful (DMU) 216
+4 Rulik Mons, Warren Chief (DMU) 217
+4 Runic Shot (DMU) 30
+4 Sengir Connoisseur (DMU) 104
+4 Shalai's Acolyte (DMU) 33
+4 Sheoldred's Restoration (DMU) 108
+4 Slimefoot's Survey (DMU) 178
+4 Sprouting Goblin (DMU) 145
+4 Strength of the Coalition (DMU) 180
+4 Tail Swipe (DMU) 182
+4 Tatyova, Steward of Tides (DMU) 222
+4 Tear Asunder (DMU) 183
+4 Territorial Maro (DMU) 184
+4 The Weatherseed Treaty (DMU) 188
+4 Tori D'Avenant, Fury Rider (DMU) 223
+4 Tura Kennerüd, Skyknight (DMU) 224
+4 Twinferno (DMU) 149
+4 Uurg, Spawn of Turg (DMU) 225
+4 Vohar, Vodalian Desecrator (DMU) 226
+4 Walking Bulwark (DMU) 241
+4 Warhost's Frenzy (DMU) 151
+4 Wingmantle Chaplain (DMU) 39
+4 Yavimaya Iconoclast (DMU) 190
+4 Yotia Declares War (DMU) 153
+4 Zar Ojanen, Scion of Efrava (DMU) 227
+
+### The Last Deck has 120 cards in it.

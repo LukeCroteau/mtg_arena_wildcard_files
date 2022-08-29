@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academy Wall (DMU) 41
+4 Aggressive Sabotage (DMU) 78
+4 Argivian Cavalier (DMU) 4
+4 Argivian Phalanx (DMU) 5
+4 Artillery Blast (DMU) 6
+4 Automatic Librarian (DMU) 229
+4 Barkweave Crusher (DMU) 154
+4 Battle-Rage Blessing (DMU) 80
+4 Battlefly Swarm (DMU) 81
+4 Benalish Faithbonder (DMU) 7
+4 Benalish Sleeper (DMU) 8
+4 Bite Down (DMU) 155
+4 Bog Badger (DMU) 156
+4 Bone Splinters (DMU) 83
+4 Broken Wings (DMU) 157
+4 Captain's Call (DMU) 9
+4 Charismatic Vanguard (DMU) 10
+4 Citizen's Arrest (DMU) 11
+4 Clockwork Drawbridge (DMU) 13
+4 Coalition Warbrute (DMU) 118
+4 Colossal Growth (DMU) 158
+4 Contaminated Aquifer (DMU) 245
+4 Crystal Grotto (DMU) 246
+4 Deathbloom Gardener (DMU) 159
+4 Destroy Evil (DMU) 17
+4 Eerie Soultender (DMU) 92
+4 Elfhame Wurm (DMU) 161
+4 Essence Scatter (DMU) 49
+4 Extinguish the Light (DMU) 94
+4 Floriferous Vinewall (DMU) 163
+4 Flowstone Infusion (DMU) 124
+4 Flowstone Kavu (DMU) 125
+4 Furious Bellow (DMU) 126
+4 Gaea's Might (DMU) 164
+4 Geothermal Bog (DMU) 247
+4 Ghitu Amplifier (DMU) 127
+4 Gibbering Barricade (DMU) 95
+4 Goblin Picker (DMU) 128
+4 Griffin Protector (DMU) 18
+4 Hammerhand (DMU) 129
+4 Haunted Mire (DMU) 248
+4 Haunting Figment (DMU) 53
+4 Heroic Charge (DMU) 20
+4 Hexbane Tortoise (DMU) 166
+4 Idyllic Beachfront (DMU) 249
+4 Impede Momentum (DMU) 54
+4 Impulse (DMU) 55
+4 In Thrall to the Pit (DMU) 132
+4 Jaya's Firenado (DMU) 134
+4 Juniper Order Rootweaver (DMU) 22
+
+
+### New Deck
+
+4 Keldon Strike Team (DMU) 136
+4 Lightning Strike (DMU) 137
+4 Llanowar Stalker (DMU) 171
+4 Magnigoth Sentry (DMU) 172
+4 Meria's Outrider (DMU) 138
+4 Mesa Cavalier (DMU) 26
+4 Meteorite (DMU) 235
+4 Molten Monstrosity (DMU) 139
+4 Molten Tributary (DMU) 251
+4 Negate (DMU) 58
+4 Phyrexian Espionage (DMU) 60
+4 Phyrexian Rager (DMU) 99
+4 Phyrexian Vivisector (DMU) 100
+4 Phyrexian Warhorse (DMU) 101
+4 Pixie Illusionist (DMU) 61
+4 Radiant Grove (DMU) 253
+4 Sacred Peaks (DMU) 254
+4 Salvaged Manaworker (DMU) 237
+4 Samite Herbalist (DMU) 31
+4 Scout the Wilderness (DMU) 176
+4 Shadow Prophecy (DMU) 105
+4 Shield-Wall Sentinel (DMU) 238
+4 Shore Up (DMU) 64
+4 Smash to Dust (DMU) 144
+4 Snarespinner (DMU) 179
+4 Soaring Drake (DMU) 66
+4 Splatter Goblin (DMU) 109
+4 Stall for Time (DMU) 34
+4 Sunbathing Rootwalla (DMU) 181
+4 Sunlit Marsh (DMU) 257
+4 Take Up the Shield (DMU) 35
+4 Talas Lookout (DMU) 68
+4 Tangled Islet (DMU) 258
+4 Tattered Apparition (DMU) 111
+4 Thrill of Possibility (DMU) 148
+4 Tidepool Turtle (DMU) 69
+4 Timely Interference (DMU) 70
+4 Tolarian Geyser (DMU) 71
+4 Tolarian Terror (DMU) 72
+4 Toxic Abomination (DMU) 112
+4 Tribute to Urborg (DMU) 113
+4 Urborg Repossession (DMU) 114
+4 Vanquisher's Axe (DMU) 240
+4 Viashino Branchrider (DMU) 150
+4 Vineshaper Prodigy (DMU) 187
+4 Voda Sea Scavenger (DMU) 74
+4 Volshe Tideturner (DMU) 77
+4 Wooded Ridgeline (DMU) 260
+4 Writhing Necromass (DMU) 115
+4 Yavimaya Sojourner (DMU) 191
+
+
+### New Deck
+
+4 Yavimaya Steelcrusher (DMU) 152
+
+### The Last Deck has 4 cards in it.

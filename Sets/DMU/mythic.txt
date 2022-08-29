@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Ajani, Sleeper Agent (DMU) 192
+4 Jaya, Fiery Negotiator (DMU) 133
+4 Jodah, the Unifier (DMU) 203
+4 Karn's Sylex (DMU) 234
+4 Karn, Living Legacy (DMU) 1
+4 Liliana of the Veil (DMU) 97
+4 Rith, Liberated Primeval (DMU) 214
+4 Serra Paragon (DMU) 32
+4 Shanna, Purifying Blade (DMU) 218
+4 Sheoldred, the Apocalypse (DMU) 107
+4 Shivan Devastator (DMU) 143
+4 Silverback Elder (DMU) 177
+4 Sol'Kanar the Tainted (DMU) 219
+4 Soul of Windgrace (DMU) 220
+4 Sphinx of Clear Skies (DMU) 67
+4 The World Spell (DMU) 189
+4 Timeless Lotus (DMU) 239
+4 Vesuvan Duplimancy (DMU) 73
+4 Weatherlight Compleated (DMU) 242
+4 Zur, Eternal Schemer (DMU) 228
+
+### The Last Deck has 80 cards in it.

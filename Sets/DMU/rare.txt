@@ -1,0 +1,74 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Academy Loremaster (DMU) 40
+4 Adarkar Wastes (DMU) 243
+4 Aether Channeler (DMU) 42
+4 Anointed Peacekeeper (DMU) 2
+4 Archangel of Wrath (DMU) 3
+4 Astor, Bearer of Blades (DMU) 194
+4 Braids, Arisen Nightmare (DMU) 84
+4 Caves of Koilos (DMU) 244
+4 Chaotic Transformation (DMU) 117
+4 Danitha, Benalia's Hope (DMU) 15
+4 Defiler of Dreams (DMU) 46
+4 Defiler of Faith (DMU) 16
+4 Defiler of Flesh (DMU) 90
+4 Defiler of Instinct (DMU) 119
+4 Defiler of Vigor (DMU) 160
+4 Drag to the Bottom (DMU) 91
+4 Ertai Resurrected (DMU) 199
+4 Evolved Sleeper (DMU) 93
+4 Golden Argosy (DMU) 230
+4 Guardian of New Benalia (DMU) 19
+4 Haughty Djinn (DMU) 52
+4 Herd Migration (DMU) 165
+4 Ivy, Gleeful Spellthief (DMU) 201
+4 Jhoira, Ageless Innovator (DMU) 202
+4 Karplusan Forest (DMU) 250
+4 Keldon Flamesage (DMU) 135
+4 King Darien XLVIII (DMU) 204
+4 Leaf-Crowned Visionary (DMU) 167
+4 Leyline Binding (DMU) 24
+4 Llanowar Greenwidow (DMU) 169
+4 Llanowar Loamspeaker (DMU) 170
+4 Meria, Scholar of Antiquity (DMU) 206
+4 Nemata, Primeval Warden (DMU) 209
+4 Plaza of Heroes (DMU) 252
+4 Quirion Beastcaller (DMU) 175
+4 Radha's Firebrand (DMU) 141
+4 Ragefire Hellkite (DMU) 285
+4 Ratadrabik of Urborg (DMU) 213
+4 Rivaz of the Claw (DMU) 215
+4 Rundvelt Hordemaster (DMU) 142
+4 Serra Redeemer (DMU) 282
+4 Shadow-Rite Priest (DMU) 106
+4 Shivan Reef (DMU) 255
+4 Silver Scrutiny (DMU) 65
+4 Squee, Dubious Monarch (DMU) 146
+4 Stenn, Paranoid Partisan (DMU) 221
+4 Stronghold Arena (DMU) 110
+4 Sulfurous Springs (DMU) 256
+4 Temporal Firestorm (DMU) 147
+4 Temporary Lockdown (DMU) 36
+
+
+### New Deck
+
+4 The Cruelty of Gix (DMU) 87
+4 The Elder Dragon War (DMU) 121
+4 The Phasing of Zhalfir (DMU) 59
+4 The Raven Man (DMU) 103
+4 Thran Portal (DMU) 259
+4 Threats Undetected (DMU) 185
+4 Tyrannical Pitlord (DMU) 284
+4 Urborg Lhurgoyf (DMU) 186
+4 Urza Assembles the Titans (DMU) 37
+4 Valiant Veteran (DMU) 38
+4 Vodalian Hexcatcher (DMU) 75
+4 Vodalian Mindsinger (DMU) 76
+4 Yavimaya Coast (DMU) 261
+
+### The Last Deck has 52 cards in it.
