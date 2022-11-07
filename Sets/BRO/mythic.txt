@@ -1,0 +1,33 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Arcane Proxy (BRO) 75
+4 Awaken the Woods (BRO) 170
+4 Bladecoil Serpent (BRO) 229
+4 Cityscape Leveler (BRO) 233
+4 Clay Champion (BRO) 230
+4 Draconic Destiny (BRO) 130
+4 Gix, Yawgmoth Praetor (BRO) 95
+4 In the Trenches (BRO) 8
+4 Mishra, Claimed by Gix (BRO) 216
+4 Mishra, Lost to Phyrexia (BRO) 163
+4 Myrel, Shield of Argive (BRO) 18
+4 One with the Multiverse (BRO) 59
+4 Phyrexian Fleshgorger (BRO) 121
+4 Platoon Dispenser (BRO) 36
+4 Portal to Phyrexia (BRO) 240
+4 Rootwire Amalgam (BRO) 203
+4 Saheeli, Filigree Master (BRO) 219
+4 Sarinth Greatwurm (BRO) 220
+4 Skitterbeam Battalion (BRO) 165
+4 Surge Engine (BRO) 81
+4 Teferi, Temporal Pilgrim (BRO) 66
+4 Titania, Gaea Incarnate (BRO) 256
+4 Titania, Voice of Gaea (BRO) 193
+4 Urza's Sylex (BRO) 40
+4 Urza, Lord Protector (BRO) 225
+4 Urza, Planeswalker (BRO) 238
+
+### The Last Deck has 104 cards in it.

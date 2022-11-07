@@ -2,6 +2,7 @@ This list contains the Set Identifier and real name of each set, in case you won
 
 AFR - Adventures in the Forgotten Realms
 AKR - Amonkhet Remastered
+BRO - The Brothers' War
 DMU - Dominaria United
 DOM - Dominaria
 ELD - Throne of Eldraine

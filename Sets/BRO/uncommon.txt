@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Alloy Animist (BRO) 166
+4 Arbalest Engineers (BRO) 206
+4 Argivian Avenger (BRO) 232
+4 Arms Race (BRO) 126
+4 Ashnod's Harvester (BRO) 117
+4 Audacity (BRO) 169
+4 Battery Bearer (BRO) 207
+4 Battlefield Butcher (BRO) 86
+4 Blanchwood Armor (BRO) 171
+4 Bushwhack (BRO) 174
+4 Calamity's Wake (BRO) 4
+4 Combat Thresher (BRO) 35
+4 Corrupt (BRO) 88
+4 Cradle Clearcutter (BRO) 198
+4 Defabricate (BRO) 45
+4 Demolition Field (BRO) 260
+4 Disciples of Gix (BRO) 90
+4 Dreams of Steel and Oil (BRO) 92
+4 Evangel of Synthesis (BRO) 209
+4 Fallaji Dragon Engine (BRO) 159
+4 Fallaji Excavation (BRO) 178
+4 Fallaji Vanguard (BRO) 210
+4 Flow of Knowledge (BRO) 49
+4 Forging the Anchor (BRO) 50
+4 Gaea's Courser (BRO) 181
+4 Giant Cindermaw (BRO) 136
+4 Gnawing Vermin (BRO) 101
+4 Go for the Throat (BRO) 102
+4 Great Desert Prospector (BRO) 7
+4 Gruesome Realization (BRO) 103
+4 Gurgling Anointer (BRO) 104
+4 Haywire Mite (BRO) 199
+4 Heavyweight Demolisher (BRO) 160
+4 Hero of the Dunes (BRO) 213
+4 Horned Stoneseeker (BRO) 138
+4 Hulking Metamorph (BRO) 79
+4 Involuntary Cooldown (BRO) 53
+4 Iron-Craw Crusher (BRO) 200
+4 Junkyard Genius (BRO) 214
+4 Keeper of the Cadence (BRO) 54
+4 Lay Down Arms (BRO) 11
+4 Levitating Statue (BRO) 236
+4 Loran, Disciple of History (BRO) 13
+4 Mask of the Jadecrafter (BRO) 201
+4 Mass Production (BRO) 15
+4 Meticulous Excavation (BRO) 16
+4 Mishra's Research Desk (BRO) 162
+4 Mishra, Excavation Prodigy (BRO) 140
+4 Monastery Swiftspear (BRO) 144
+4 No One Left Behind (BRO) 109
+
+
+### New Deck
+
+4 Obliterating Bolt (BRO) 145
+4 Obstinate Baloth (BRO) 187
+4 Pyrrhic Blast (BRO) 148
+4 Reconstructed Thopter (BRO) 242
+4 Recruitment Officer (BRO) 23
+4 Repair and Recharge (BRO) 24
+4 Sardian Cliffstomper (BRO) 151
+4 Sarinth Steelseeker (BRO) 189
+4 Skyfisher Spider (BRO) 221
+4 Slagstone Refinery (BRO) 243
+4 Spectrum Sentinel (BRO) 244
+4 Splitting the Powerstone (BRO) 63
+4 Spotter Thopter (BRO) 80
+4 Static Net (BRO) 27
+4 Steel Exemplar (BRO) 246
+4 Su-Chi Cave Guard (BRO) 249
+4 Symmetry Matrix (BRO) 252
+4 Take Flight (BRO) 65
+4 The Fall of Kroog (BRO) 133
+4 Third Path Iconoclast (BRO) 223
+4 Thopter Architect (BRO) 29
+4 Thopter Mechanic (BRO) 68
+4 Thran Power Suit (BRO) 253
+4 Thran Vigil (BRO) 114
+4 Transmogrant Altar (BRO) 124
+4 Urza, Powerstone Prodigy (BRO) 69
+4 Yotian Dissident (BRO) 227
+4 Yotian Frontliner (BRO) 42
+4 Yotian Tactician (BRO) 228
+4 Zephyr Sentinel (BRO) 74
+
+### The Last Deck has 120 cards in it.

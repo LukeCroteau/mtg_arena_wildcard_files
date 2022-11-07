@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aeronaut Cavalry (BRO) 1
+4 Aeronaut's Wings (BRO) 231
+4 Air Marshal (BRO) 43
+4 Airlift Chaplain (BRO) 2
+4 Ambush Paratrooper (BRO) 3
+4 Argothian Opportunist (BRO) 167
+4 Argothian Sprite (BRO) 168
+4 Ashnod's Intervention (BRO) 85
+4 Bitter Reunion (BRO) 127
+4 Blanchwood Prowler (BRO) 172
+4 Blitz Automaton (BRO) 158
+4 Boulderbranch Golem (BRO) 197
+4 Burrowing Razormaw (BRO) 173
+4 Carrion Locust (BRO) 87
+4 Citanul Stalwart (BRO) 175
+4 Clay Revenant (BRO) 118
+4 Coastal Bulwark (BRO) 76
+4 Combat Courier (BRO) 77
+4 Conscripted Infantry (BRO) 129
+4 Curate (BRO) 44
+4 Deadly Riposte (BRO) 5
+4 Depth Charge Colossus (BRO) 78
+4 Desynchronize (BRO) 46
+4 Disenchant (BRO) 6
+4 Disfigure (BRO) 91
+4 Dredging Claw (BRO) 119
+4 Dwarven Forge-Chanter (BRO) 131
+4 Emergency Weld (BRO) 93
+4 Energy Refractor (BRO) 234
+4 Epic Confrontation (BRO) 176
+4 Evolving Wilds (BRO) 261
+4 Excavation Explosion (BRO) 132
+4 Fallaji Archaeologist (BRO) 48
+4 Fallaji Chaindancer (BRO) 134
+4 Fog of War (BRO) 180
+4 Gaea's Gift (BRO) 182
+4 Giant Growth (BRO) 183
+4 Gix's Caress (BRO) 96
+4 Gixian Infiltrator (BRO) 98
+4 Gixian Skullflayer (BRO) 100
+4 Gnarlroot Pallbearer (BRO) 184
+4 Goblin Blast-Runner (BRO) 137
+4 Goblin Firebomb (BRO) 235
+4 Goring Warplow (BRO) 120
+4 Hoarding Recluse (BRO) 186
+4 Kill-Zone Acrobat (BRO) 106
+4 Koilos Roc (BRO) 55
+4 Lat-Nam Adept (BRO) 56
+4 Loran's Escape (BRO) 14
+4 Machine Over Matter (BRO) 57
+
+
+### New Deck
+
+4 Mightstone's Animation (BRO) 58
+4 Military Discipline (BRO) 17
+4 Mine Worker (BRO) 239
+4 Mishra's Domination (BRO) 142
+4 Mishra's Juggernaut (BRO) 161
+4 Mishra's Onslaught (BRO) 143
+4 Moment of Defiance (BRO) 108
+4 Overwhelming Remorse (BRO) 110
+4 Penregon Strongbull (BRO) 147
+4 Perimeter Patrol (BRO) 188
+4 Phalanx Vanguard (BRO) 19
+4 Power Plant Worker (BRO) 241
+4 Powerstone Engineer (BRO) 20
+4 Powerstone Fracture (BRO) 112
+4 Prison Sentence (BRO) 21
+4 Ravenous Gigamole (BRO) 113
+4 Raze to the Ground (BRO) 149
+4 Recommission (BRO) 22
+4 Retrieval Agent (BRO) 60
+4 Roc Hunter (BRO) 150
+4 Rust Goliath (BRO) 204
+4 Scatter Ray (BRO) 61
+4 Scrapwork Cohort (BRO) 37
+4 Scrapwork Mutt (BRO) 164
+4 Scrapwork Rager (BRO) 123
+4 Shoot Down (BRO) 190
+4 Sibling Rivalry (BRO) 152
+4 Stern Lesson (BRO) 64
+4 Stone Retrieval Unit (BRO) 248
+4 Supply Drop (BRO) 250
+4 Survivor of Korlis (BRO) 28
+4 Swiftgear Drake (BRO) 251
+4 Tawnos's Tinkering (BRO) 191
+4 Third Path Savant (BRO) 67
+4 Thraxodemon (BRO) 115
+4 Tocasia's Dig Site (BRO) 266
+4 Tocasia's Onulet (BRO) 39
+4 Tomakul Honor Guard (BRO) 195
+4 Tomakul Scrapsmith (BRO) 153
+4 Tower Worker (BRO) 255
+4 Trench Stalker (BRO) 116
+4 Union of the Third Path (BRO) 31
+4 Unleash Shell (BRO) 155
+4 Urza's Rebuff (BRO) 71
+4 Veteran's Powerblade (BRO) 41
+4 Warlord's Elite (BRO) 32
+4 Wasteful Harvest (BRO) 196
+4 Weakstone's Subjugation (BRO) 72
+4 Whirling Strike (BRO) 157
+4 Wing Commando (BRO) 73
+
+
+### New Deck
+
+4 Yotian Medic (BRO) 33
+
+### The Last Deck has 4 cards in it.

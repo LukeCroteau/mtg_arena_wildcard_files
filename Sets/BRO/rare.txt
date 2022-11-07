@@ -1,0 +1,77 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Argoth, Sanctum of Nature (BRO) 256
+4 Ashnod, Flesh Mechanist (BRO) 84
+4 Autonomous Assembler (BRO) 34
+4 Battlefield Forge (BRO) 257
+4 Blast Zone (BRO) 258
+4 Brotherhood's End (BRO) 128
+4 Brushland (BRO) 259
+4 Deathbloom Ritualist (BRO) 208
+4 Diabolic Intent (BRO) 89
+4 Drafna, Founder of Lat-Nam (BRO) 47
+4 Fade from History (BRO) 177
+4 Fateful Handoff (BRO) 94
+4 Fauna Shaman (BRO) 179
+4 Feldon, Ronom Excavator (BRO) 135
+4 Fortified Beachhead (BRO) 262
+4 Gix's Command (BRO) 97
+4 Gixian Puppeteer (BRO) 99
+4 Gwenna, Eyes of Gaea (BRO) 185
+4 Hajar, Loyal Bodyguard (BRO) 211
+4 Hall of Tagsin (BRO) 263
+4 Harbin, Vanguard Aviator (BRO) 212
+4 Hostile Negotiations (BRO) 105
+4 Hurkyl's Final Meditation (BRO) 52
+4 Hurkyl, Master Wizard (BRO) 51
+4 Kayla's Command (BRO) 9
+4 Kayla's Reconstruction (BRO) 10
+4 Legions to Ashes (BRO) 215
+4 Liberator, Urza's Battlethopter (BRO) 237
+4 Llanowar Wastes (BRO) 264
+4 Loran of the Third Path (BRO) 12
+4 Mechanized Warfare (BRO) 139
+4 Misery's Shadow (BRO) 107
+4 Mishra's Command (BRO) 141
+4 Mishra's Foundry (BRO) 265
+4 Mishra, Tamer of Mak Fawa (BRO) 217
+4 Over the Top (BRO) 146
+4 Painful Quandary (BRO) 111
+4 Perennial Behemoth (BRO) 202
+4 Phyrexian Dragon Engine (BRO) 163
+4 Queen Kayla bin-Kroog (BRO) 218
+4 Razorlash Transmogrant (BRO) 122
+4 Rescue Retriever (BRO) 288
+4 Siege Veteran (BRO) 25
+4 Simian Simulacrum (BRO) 205
+4 Skystrike Officer (BRO) 62
+4 Soul Partition (BRO) 26
+4 Steel Seraph (BRO) 38
+4 Tawnos, the Toymaker (BRO) 222
+4 Teething Wurmlet (BRO) 192
+4 Terisian Mindbreaker (BRO) 83
+
+
+### New Deck
+
+4 Terror Ballista (BRO) 290
+4 The Mightstone and Weakstone (BRO) 238
+4 The Stasis Coffin (BRO) 245
+4 The Stone Brain (BRO) 247
+4 The Temporal Anchor (BRO) 82
+4 Thran Spider (BRO) 254
+4 Titania's Command (BRO) 194
+4 Tocasia's Welcome (BRO) 30
+4 Tocasia, Dig Site Mentor (BRO) 224
+4 Transmogrant's Crown (BRO) 125
+4 Tyrant of Kher Ridges (BRO) 154
+4 Underground River (BRO) 267
+4 Urza's Command (BRO) 70
+4 Urza, Prince of Kroog (BRO) 226
+4 Visions of Phyrexia (BRO) 156
+4 Woodcaller Automaton (BRO) 292
+
+### The Last Deck has 64 cards in it.
