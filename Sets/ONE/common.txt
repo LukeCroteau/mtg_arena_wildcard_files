@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Adaptive Sporesinger (ONE) 157
+4 Annihilating Glare (ONE) 80
+4 Anoint with Affliction (ONE) 81
+4 Aspirant's Ascent (ONE) 40
+4 Axiom Engraver (ONE) 120
+4 Barbed Batterfist (ONE) 121
+4 Basilica Shepherd (ONE) 4
+4 Basilica Skullbomb (ONE) 224
+4 Bladegraft Aspirant (ONE) 122
+4 Blazing Crescendo (ONE) 123
+4 Blightbelly Rat (ONE) 85
+4 Bonepicker Skirge (ONE) 86
+4 Branchblight Stalker (ONE) 160
+4 Bring the Ending (ONE) 44
+4 Carnivorous Canopy (ONE) 162
+4 Charge of the Mites (ONE) 6
+4 Chimney Rabble (ONE) 126
+4 Chrome Prowler (ONE) 45
+4 Compleat Devotion (ONE) 7
+4 Contagious Vorrac (ONE) 164
+4 Copper Longlegs (ONE) 165
+4 Crawling Chorus (ONE) 8
+4 Cruel Grimnarch (ONE) 88
+4 Cutthroat Centurion (ONE) 89
+4 Dross Skullbomb (ONE) 225
+4 Duelist of Deep Faith (ONE) 9
+4 Dune Mover (ONE) 226
+4 Duress (ONE) 92
+4 Escaped Experiment (ONE) 48
+4 Experimental Augury (ONE) 49
+4 Eye of Malcator (ONE) 50
+4 Flensing Raptor (ONE) 12
+4 Fleshless Gladiator (ONE) 94
+4 Forgehammer Centurion (ONE) 130
+4 Free from Flesh (ONE) 131
+4 Furnace Skullbomb (ONE) 228
+4 Furnace Strider (ONE) 133
+4 Gitaxian Anatomist (ONE) 52
+4 Gitaxian Raptor (ONE) 53
+4 Glistener Seer (ONE) 54
+4 Goldwarden's Helm (ONE) 13
+4 Gulping Scraptrap (ONE) 96
+4 Hazardous Blast (ONE) 135
+4 Hexgold Slash (ONE) 137
+4 Ichor Synthesizer (ONE) 55
+4 Ichorspit Basilisk (ONE) 170
+4 Incisor Glider (ONE) 15
+4 Indoctrination Attendant (ONE) 16
+4 Infectious Inquiry (ONE) 97
+4 Kuldotha Cackler (ONE) 139
+
+
+### New Deck
+
+4 Lattice-Blade Mantis (ONE) 173
+4 Leonin Lightbringer (ONE) 20
+4 Malcator's Watcher (ONE) 58
+4 Mandible Justiciar (ONE) 21
+4 Maze Skullbomb (ONE) 231
+4 Maze's Mantle (ONE) 174
+4 Meldweb Curator (ONE) 59
+4 Meldweb Strider (ONE) 60
+4 Mesmerizing Dose (ONE) 62
+4 Mirran Bardiche (ONE) 22
+4 Molten Rebuke (ONE) 141
+4 Myr Custodian (ONE) 235
+4 Myr Kinsmith (ONE) 236
+4 Offer Immortality (ONE) 102
+4 Oil-Gorger Troll (ONE) 177
+4 Orthodoxy Enforcer (ONE) 25
+4 Pestilent Syphoner (ONE) 103
+4 Phyrexian Atlas (ONE) 237
+4 Plague Nurse (ONE) 179
+4 Planar Disruption (ONE) 28
+4 Predation Steward (ONE) 180
+4 Prologue to Phyresis (ONE) 65
+4 Prophetic Prism (ONE) 238
+4 Quicksilver Fisher (ONE) 66
+4 Rustvine Cultivator (ONE) 181
+4 Ruthless Predation (ONE) 182
+4 Sawblade Scamp (ONE) 147
+4 Sheoldred's Headcleaver (ONE) 109
+4 Shrapnel Slinger (ONE) 148
+4 Sinew Dancer (ONE) 32
+4 Skyscythe Engulfer (ONE) 183
+4 Stinging Hivemaster (ONE) 110
+4 Surgical Skullbomb (ONE) 243
+4 Terramorphic Expanse (ONE) 261
+4 Testament Bearer (ONE) 111
+4 The Autonomous Furnace (ONE) 247
+4 The Dross Pits (ONE) 251
+4 The Fair Basilica (ONE) 252
+4 The Hunter Maze (ONE) 253
+4 The Surgical Bay (ONE) 260
+4 Thirsting Roots (ONE) 185
+4 Thrill of Possibility (ONE) 151
+4 Titanic Growth (ONE) 187
+4 Tyrranax Atrocity (ONE) 188
+4 Vanish into Eternity (ONE) 36
+4 Vivisurgeon's Insight (ONE) 77
+4 Volt Charge (ONE) 155
+4 Vraska's Fall (ONE) 116
+4 Vulshok Splitter (ONE) 156
+4 Whisper of the Dross (ONE) 117
+
+
+### New Deck
+
+4 Zealot's Conviction (ONE) 39
+
+### The Last Deck has 4 cards in it.

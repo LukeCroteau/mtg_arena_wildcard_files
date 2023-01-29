@@ -17,6 +17,7 @@ M20 - Core Set 2020
 M21 - Core Set 2021
 MID - Innistrad: Midnight Hunt
 NEO - Kamigawa: Neon Dynasty
+ONE - Phyrexia: All Will Be One
 RIX - Rivals of Ixalan
 RNA - Ravnica Allegiance
 SNC - Streets of New Capenna

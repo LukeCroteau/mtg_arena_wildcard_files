@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 All Will Be One (ONE) 118
+4 Atraxa, Grand Unifier (ONE) 196
+4 Capricious Hellraiser (ONE) 125
+4 Drivnod, Carnage Dominus (ONE) 90
+4 Elesh Norn, Mother of Machines (ONE) 10
+4 Ichormoon Gauntlet (ONE) 56
+4 Jace, the Perfected Mind (ONE) 57
+4 Lukka, Bound to Ruin (ONE) 207
+4 Mondrak, Glory Dominus (ONE) 23
+4 Nahiri, the Unforgiving (ONE) 211
+4 Nissa, Ascended Animist (ONE) 175
+4 Phyrexian Obliterator (ONE) 105
+4 Phyrexian Vindicator (ONE) 27
+4 Solphim, Mayhem Dominus (ONE) 150
+4 Staff of Compleation (ONE) 242
+4 Sword of Forge and Frontier (ONE) 244
+4 Tekuthal, Inquiry Dominus (ONE) 71
+4 Tyrranax Rex (ONE) 189
+4 Vraska, Betrayal's Sting (ONE) 115
+4 Zopandrel, Hunger Dominus (ONE) 195
+
+### The Last Deck has 80 cards in it.

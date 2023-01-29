@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Archfiend of the Dross (ONE) 82
+4 Argentum Masticore (ONE) 222
+4 Black Sun's Twilight (ONE) 84
+4 Blackcleave Cliffs (ONE) 248
+4 Blade of Shared Souls (ONE) 42
+4 Bloated Contaminator (ONE) 159
+4 Blue Sun's Twilight (ONE) 43
+4 Conduit of Worlds (ONE) 163
+4 Copperline Gorge (ONE) 249
+4 Darkslick Shores (ONE) 250
+4 Dragonwing Glider (ONE) 128
+4 Encroaching Mycosynth (ONE) 47
+4 Evolved Spinoderm (ONE) 166
+4 Ezuri, Stalker of Spheres (ONE) 201
+4 Geth, Thane of Contracts (ONE) 95
+4 Glissa Sunslayer (ONE) 202
+4 Graaz, Unstoppable Juggernaut (ONE) 229
+4 Green Sun's Twilight (ONE) 169
+4 Jor Kadeen, First Goldwarden (ONE) 203
+4 Kaito, Dancing Shadow (ONE) 204
+4 Karumonix, the Rat King (ONE) 98
+4 Kaya, Intangible Slayer (ONE) 205
+4 Kemba, Kha Enduring (ONE) 19
+4 Kethek, Crucible Goliath (ONE) 206
+4 Kinzu of the Bleak Coven (ONE) 406
+4 Koth, Fire of Resistance (ONE) 138
+4 Malcator, Purity Overseer (ONE) 208
+4 Melira, the Living Cure (ONE) 209
+4 Mercurial Spelldancer (ONE) 61
+4 Migloz, Maze Crusher (ONE) 210
+4 Mindsplice Apparatus (ONE) 63
+4 Mirran Safehouse (ONE) 232
+4 Mirrex (ONE) 254
+4 Mite Overseer (ONE) 404
+4 Monument to Perfection (ONE) 233
+4 Norn's Wellspring (ONE) 24
+4 Ovika, Enigma Goliath (ONE) 213
+4 Phyrexian Arena (ONE) 104
+4 Razorverge Thicket (ONE) 257
+4 Red Sun's Twilight (ONE) 145
+4 Rhuk, Hexgold Nabber (ONE) 407
+4 Ria Ivor, Bane of Bladehold (ONE) 214
+4 Seachrome Coast (ONE) 258
+4 Serum Sovereign (ONE) 405
+4 Skrelv's Hive (ONE) 34
+4 Skrelv, Defector Mite (ONE) 33
+4 Slobad, Iron Goblin (ONE) 149
+4 Soulless Jailer (ONE) 241
+4 Tablet of Compleation (ONE) 245
+4 The Eternal Wanderer (ONE) 11
+
+
+### New Deck
+
+4 The Filigree Sylex (ONE) 227
+4 The Monumental Facade (ONE) 255
+4 The Mycosynth Gardens (ONE) 256
+4 The Seedcore (ONE) 259
+4 Thrun, Breaker of Silence (ONE) 186
+4 Tyvar, Jubilant Brawler (ONE) 218
+4 Unctus, Grand Metatect (ONE) 75
+4 Urabrask's Forge (ONE) 153
+4 Venerated Rotpriest (ONE) 192
+4 Venser, Corpse Puppet (ONE) 219
+4 Vindictive Flamestoker (ONE) 154
+4 Vraan, Executioner Thane (ONE) 114
+4 White Sun's Twilight (ONE) 38
+4 Zenith Chronicler (ONE) 246
+
+### The Last Deck has 56 cards in it.

@@ -1,0 +1,91 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Against All Odds (ONE) 1
+4 Ambulatory Edifice (ONE) 79
+4 Annex Sentry (ONE) 2
+4 Apostle of Invasion (ONE) 3
+4 Armored Scrapgorger (ONE) 158
+4 Atmosphere Surgeon (ONE) 41
+4 Atraxa's Skitterfang (ONE) 223
+4 Awaken the Sleeper (ONE) 119
+4 Bilious Skulldweller (ONE) 83
+4 Bladed Ambassador (ONE) 5
+4 Bladehold War-Whip (ONE) 197
+4 Cacophony Scamp (ONE) 124
+4 Cankerbloom (ONE) 161
+4 Cephalopod Sentry (ONE) 198
+4 Charforger (ONE) 199
+4 Chittering Skitterling (ONE) 87
+4 Churning Reservoir (ONE) 127
+4 Cinderslash Ravager (ONE) 200
+4 Distorted Curiosity (ONE) 46
+4 Drown in Ichor (ONE) 91
+4 Evolving Adaptive (ONE) 167
+4 Expand the Sphere (ONE) 168
+4 Exuberant Fuseling (ONE) 129
+4 Feed the Infection (ONE) 93
+4 Font of Progress (ONE) 51
+4 Furnace Punisher (ONE) 132
+4 Gleeful Demolition (ONE) 134
+4 Hexgold Halberd (ONE) 136
+4 Hexgold Hoverwings (ONE) 14
+4 Ichorplate Golem (ONE) 230
+4 Incubation Sac (ONE) 171
+4 Infectious Bite (ONE) 172
+4 Infested Fleshcutter (ONE) 17
+4 Jawbone Duelist (ONE) 18
+4 Magmatic Sprinter (ONE) 140
+4 Minor Misstep (ONE) 64
+4 Myr Convert (ONE) 234
+4 Nahiri's Sacrifice (ONE) 142
+4 Necrogen Communion (ONE) 99
+4 Necrogen Rotpriest (ONE) 212
+4 Necrosquito (ONE) 100
+4 Nimraiser Paladin (ONE) 101
+4 Noxious Assault (ONE) 176
+4 Ossification (ONE) 26
+4 Oxidda Finisher (ONE) 143
+4 Paladin of Predation (ONE) 178
+4 Plated Onslaught (ONE) 29
+4 Porcelain Zealot (ONE) 30
+4 Prosthetic Injector (ONE) 239
+4 Ravenous Necrotitan (ONE) 106
+
+
+### New Deck
+
+4 Rebel Salvo (ONE) 144
+4 Reject Imperfection (ONE) 67
+4 Resistance Reunited (ONE) 31
+4 Resistance Skywarden (ONE) 146
+4 Ribskiff (ONE) 240
+4 Scheming Aspirant (ONE) 107
+4 Serum Snare (ONE) 68
+4 Serum-Core Chimera (ONE) 215
+4 Sheoldred's Edict (ONE) 108
+4 Slaughter Singer (ONE) 216
+4 Swooping Lookout (ONE) 35
+4 Sylvok Battle-Chair (ONE) 184
+4 Tainted Observer (ONE) 217
+4 Tamiyo's Immobilizer (ONE) 69
+4 Tamiyo's Logbook (ONE) 70
+4 Thrummingbird (ONE) 72
+4 Transplant Theorist (ONE) 73
+4 Trawler Drake (ONE) 74
+4 Tyvar's Stand (ONE) 190
+4 Unctus's Retrofitter (ONE) 76
+4 Unnatural Restoration (ONE) 191
+4 Urabrask's Anointer (ONE) 152
+4 Vat Emergence (ONE) 112
+4 Vat of Rebirth (ONE) 113
+4 Veil of Assimilation (ONE) 37
+4 Venomous Brutalizer (ONE) 193
+4 Viral Spawning (ONE) 194
+4 Vivisection Evangelist (ONE) 220
+4 Voidwing Hybrid (ONE) 221
+4 Watchful Blisterzoa (ONE) 78
+
+### The Last Deck has 120 cards in it.
