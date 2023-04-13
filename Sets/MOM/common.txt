@@ -1,0 +1,133 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aerial Boost (MOM) 2
+4 Aetherblade Agent // Gitaxian Mindstinger (MOM) 88
+4 Akki Scrapchomper (MOM) 130
+4 Alabaster Host Intercessor (MOM) 3
+4 Alabaster Host Sanctifier (MOM) 4
+4 Angelic Intervention (MOM) 5
+4 Arachnoid Adaptation (MOM) 175
+4 Assimilate Essence (MOM) 47
+4 Atraxa's Fall (MOM) 176
+4 Attentive Skywarden (MOM) 7
+4 Beamtown Beatstick (MOM) 131
+4 Bladed Battle-Fan (MOM) 91
+4 Blighted Burgeoning (MOM) 177
+4 Bloodfell Caves (MOM) 267
+4 Blossoming Sands (MOM) 268
+4 Bola Slinger (MOM) 8
+4 Bonded Herdbeast // Plated Kilnbeast (MOM) 178
+4 Burning Sun's Fury (MOM) 133
+4 Chomping Kavu (MOM) 179
+4 Coming In Hot (MOM) 136
+4 Consuming Aetherborn (MOM) 97
+4 Converter Beast (MOM) 180
+4 Corrupted Conviction (MOM) 98
+4 Cosmic Hunger (MOM) 182
+4 Crystal Carapace (MOM) 183
+4 Cut Short (MOM) 10
+4 Deadly Derision (MOM) 99
+4 Dismal Backwater (MOM) 269
+4 Disturbing Conversion (MOM) 54
+4 Dreg Recycler (MOM) 100
+4 Enduring Bondwarden (MOM) 14
+4 Ephara's Dispersal (MOM) 55
+4 Etched Familiar (MOM) 101
+4 Etched Host Doombringer (MOM) 102
+4 Expedition Lookout (MOM) 56
+4 Eyes of Gitaxias (MOM) 57
+4 Failed Conversion (MOM) 103
+4 Fertilid's Favor (MOM) 186
+4 Final Flourish (MOM) 104
+4 Flitting Guerrilla (MOM) 105
+4 Flywheel Racer (MOM) 259
+4 Furnace Host Charger (MOM) 140
+4 Furtive Analyst (MOM) 59
+4 Gloomfang Mauler (MOM) 108
+4 Golden-Scale Aeronaut (MOM) 15
+4 Halo Hopper (MOM) 260
+4 Halo-Charged Skaab (MOM) 60
+4 Hangar Scrounger (MOM) 142
+4 Ichor Drinker (MOM) 111
+4 Ichor Shade (MOM) 112
+
+
+### New Deck
+
+4 Infected Defector (MOM) 18
+4 Inspired Charge (MOM) 19
+4 Iridescent Blademaster (MOM) 195
+4 Jungle Hollow (MOM) 270
+4 Karsus Depthguard (MOM) 150
+4 Kitesail (MOM) 261
+4 Kithkin Billyrider (MOM) 24
+4 Knight of the New Coalition (MOM) 25
+4 Kor Halberd (MOM) 27
+4 Marauding Dreadship (MOM) 153
+4 Meeting of Minds (MOM) 66
+4 Mirran Banesplitter (MOM) 154
+4 Mirrodin Avenged (MOM) 118
+4 Moment of Truth (MOM) 67
+4 Negate (MOM) 68
+4 Nezumi Informant (MOM) 120
+4 Oculus Whelp (MOM) 69
+4 Onakke Javelineer (MOM) 156
+4 Order of the Mirror // Order of the Alabaster Host (MOM) 72
+4 Overgrown Pest (MOM) 197
+4 Phyrexian Archivist (MOM) 262
+4 Phyrexian Pegasus (MOM) 324
+4 Placid Rottentail (MOM) 199
+4 Portent Tracker (MOM) 201
+4 Preening Champion (MOM) 73
+4 Protocol Knight (MOM) 74
+4 Pyretic Prankster // Glistening Goremonger (MOM) 157
+4 Ral's Reinforcements (MOM) 158
+4 Realmbreaker's Grasp (MOM) 33
+4 Redcap Heelslasher (MOM) 161
+4 Rugged Highlands (MOM) 271
+4 Saiba Cryptomancer (MOM) 76
+4 Scoured Barrens (MOM) 272
+4 Scrollshift (MOM) 34
+4 Searing Barb (MOM) 163
+4 Seed of Hope (MOM) 204
+4 Serpent-Blade Assailant (MOM) 205
+4 Shatter the Source (MOM) 164
+4 Sigiled Sentinel (MOM) 37
+4 Skittering Surveyor (MOM) 264
+4 Stasis Field (MOM) 79
+4 Sunder the Gateway (MOM) 39
+4 Swiftwater Cliffs (MOM) 273
+4 Swordsworn Cavalier (MOM) 42
+4 Tarkir Duneshaper // Burnished Dunestomper (MOM) 43
+4 Temporal Cleansing (MOM) 80
+4 Tenured Oilcaster (MOM) 126
+4 Thornwood Falls (MOM) 274
+4 Thrashing Frontliner (MOM) 167
+4 Thunderhead Squadron (MOM) 81
+
+
+### New Deck
+
+4 Tidal Terror (MOM) 82
+4 Timberland Ancient (MOM) 210
+4 Trailblazing Historian (MOM) 168
+4 Tranquil Cove (MOM) 275
+4 Traumatic Revelation (MOM) 127
+4 Unseal the Necropolis (MOM) 128
+4 Urn of Godfire (MOM) 266
+4 Vanquish the Weak (MOM) 129
+4 Vengeant Earth (MOM) 212
+4 Volcanic Spite (MOM) 170
+4 War Historian (MOM) 214
+4 War-Trained Slasher (MOM) 172
+4 Wary Thespian (MOM) 215
+4 Wildwood Escort (MOM) 216
+4 Wind-Scarred Crag (MOM) 276
+4 Wrenn's Resolve (MOM) 173
+4 Zephyr Winder (MOM) 328
+4 Zhalfirin Shapecraft (MOM) 87
+
+### The Last Deck has 72 cards in it.
