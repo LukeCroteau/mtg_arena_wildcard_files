@@ -16,9 +16,10 @@ def outputItems(cardList: list, setId: str, rarity: str):
     outfile.write('Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)\n\n\n')
 
     for card in cardList:
-        if (card['name'] not in cardnames) and ('Basic Land' not in card['type']):
-            cardnames.add(card['name'])
-            outfile.write('4 {} ({}) {}\n'.format(card['name'], upSetId, "".join(_ for _ in card['number'] if _ in ".1234567890")))
+        xname = card['name'].split(' // ')[0]
+        if (xname not in cardnames) and ('Basic Land' not in card['type']):
+            cardnames.add(xname)
+            outfile.write('4 {} ({}) {}\n'.format(xname, upSetId, "".join(_ for _ in card['number'] if _ in ".1234567890")))
 
             curcount += 1
 

@@ -6,20 +6,20 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Archangel Elspeth (MOM) 6
 4 Borborygmos and Fblthp (MOM) 219
 4 Chandra, Hope's Beacon (MOM) 134
-4 Elesh Norn // The Argent Etchings (MOM) 12
-4 Invasion of Innistrad // Deluge of the Dead (MOM) 115
-4 Invasion of New Phyrexia // Teferi Akosa of Zhalfir (MOM) 239
-4 Invasion of Ravnica // Guildpact Paragon (MOM) 1
-4 Invasion of Shandalar // Leyline Surge (MOM) 193
-4 Invasion of Tarkir // Defiant Thundermaw (MOM) 149
-4 Jin-Gitaxias // The Great Synthesis (MOM) 65
+4 Elesh Norn (MOM) 12
+4 Invasion of Innistrad (MOM) 115
+4 Invasion of New Phyrexia (MOM) 239
+4 Invasion of Ravnica (MOM) 1
+4 Invasion of Shandalar (MOM) 193
+4 Invasion of Tarkir (MOM) 149
+4 Jin-Gitaxias (MOM) 65
 4 Kroxa and Kunoros (MOM) 245
 4 Monastery Mentor (MOM) 28
-4 Sheoldred // The True Scriptures (MOM) 125
+4 Sheoldred (MOM) 125
 4 Sword of Once and Future (MOM) 265
 4 Thalia and The Gitrog Monster (MOM) 255
-4 Urabrask // The Great Work (MOM) 169
-4 Vorinclex // The Grand Evolution (MOM) 213
+4 Urabrask (MOM) 169
+4 Vorinclex (MOM) 213
 4 Wrenn and Realmbreaker (MOM) 217
 4 Zimone and Dina (MOM) 257
 4 Zurgo and Ojutai (MOM) 258

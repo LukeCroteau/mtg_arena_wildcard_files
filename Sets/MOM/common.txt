@@ -4,7 +4,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 
 
 4 Aerial Boost (MOM) 2
-4 Aetherblade Agent // Gitaxian Mindstinger (MOM) 88
+4 Aetherblade Agent (MOM) 88
 4 Akki Scrapchomper (MOM) 130
 4 Alabaster Host Intercessor (MOM) 3
 4 Alabaster Host Sanctifier (MOM) 4
@@ -19,7 +19,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Bloodfell Caves (MOM) 267
 4 Blossoming Sands (MOM) 268
 4 Bola Slinger (MOM) 8
-4 Bonded Herdbeast // Plated Kilnbeast (MOM) 178
+4 Bonded Herdbeast (MOM) 178
 4 Burning Sun's Fury (MOM) 133
 4 Chomping Kavu (MOM) 179
 4 Coming In Hot (MOM) 136
@@ -75,7 +75,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Nezumi Informant (MOM) 120
 4 Oculus Whelp (MOM) 69
 4 Onakke Javelineer (MOM) 156
-4 Order of the Mirror // Order of the Alabaster Host (MOM) 72
+4 Order of the Mirror (MOM) 72
 4 Overgrown Pest (MOM) 197
 4 Phyrexian Archivist (MOM) 262
 4 Phyrexian Pegasus (MOM) 324
@@ -83,7 +83,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Portent Tracker (MOM) 201
 4 Preening Champion (MOM) 73
 4 Protocol Knight (MOM) 74
-4 Pyretic Prankster // Glistening Goremonger (MOM) 157
+4 Pyretic Prankster (MOM) 157
 4 Ral's Reinforcements (MOM) 158
 4 Realmbreaker's Grasp (MOM) 33
 4 Redcap Heelslasher (MOM) 161
@@ -101,7 +101,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Sunder the Gateway (MOM) 39
 4 Swiftwater Cliffs (MOM) 273
 4 Swordsworn Cavalier (MOM) 42
-4 Tarkir Duneshaper // Burnished Dunestomper (MOM) 43
+4 Tarkir Duneshaper (MOM) 43
 4 Temporal Cleansing (MOM) 80
 4 Tenured Oilcaster (MOM) 126
 4 Thornwood Falls (MOM) 274

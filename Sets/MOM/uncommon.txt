@@ -5,9 +5,9 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 
 4 Artistic Refusal (MOM) 46
 4 Astral Wingspan (MOM) 48
-4 Blightreaper Thallid // Blightsower Thallid (MOM) 92
+4 Blightreaper Thallid (MOM) 92
 4 Botanical Brawler (MOM) 220
-4 Captive Weird // Compleated Conjurer (MOM) 49
+4 Captive Weird (MOM) 49
 4 Change the Equation (MOM) 50
 4 Collective Nightmare (MOM) 95
 4 Compleated Huntmaster (MOM) 96
@@ -20,39 +20,39 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Furnace Reins (MOM) 141
 4 Gift of Compleation (MOM) 106
 4 Glistening Deluge (MOM) 107
-4 Gnottvold Hermit // Chrome Host Hulk (MOM) 188
+4 Gnottvold Hermit (MOM) 188
 4 Halo Forager (MOM) 227
-4 Harried Artisan // Phyrexian Skyflayer (MOM) 143
-4 Herbology Instructor // Malady Invoker (MOM) 189
-4 Invasion of Amonkhet // Lazotep Convert (MOM) 231
-4 Invasion of Azgol // Ashen Reaper (MOM) 232
-4 Invasion of Belenon // Belenon War Anthem (MOM) 20
-4 Invasion of Dominaria // Serra Faithkeeper (MOM) 21
-4 Invasion of Eldraine // Prickle Faeries (MOM) 113
-4 Invasion of Ergamon // Truga Cliffcharger (MOM) 233
-4 Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship (MOM) 234
-4 Invasion of Kamigawa // Rooftop Saboteurs (MOM) 62
-4 Invasion of Kylem // Valor's Reach Tag Team (MOM) 235
-4 Invasion of Lorwyn // Winnowing Forces (MOM) 236
-4 Invasion of Mercadia // Kyren Flamewright (MOM) 147
-4 Invasion of Moag // Bloomwielder Dryads (MOM) 237
-4 Invasion of Muraganda // Primordial Plasm (MOM) 192
-4 Invasion of New Capenna // Holy Frazzle-Cannon (MOM) 238
-4 Invasion of Pyrulea // Gargantuan Slabhorn (MOM) 240
-4 Invasion of Regatha // Disciples of the Inferno (MOM) 148
-4 Invasion of Ulgrotha // Grandmother Ravi Sengir (MOM) 116
-4 Invasion of Vryn // Overloaded Mage-Ring (MOM) 64
-4 Invasion of Xerex // Vertex Paladin (MOM) 242
-4 Invasion of Zendikar // Awakened Skyclave (MOM) 194
+4 Harried Artisan (MOM) 143
+4 Herbology Instructor (MOM) 189
+4 Invasion of Amonkhet (MOM) 231
+4 Invasion of Azgol (MOM) 232
+4 Invasion of Belenon (MOM) 20
+4 Invasion of Dominaria (MOM) 21
+4 Invasion of Eldraine (MOM) 113
+4 Invasion of Ergamon (MOM) 233
+4 Invasion of Kaladesh (MOM) 234
+4 Invasion of Kamigawa (MOM) 62
+4 Invasion of Kylem (MOM) 235
+4 Invasion of Lorwyn (MOM) 236
+4 Invasion of Mercadia (MOM) 147
+4 Invasion of Moag (MOM) 237
+4 Invasion of Muraganda (MOM) 192
+4 Invasion of New Capenna (MOM) 238
+4 Invasion of Pyrulea (MOM) 240
+4 Invasion of Regatha (MOM) 148
+4 Invasion of Ulgrotha (MOM) 116
+4 Invasion of Vryn (MOM) 64
+4 Invasion of Xerex (MOM) 242
+4 Invasion of Zendikar (MOM) 194
 4 Joyful Stormsculptor (MOM) 243
 4 Kami of Whispered Hopes (MOM) 196
-4 Khenra Spellspear // Gitaxian Spellstalker (MOM) 151
+4 Khenra Spellspear (MOM) 151
 4 Lithomantic Barrage (MOM) 152
 4 Marshal of Zhalfir (MOM) 246
 4 Merciless Repurposing (MOM) 117
 4 Mirror-Shield Hoplite (MOM) 247
 4 Mutagen Connoisseur (MOM) 248
-4 Nezumi Freewheeler // Hideous Fleshwheeler (MOM) 119
+4 Nezumi Freewheeler (MOM) 119
 
 
 ### New Deck
@@ -76,14 +76,14 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Seal from Existence (MOM) 35
 4 Seedpod Caretaker (MOM) 325
 4 Seer of Stolen Sight (MOM) 330
-4 Seraph of New Capenna // Seraph of New Phyrexia (MOM) 36
+4 Seraph of New Capenna (MOM) 36
 4 Shivan Branch-Burner (MOM) 165
-4 Skyclave Aerialist // Skyclave Invader (MOM) 78
+4 Skyclave Aerialist (MOM) 78
 4 Stoke the Flames (MOM) 166
 4 Storm the Seedcore (MOM) 206
 4 Stormclaw Rager (MOM) 254
 4 Streetwise Negotiator (MOM) 207
-4 Sun-Blessed Guardian // Furnace-Blessed Conqueror (MOM) 38
+4 Sun-Blessed Guardian (MOM) 38
 4 Surge of Salvation (MOM) 41
 4 Tandem Takedown (MOM) 208
 4 Tangled Skyline (MOM) 209

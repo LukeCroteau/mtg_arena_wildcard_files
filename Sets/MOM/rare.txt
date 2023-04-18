@@ -5,7 +5,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 
 4 Ancient Imperiosaur (MOM) 174
 4 Archpriest of Shadows (MOM) 89
-4 Ayara, Widow of the Realm // Ayara, Furnace Queen (MOM) 90
+4 Ayara, Widow of the Realm (MOM) 90
 4 Baral and Kari Zev (MOM) 218
 4 Bloated Processor (MOM) 93
 4 Bloodfeather Phoenix (MOM) 132
@@ -20,29 +20,29 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Drana and Linvala (MOM) 222
 4 Dusk Legion Duelist (MOM) 11
 4 Errant and Giada (MOM) 224
-4 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+4 Etali, Primal Conqueror (MOM) 137
 4 Faerie Mastermind (MOM) 58
 4 Ghalta and Mavren (MOM) 225
 4 Glissa, Herald of Predation (MOM) 226
 4 Glistening Dawn (MOM) 187
 4 Grafted Butcher (MOM) 109
 4 Guardian of Ghirapur (MOM) 16
-4 Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM) 17
+4 Heliod, the Radiant Dawn (MOM) 17
 4 Hidetsugu and Kairi (MOM) 228
 4 Hoarding Broodlord (MOM) 110
 4 Inga and Esika (MOM) 229
 4 Into the Fire (MOM) 144
-4 Invasion of Alara // Awaken the Maelstrom (MOM) 230
-4 Invasion of Arcavios // Invocation of the Founders (MOM) 61
-4 Invasion of Fiora // Marchesa, Resolute Monarch (MOM) 114
-4 Invasion of Gobakhan // Lightshield Array (MOM) 22
-4 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
-4 Invasion of Ixalan // Belligerent Regisaur (MOM) 191
-4 Invasion of Kaldheim // Pyre of the World Tree (MOM) 145
-4 Invasion of Karsus // Refraction Elemental (MOM) 146
-4 Invasion of Segovia // Caetus, Sea Tyrant of Segovia (MOM) 63
-4 Invasion of Theros // Ephara, Ever-Sheltering (MOM) 23
-4 Invasion of Tolvada // The Broken Sky (MOM) 241
+4 Invasion of Alara (MOM) 230
+4 Invasion of Arcavios (MOM) 61
+4 Invasion of Fiora (MOM) 114
+4 Invasion of Gobakhan (MOM) 22
+4 Invasion of Ikoria (MOM) 190
+4 Invasion of Ixalan (MOM) 191
+4 Invasion of Kaldheim (MOM) 145
+4 Invasion of Karsus (MOM) 146
+4 Invasion of Segovia (MOM) 63
+4 Invasion of Theros (MOM) 23
+4 Invasion of Tolvada (MOM) 241
 4 Knight-Errant of Eos (MOM) 26
 4 Kogla and Yidaro (MOM) 244
 4 Nahiri's Warcrafting (MOM) 155
@@ -50,7 +50,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Orthion, Hero of Lavabrink (MOM) 334
 4 Ozolith, the Shattered Spire (MOM) 198
 4 Pile On (MOM) 122
-4 Polukranos Reborn // Polukranos, Engine of Ruin (MOM) 200
+4 Polukranos Reborn (MOM) 200
 4 Progenitor Exarch (MOM) 32
 4 Quintorius, Loremaster (MOM) 250
 
@@ -60,7 +60,7 @@ Each deck should have 200 cards. The Last Deck will have a line after it letting
 4 Rampaging Raptor (MOM) 160
 4 Rankle and Torbran (MOM) 252
 4 Realmbreaker, the Invasion Tree (MOM) 263
-4 Rona, Herald of Invasion // Rona, Tolarian Obliterator (MOM) 75
+4 Rona, Herald of Invasion (MOM) 75
 4 See Double (MOM) 77
 4 Sunfall (MOM) 40
 4 Surrak and Goreclaw (MOM) 337
