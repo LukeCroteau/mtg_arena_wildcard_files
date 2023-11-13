@@ -1,0 +1,103 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abyssal Gorestalker (LCI) 87
+4 Akawalli, the Seething Tower (LCI) 220
+4 Bartolomé del Presidio (LCI) 224
+4 Bat Colony (LCI) 5
+4 Belligerent Yearling (LCI) 133
+4 Bitter Triumph (LCI) 91
+4 Bloodthorn Flail (LCI) 93
+4 Calamitous Cave-In (LCI) 139
+4 Canonized in Blood (LCI) 96
+4 Caparocti Sunborn (LCI) 226
+4 Captain Storm, Cosmium Raider (LCI) 227
+4 Careening Mine Cart (LCI) 247
+4 Cavernous Maw (LCI) 270
+4 Cenote Scout (LCI) 178
+4 Chart a Course (LCI) 48
+4 Chupacabra Echo (LCI) 97
+4 Clay-Fired Bricks (LCI) 6
+4 Coati Scavenger (LCI) 179
+4 Colossadactyl (LCI) 180
+4 Confounding Riddle (LCI) 50
+4 Contested Game Ball (LCI) 251
+4 Council of Echoes (LCI) 51
+4 Curator of Sun's Creation (LCI) 141
+4 Dauntless Dismantler (LCI) 8
+4 Deep-Cavern Bat (LCI) 102
+4 Defossilize (LCI) 103
+4 Diamond Pick-Axe (LCI) 143
+4 Digsite Conservator (LCI) 252
+4 Dowsing Device (LCI) 146
+4 Dreadmaw's Ire (LCI) 147
+4 Dusk Rose Reliquary (LCI) 10
+4 Earthshaker Dreadmaw (LCI) 183
+4 Eaten by Piranhas (LCI) 54
+4 Enterprising Scallywag (LCI) 148
+4 Explorer's Cache (LCI) 184
+4 Forgotten Monument (LCI) 272
+4 Gargantuan Leech (LCI) 107
+4 Geological Appraiser (LCI) 150
+4 Glimpse the Core (LCI) 186
+4 Glowcap Lantern (LCI) 187
+4 Goldfury Strider (LCI) 152
+4 Grasping Shadows (LCI) 108
+4 Guardian of the Great Door (LCI) 16
+4 Helping Hand (LCI) 17
+4 Hermitic Nautilus (LCI) 58
+4 Hoverstone Pilgrim (LCI) 254
+4 Hurl into History (LCI) 59
+4 Itzquinth, Firstborn of Gishath (LCI) 230
+4 Ixalli's Lorekeeper (LCI) 194
+4 Jade Seedstones (LCI) 195
+
+
+### New Deck
+
+4 Kinjalli's Dawnrunner (LCI) 19
+4 Kutzil, Malamet Exemplar (LCI) 232
+4 Lodestone Needle (LCI) 62
+4 Malamet Battle Glyph (LCI) 198
+4 Malamet War Scribe (LCI) 21
+4 Malicious Eclipse (LCI) 111
+4 Market Gnome (LCI) 22
+4 Master's Guide-Mural (LCI) 233
+4 Merfolk Cave-Diver (LCI) 65
+4 Might of the Ancestors (LCI) 23
+4 Mischievous Pup (LCI) 25
+4 Nicanzil, Current Conductor (LCI) 236
+4 Pit of Offerings (LCI) 278
+4 Rampaging Ceratops (LCI) 162
+4 Ruin-Lurker Bat (LCI) 33
+4 Saheeli's Lattice (LCI) 164
+4 Scampering Surveyor (LCI) 260
+4 Scytheclaw Raptor (LCI) 165
+4 Self-Reflection (LCI) 74
+4 Sinuous Benthisaur (LCI) 76
+4 Sorcerous Spyglass (LCI) 261
+4 Soulcoil Viper (LCI) 120
+4 Spelunking (LCI) 213
+4 Spring-Loaded Sawblades (LCI) 36
+4 Spyglass Siren (LCI) 78
+4 Staunch Crewmate (LCI) 79
+4 Stinging Cave Crawler (LCI) 124
+4 Sunbird Standard (LCI) 262
+4 Swashbuckler's Whip (LCI) 263
+4 Synapse Necromage (LCI) 125
+4 Tendril of the Mycotyrant (LCI) 215
+4 Thrashing Brontodon (LCI) 216
+4 Triumphant Chomp (LCI) 170
+4 Twists and Turns (LCI) 217
+4 Uchbenbak, the Great Mistake (LCI) 242
+4 Vanguard of the Rose (LCI) 42
+4 Visage of Dread (LCI) 129
+4 Volatile Fault (LCI) 286
+4 Waterlogged Hulk (LCI) 83
+4 Zoetic Glyph (LCI) 86
+4 Zoyowa Lava-Tongue (LCI) 245
+4 Zoyowa's Justice (LCI) 173
+
+### The Last Deck has 168 cards in it.

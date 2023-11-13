@@ -1,0 +1,75 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abuelo's Awakening (LCI) 1
+4 Abuelo, Ancestral Echo (LCI) 219
+4 Akal Pakal, First Among Equals (LCI) 44
+4 Amalia Benavides Aguirre (LCI) 221
+4 Anim Pakal, Thousandth Moon (LCI) 223
+4 Bedrock Tortoise (LCI) 176
+4 Braided Net (LCI) 47
+4 Brass's Tunnel-Grinder (LCI) 135
+4 Breeches, Eager Pillager (LCI) 137
+4 Bringer of the Last Gift (LCI) 94
+4 Corpses of the Lost (LCI) 98
+4 Cosmium Confluence (LCI) 181
+4 Deepfathom Echo (LCI) 228
+4 Deeproot Pilgrimage (LCI) 52
+4 Dire Flail (LCI) 145
+4 Echoing Deeps (LCI) 271
+4 Fabrication Foundry (LCI) 12
+4 Get Lost (LCI) 14
+4 Growing Rites of Itlimoc (LCI) 188
+4 Hit the Mother Lode (LCI) 153
+4 Hulking Raptor (LCI) 191
+4 Inti, Seneschal of the Sun (LCI) 156
+4 Intrepid Paleontologist (LCI) 193
+4 Jadelight Spelunker (LCI) 196
+4 Kellan, Daring Traveler (LCI) 231
+4 Kitesail Larcenist (LCI) 61
+4 Kutzil's Flanker (LCI) 20
+4 Magmatic Galleon (LCI) 157
+4 Malcolm, Alluring Scoundrel (LCI) 63
+4 Matzalantli, the Great Door (LCI) 256
+4 Molten Collapse (LCI) 234
+4 Palani's Hatcher (LCI) 237
+4 Poetic Ingenuity (LCI) 161
+4 Preacher of the Schism (LCI) 113
+4 Pugnacious Hammerskull (LCI) 208
+4 Queen's Bay Paladin (LCI) 115
+4 Restless Anchorage (LCI) 280
+4 Restless Prairie (LCI) 281
+4 Restless Reef (LCI) 282
+4 Restless Ridgeline (LCI) 283
+4 Restless Vents (LCI) 284
+4 Roaming Throne (LCI) 258
+4 Sanguine Evangelist (LCI) 34
+4 Sentinel of the Nameless City (LCI) 211
+4 Souls of the Lost (LCI) 121
+4 Squirming Emergence (LCI) 241
+4 Stalactite Stalker (LCI) 122
+4 Starving Revenant (LCI) 123
+4 Subterranean Schooner (LCI) 80
+4 Sunken Citadel (LCI) 285
+
+
+### New Deck
+
+4 Tarrian's Journal (LCI) 126
+4 Tarrian's Soulcleaver (LCI) 264
+4 Terror Tide (LCI) 127
+4 The Belligerent (LCI) 225
+4 The Everflowing Well (LCI) 56
+4 Thousand Moons Smithy (LCI) 39
+4 Threefold Thunderhulk (LCI) 265
+4 Throne of the Grim Captain (LCI) 266
+4 Tishana's Tidebinder (LCI) 81
+4 Treasure Map (LCI) 267
+4 Trumpeting Carnosaur (LCI) 171
+4 Unstable Glyphbridge (LCI) 41
+4 Wail of the Forgotten (LCI) 244
+4 Warden of the Inner Sky (LCI) 43
+
+### The Last Deck has 56 cards in it.

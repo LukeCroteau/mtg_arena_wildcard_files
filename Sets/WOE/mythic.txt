@@ -1,0 +1,27 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agatha of the Vile Cauldron (WOE) 199
+4 Agatha's Soul Cauldron (WOE) 242
+4 Ashiok, Wicked Manipulator (WOE) 78
+4 Asinine Antics (WOE) 42
+4 Beluna Grandsquall (WOE) 220
+4 Beseech the Mirror (WOE) 82
+4 Blossoming Tortoise (WOE) 163
+4 Eriette of the Charmed Apple (WOE) 202
+4 Hylda of the Icy Crown (WOE) 206
+4 Kellan, the Fae-Blooded (WOE) 230
+4 Moonshaker Cavalry (WOE) 21
+4 Realm-Scorcher Hellkite (WOE) 145
+4 Rowan, Scion of War (WOE) 211
+4 Talion, the Kindly Lord (WOE) 215
+4 Virtue of Courage (WOE) 157
+4 Virtue of Knowledge (WOE) 76
+4 Virtue of Loyalty (WOE) 38
+4 Virtue of Persistence (WOE) 115
+4 Virtue of Strength (WOE) 197
+4 Will, Scion of Peace (WOE) 218
+
+### The Last Deck has 80 cards in it.

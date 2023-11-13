@@ -1,0 +1,116 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aquatic Alchemist (WOE) 40
+4 Archon's Glory (WOE) 2
+4 Armory Mice (WOE) 3
+4 Barrow Naughty (WOE) 81
+4 Beanstalk Wurm (WOE) 161
+4 Bellowing Bruiser (WOE) 121
+4 Beluna's Gatekeeper (WOE) 43
+4 Besotted Knight (WOE) 4
+4 Bespoke Battlegarb (WOE) 122
+4 Bestial Bloodline (WOE) 162
+4 Brave the Wilds (WOE) 165
+4 Break the Spell (WOE) 5
+4 Candy Grapple (WOE) 83
+4 Candy Trail (WOE) 243
+4 Charmed Clothier (WOE) 6
+4 Commune with Nature (WOE) 166
+4 Conceited Witch (WOE) 84
+4 Cooped Up (WOE) 8
+4 Crystal Grotto (WOE) 254
+4 Curse of the Werefox (WOE) 167
+4 Cut In (WOE) 125
+4 Diminisher Witch (WOE) 46
+4 Edgewall Pack (WOE) 126
+4 Eriette's Whisper (WOE) 88
+4 Evolving Wilds (WOE) 256
+4 Feed the Cauldron (WOE) 91
+4 Fell Horseman (WOE) 92
+4 Ferocious Werefox (WOE) 170
+4 Flick a Coin (WOE) 128
+4 Frantic Firebolt (WOE) 130
+4 Freeze in Place (WOE) 50
+4 Frostbridge Guard (WOE) 14
+4 Gingerbrute (WOE) 246
+4 Gnawing Crescendo (WOE) 131
+4 Grabby Giant (WOE) 133
+4 Grand Ball Guest (WOE) 134
+4 Hamlet Glutton (WOE) 173
+4 Harried Spearguard (WOE) 135
+4 Hollow Scavenger (WOE) 174
+4 Hopeful Vigil (WOE) 17
+4 Hopeless Nightmare (WOE) 95
+4 Ice Out (WOE) 54
+4 Into the Fae Court (WOE) 57
+4 Johann's Stopgap (WOE) 58
+4 Kellan's Lightblades (WOE) 18
+4 Kindled Heroism (WOE) 138
+4 Leaping Ambush (WOE) 177
+4 Living Lectern (WOE) 59
+4 Merfolk Coralsmith (WOE) 60
+4 Merry Bards (WOE) 140
+
+
+### New Deck
+
+4 Minecart Daredevil (WOE) 141
+4 Mintstrosity (WOE) 100
+4 Misleading Motes (WOE) 61
+4 Mocking Sprite (WOE) 62
+4 Moment of Valor (WOE) 20
+4 Not Dead After All (WOE) 101
+4 Obyra's Attendants (WOE) 63
+4 Plunge into Winter (WOE) 22
+4 Prophetic Prism (WOE) 249
+4 Protective Parents (WOE) 24
+4 Quick Study (WOE) 65
+4 Rat Out (WOE) 103
+4 Ratcatcher Trainee (WOE) 144
+4 Redcap Thief (WOE) 147
+4 Redtooth Genealogist (WOE) 179
+4 Return Triumphant (WOE) 26
+4 Return from the Wilds (WOE) 181
+4 Rimefur Reindeer (WOE) 27
+4 Rootrider Faun (WOE) 182
+4 Rowan's Grim Search (WOE) 104
+4 Savior of the Sleeping (WOE) 28
+4 Scarecrow Guide (WOE) 250
+4 Scream Puff (WOE) 105
+4 Shatter the Oath (WOE) 106
+4 Skewer Slinger (WOE) 149
+4 Skybeast Tracker (WOE) 185
+4 Sleight of Hand (WOE) 67
+4 Slumbering Keepguard (WOE) 29
+4 Snaremaster Sprite (WOE) 68
+4 Spell Stutter (WOE) 69
+4 Spider Food (WOE) 186
+4 Stingblade Assassin (WOE) 109
+4 Stockpiling Celebrant (WOE) 32
+4 Stormkeld Prowler (WOE) 71
+4 Sugar Rush (WOE) 110
+4 Sweettooth Witch (WOE) 111
+4 Territorial Witchstalker (WOE) 189
+4 Titanic Growth (WOE) 191
+4 Toadstool Admirer (WOE) 192
+4 Torch the Tower (WOE) 153
+4 Troublemaker Ouphe (WOE) 194
+4 Tuinvale Guide (WOE) 36
+4 Unassuming Sage (WOE) 37
+4 Unruly Catapult (WOE) 156
+4 Vantress Transmuter (WOE) 75
+4 Verdant Outrider (WOE) 196
+4 Voracious Vermin (WOE) 116
+4 Warehouse Tabby (WOE) 117
+4 Water Wings (WOE) 77
+4 Wicked Visitor (WOE) 118
+
+
+### New Deck
+
+4 Witch's Mark (WOE) 158
+
+### The Last Deck has 4 cards in it.

@@ -1,0 +1,29 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Aclazotz, Deepest Betrayal (LCI) 88
+4 Bloodletter of Aclazotz (LCI) 92
+4 Bonehoard Dracosaur (LCI) 134
+4 Cavern of Souls (LCI) 269
+4 Chimil, the Inner Sun (LCI) 249
+4 Ghalta, Stampede Tyrant (LCI) 185
+4 Gishath, Sun's Avatar (LCI) 229
+4 Huatli, Poet of Unity (LCI) 189
+4 Ojer Axonil, Deepest Might (LCI) 158
+4 Ojer Kaslem, Deepest Growth (LCI) 204
+4 Ojer Pakpatiq, Deepest Epoch (LCI) 67
+4 Ojer Taq, Deepest Foundation (LCI) 26
+4 Quintorius Kand (LCI) 238
+4 Resplendent Angel (LCI) 32
+4 Saheeli, the Sun's Brilliance (LCI) 239
+4 Sovereign Okinec Ahau (LCI) 240
+4 The Ancient One (LCI) 222
+4 The Enigma Jewel (LCI) 55
+4 The Millennium Calendar (LCI) 257
+4 The Mycotyrant (LCI) 235
+4 The Skullspore Nexus (LCI) 212
+4 Vito, Fanatic of Aclazotz (LCI) 243
+
+### The Last Deck has 88 cards in it.

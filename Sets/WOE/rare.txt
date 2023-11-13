@@ -1,0 +1,74 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A Tale for the Ages (WOE) 34
+4 Archon of the Wild Rose (WOE) 1
+4 Bramble Familiar (WOE) 164
+4 Charming Scoundrel (WOE) 124
+4 Cruel Somnophage (WOE) 222
+4 Decadent Dragon (WOE) 223
+4 Devouring Sugarmaw (WOE) 224
+4 Elusive Otter (WOE) 225
+4 Elvish Archivist (WOE) 168
+4 Expel the Interlopers (WOE) 13
+4 Extraordinary Journey (WOE) 48
+4 Farsight Ritual (WOE) 49
+4 Faunsbane Troll (WOE) 203
+4 Feral Encounter (WOE) 169
+4 Food Fight (WOE) 129
+4 Goddric, Cloaked Reveler (WOE) 132
+4 Gruff Triplets (WOE) 172
+4 Gumdrop Poisoner (WOE) 93
+4 Heartflame Duelist (WOE) 228
+4 Horned Loch-Whale (WOE) 53
+4 Hylda's Crown of Winter (WOE) 247
+4 Imodane, the Pyrohammer (WOE) 137
+4 Ingenious Prodigy (WOE) 56
+4 Lich-Knights' Conquest (WOE) 96
+4 Likeness Looter (WOE) 208
+4 Lord Skitter's Blessing (WOE) 98
+4 Lord Skitter, Sewer King (WOE) 97
+4 Malevolent Witchkite (WOE) 315
+4 Mosswood Dreadknight (WOE) 231
+4 Ogre Chitterlord (WOE) 319
+4 Pollen-Shield Hare (WOE) 233
+4 Questing Druid (WOE) 234
+4 Raging Battle Mouse (WOE) 143
+4 Rankle's Prank (WOE) 102
+4 Redcap Gutter-Dweller (WOE) 146
+4 Regal Bunnicorn (WOE) 25
+4 Restless Bivouac (WOE) 257
+4 Restless Cottage (WOE) 258
+4 Restless Fortress (WOE) 259
+4 Restless Spire (WOE) 260
+4 Restless Vinestalk (WOE) 261
+4 Rotisserie Elemental (WOE) 148
+4 Scalding Viper (WOE) 235
+4 Sentinel of Lost Lore (WOE) 184
+4 Sleep-Cursed Faerie (WOE) 66
+4 Song of Totentanz (WOE) 150
+4 Specter of Mortality (WOE) 107
+4 Spellbook Vendor (WOE) 31
+4 Spiteful Hexmage (WOE) 108
+4 Syr Ginger, the Meal Ender (WOE) 252
+
+
+### New Deck
+
+4 Talion's Messenger (WOE) 73
+4 Tangled Colony (WOE) 113
+4 The Apprentice's Folly (WOE) 200
+4 The End (WOE) 87
+4 The Goose Mother (WOE) 204
+4 The Huntsman's Redemption (WOE) 176
+4 The Irencrag (WOE) 248
+4 Three Blind Mice (WOE) 35
+4 Thunderous Debut (WOE) 190
+4 Twining Twins (WOE) 240
+4 Werefox Bodyguard (WOE) 39
+4 Wildwood Mentor (WOE) 322
+4 Yenna, Redtooth Regent (WOE) 219
+
+### The Last Deck has 52 cards in it.

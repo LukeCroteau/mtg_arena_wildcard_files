@@ -12,6 +12,7 @@ J21 - Jumpstart: Historic Horizons
 JMP - Jumpstart
 KHM - Kaldheim
 KLR - Kaladesh Remastered
+LCI - The Lost Caverns of Ixalan
 M19 - Core Set 2019
 M20 - Core Set 2020
 M21 - Core Set 2021
@@ -26,6 +27,7 @@ STX - Strixhaven: School of Mages
 THB - Theros Beyond Death
 VOW - Innistrad: Crimson Vow
 WAR - War of the Spark
+WOE - Wilds of Eldraine
 XLN - Ixalan
 Y22 - Alchemy: Innistrad
 ZNR - Zendikar Rising

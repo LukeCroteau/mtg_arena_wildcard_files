@@ -1,0 +1,123 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abrade (LCI) 131
+4 Acolyte of Aclazotz (LCI) 89
+4 Acrobatic Leap (LCI) 2
+4 Adaptive Gemguard (LCI) 3
+4 Ancestors' Aid (LCI) 132
+4 Ancestral Reminiscence (LCI) 45
+4 Another Chance (LCI) 90
+4 Armored Kincaller (LCI) 174
+4 Attentive Sunscribe (LCI) 4
+4 Basking Capybara (LCI) 175
+4 Brackish Blunder (LCI) 46
+4 Brazen Blademaster (LCI) 136
+4 Broodrage Mycoid (LCI) 95
+4 Buried Treasure (LCI) 246
+4 Burning Sun Cavalry (LCI) 138
+4 Captivating Cave (LCI) 268
+4 Cartographer's Companion (LCI) 248
+4 Cavern Stomper (LCI) 177
+4 Child of the Volcano (LCI) 140
+4 Cogwork Wrestler (LCI) 49
+4 Compass Gnome (LCI) 250
+4 Cosmium Blast (LCI) 7
+4 Daring Discovery (LCI) 142
+4 Dead Weight (LCI) 99
+4 Deathcap Marionette (LCI) 100
+4 Deconstruction Hammer (LCI) 9
+4 Deep Goblin Skulltaker (LCI) 101
+4 Didact Echo (LCI) 53
+4 Dinotomaton (LCI) 144
+4 Disruptor Wanderglyph (LCI) 253
+4 Disturbed Slumber (LCI) 182
+4 Echo of Dusk (LCI) 104
+4 Envoy of Okinec Ahau (LCI) 11
+4 Etali's Favor (LCI) 149
+4 Family Reunion (LCI) 13
+4 Fanatical Offering (LCI) 105
+4 Frilled Cave-Wurm (LCI) 57
+4 Fungal Fortitude (LCI) 106
+4 Glorifier of Suffering (LCI) 15
+4 Goblin Tomb Raider (LCI) 151
+4 Greedy Freebooter (LCI) 109
+4 Hidden Cataract (LCI) 273
+4 Hidden Courtyard (LCI) 274
+4 Hidden Necropolis (LCI) 275
+4 Hidden Nursery (LCI) 276
+4 Hidden Volcano (LCI) 277
+4 Hotfoot Gnome (LCI) 154
+4 Huatli's Final Strike (LCI) 190
+4 Hunter's Blowgun (LCI) 255
+4 Idol of the Deep King (LCI) 155
+
+
+### New Deck
+
+4 In the Presence of Ages (LCI) 192
+4 Inverted Iceberg (LCI) 60
+4 Ironpaw Aspirant (LCI) 18
+4 Join the Dead (LCI) 110
+4 Kaslem's Stonetree (LCI) 197
+4 Malamet Brawler (LCI) 199
+4 Malamet Scythe (LCI) 200
+4 Malamet Veteran (LCI) 201
+4 Marauding Brinefang (LCI) 64
+4 Mephitic Draught (LCI) 112
+4 Miner's Guidewing (LCI) 24
+4 Mineshaft Spider (LCI) 202
+4 Nurturing Bristleback (LCI) 203
+4 Oaken Siren (LCI) 66
+4 Oltec Archaeologists (LCI) 27
+4 Oltec Cloud Guard (LCI) 28
+4 Orazca Puzzle-Door (LCI) 68
+4 Oteclan Landmark (LCI) 29
+4 Out of Air (LCI) 69
+4 Over the Edge (LCI) 205
+4 Panicked Altisaur (LCI) 159
+4 Pathfinding Axejaw (LCI) 206
+4 Petrify (LCI) 30
+4 Pirate Hat (LCI) 70
+4 Plundering Pirate (LCI) 160
+4 Poison Dart Frog (LCI) 207
+4 Primordial Gnawer (LCI) 114
+4 Promising Vein (LCI) 279
+4 Quicksand Whirlpool (LCI) 31
+4 Rampaging Spiketail (LCI) 116
+4 Ray of Ruin (LCI) 117
+4 Relic's Roar (LCI) 71
+4 River Herald Guide (LCI) 209
+4 River Herald Scout (LCI) 72
+4 Rumbling Rockslide (LCI) 163
+4 Runaway Boulder (LCI) 259
+4 Sage of Days (LCI) 73
+4 Screaming Phantom (LCI) 118
+4 Seeker of Sunlight (LCI) 210
+4 Seismic Monstrosaur (LCI) 166
+4 Shipwreck Sentry (LCI) 75
+4 Skullcap Snail (LCI) 119
+4 Soaring Sandwing (LCI) 35
+4 Song of Stupefaction (LCI) 77
+4 Staggering Size (LCI) 214
+4 Sunfire Torch (LCI) 167
+4 Sunshot Militia (LCI) 168
+4 Tectonic Hazard (LCI) 169
+4 Thousand Moons Crackshot (LCI) 37
+4 Thousand Moons Infantry (LCI) 38
+
+
+### New Deck
+
+4 Tinker's Tote (LCI) 40
+4 Tithing Blade (LCI) 128
+4 Unlucky Drop (LCI) 82
+4 Vito's Inquisitor (LCI) 130
+4 Volatile Wanderglyph (LCI) 172
+4 Walk with the Ancestors (LCI) 218
+4 Waterwind Scout (LCI) 84
+4 Waylaying Pirates (LCI) 85
+
+### The Last Deck has 32 cards in it.
