@@ -1,0 +1,64 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abzan Ascendancy (KTK) 160
+4 Altar of the Brood (KTK) 216
+4 Ankle Shanker (KTK) 164
+4 Avalanche Tusker (KTK) 166
+4 Bloodsoaked Champion (KTK) 66
+4 Bloodstained Mire (KTK) 230
+4 Butcher of the Horde (KTK) 168
+4 Crackling Doom (KTK) 171
+4 Crater's Claws (KTK) 106
+4 Deflecting Palm (KTK) 173
+4 Dig Through Time (KTK) 36
+4 Dragon Throne of Tarkir (KTK) 219
+4 Dragon-Style Twins (KTK) 108
+4 Duneblast (KTK) 174
+4 End Hostilities (KTK) 8
+4 Flooded Strand (KTK) 233
+4 Flying Crane Technique (KTK) 176
+4 Ghostfire Blade (KTK) 220
+4 Grim Haruspex (KTK) 73
+4 Hardened Scales (KTK) 133
+4 Herald of Anafenza (KTK) 12
+4 High Sentinels of Arashin (KTK) 13
+4 Howl of the Horde (KTK) 112
+4 Icy Blast (KTK) 42
+4 Ivorytusk Fortress (KTK) 179
+4 Jeering Instigator (KTK) 113
+4 Jeskai Ascendancy (KTK) 180
+4 Kheru Lich Lord (KTK) 182
+4 Kheru Spellsnatcher (KTK) 45
+4 Mantis Rider (KTK) 184
+4 Mardu Ascendancy (KTK) 185
+4 Master of Pearls (KTK) 18
+4 Meandering Towershell (KTK) 141
+4 Mindswipe (KTK) 189
+4 Necropolis Fiend (KTK) 82
+4 Polluted Delta (KTK) 239
+4 Rakshasa Deathdealer (KTK) 192
+4 Rakshasa Vizier (KTK) 193
+4 Rattleclaw Mystic (KTK) 144
+4 Retribution of the Ancients (KTK) 85
+4 Sage of the Inward Eye (KTK) 195
+4 Sagu Mauler (KTK) 196
+4 Savage Knuckleblade (KTK) 197
+4 Siege Rhino (KTK) 200
+4 Sultai Ascendancy (KTK) 203
+4 Temur Ascendancy (KTK) 207
+4 Thousand Winds (KTK) 58
+4 Trail of Mystery (KTK) 154
+4 Trap Essence (KTK) 209
+4 Utter End (KTK) 210
+
+
+### New Deck
+
+4 Villainous Wealth (KTK) 211
+4 Windswept Heath (KTK) 248
+4 Wooded Foothills (KTK) 249
+
+### The Last Deck has 12 cards in it.

@@ -12,6 +12,7 @@ J21 - Jumpstart: Historic Horizons
 JMP - Jumpstart
 KHM - Kaldheim
 KLR - Kaladesh Remastered
+KTK - Khans of Tarkir
 LCI - The Lost Caverns of Ixalan
 M19 - Core Set 2019
 M20 - Core Set 2020

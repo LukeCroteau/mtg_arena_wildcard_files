@@ -1,0 +1,117 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abomination of Gudul (KTK) 159
+4 Abzan Banner (KTK) 215
+4 Abzan Guide (KTK) 162
+4 Act of Treason (KTK) 95
+4 Ainok Bond-Kin (KTK) 3
+4 Ainok Tracker (KTK) 96
+4 Alabaster Kirin (KTK) 4
+4 Alpine Grizzly (KTK) 127
+4 Archers' Parapet (KTK) 128
+4 Arrow Storm (KTK) 98
+4 Awaken the Bear (KTK) 129
+4 Barrage of Boulders (KTK) 100
+4 Bitter Revelation (KTK) 65
+4 Bloodfell Caves (KTK) 229
+4 Bloodfire Expert (KTK) 101
+4 Bloodfire Mentor (KTK) 102
+4 Blossoming Sands (KTK) 231
+4 Bring Low (KTK) 103
+4 Cancel (KTK) 33
+4 Canyon Lurkers (KTK) 105
+4 Crippling Chill (KTK) 35
+4 Debilitating Injury (KTK) 68
+4 Defiant Strike (KTK) 7
+4 Disdainful Stroke (KTK) 37
+4 Dismal Backwater (KTK) 232
+4 Disowned Ancestor (KTK) 70
+4 Dragonscale Boon (KTK) 131
+4 Dutiful Return (KTK) 71
+4 Efreet Weaponmaster (KTK) 175
+4 Embodiment of Spring (KTK) 39
+4 Erase (KTK) 9
+4 Feat of Resistance (KTK) 10
+4 Feed the Clan (KTK) 132
+4 Firehoof Cavalry (KTK) 11
+4 Force Away (KTK) 40
+4 Glacial Stalker (KTK) 41
+4 Highland Game (KTK) 135
+4 Hooting Mandrills (KTK) 137
+4 Jeskai Banner (KTK) 222
+4 Jeskai Student (KTK) 14
+4 Jeskai Windscout (KTK) 44
+4 Jungle Hollow (KTK) 235
+4 Kheru Dreadmaw (KTK) 76
+4 Kill Shot (KTK) 15
+4 Kin-Tree Warden (KTK) 139
+4 Krumar Bond-Kin (KTK) 77
+4 Leaping Master (KTK) 114
+4 Lens of Clarity (KTK) 223
+4 Longshot Squad (KTK) 140
+4 Mardu Banner (KTK) 224
+
+
+### New Deck
+
+4 Mardu Hateblade (KTK) 16
+4 Mardu Hordechief (KTK) 17
+4 Mardu Skullhunter (KTK) 78
+4 Mardu Warshrieker (KTK) 117
+4 Molting Snakeskin (KTK) 80
+4 Monastery Flock (KTK) 47
+4 Mystic of the Hidden Way (KTK) 48
+4 Naturalize (KTK) 142
+4 Nomad Outpost (KTK) 237
+4 Ponyback Brigade (KTK) 191
+4 Rakshasa's Secret (KTK) 84
+4 Rite of the Serpent (KTK) 86
+4 Rotting Mastodon (KTK) 87
+4 Rugged Highlands (KTK) 240
+4 Rush of Battle (KTK) 19
+4 Sage-Eye Harrier (KTK) 20
+4 Sagu Archer (KTK) 146
+4 Salt Road Patrol (KTK) 21
+4 Savage Punch (KTK) 147
+4 Scaldkin (KTK) 52
+4 Scoured Barrens (KTK) 242
+4 Scout the Borders (KTK) 148
+4 Shambling Attendants (KTK) 89
+4 Shatter (KTK) 120
+4 Sidisi's Pet (KTK) 90
+4 Siegecraft (KTK) 23
+4 Singing Bell Strike (KTK) 55
+4 Smite the Monstrous (KTK) 24
+4 Smoke Teller (KTK) 151
+4 Snowhorn Rider (KTK) 201
+4 Sultai Banner (KTK) 225
+4 Sultai Scavenger (KTK) 91
+4 Summit Prowler (KTK) 121
+4 Swift Kick (KTK) 122
+4 Swiftwater Cliffs (KTK) 243
+4 Taigam's Scheming (KTK) 57
+4 Temur Banner (KTK) 226
+4 Thornwood Falls (KTK) 244
+4 Throttle (KTK) 93
+4 Tormenting Voice (KTK) 123
+4 Tranquil Cove (KTK) 246
+4 Treasure Cruise (KTK) 59
+4 Trumpet Blast (KTK) 124
+4 Tusked Colossodon (KTK) 155
+4 Unyielding Krumar (KTK) 94
+4 Valley Dasher (KTK) 125
+4 War Behemoth (KTK) 29
+4 Weave Fate (KTK) 61
+4 Wetland Sambar (KTK) 62
+4 Whirlwind Adept (KTK) 63
+
+
+### New Deck
+
+4 Wind-Scarred Crag (KTK) 247
+4 Woolly Loxodon (KTK) 158
+
+### The Last Deck has 8 cards in it.

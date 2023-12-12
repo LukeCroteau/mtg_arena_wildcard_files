@@ -1,0 +1,22 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Anafenza, the Foremost (KTK) 163
+4 Ashcloud Phoenix (KTK) 99
+4 Clever Impersonator (KTK) 34
+4 Empty the Pits (KTK) 72
+4 Hooded Hydra (KTK) 136
+4 Narset, Enlightened Master (KTK) 190
+4 Pearl Lake Ancient (KTK) 49
+4 Sarkhan, the Dragonspeaker (KTK) 119
+4 See the Unwritten (KTK) 149
+4 Sidisi, Brood Tyrant (KTK) 199
+4 Sorin, Solemn Visitor (KTK) 202
+4 Surrak Dragonclaw (KTK) 206
+4 Ugin's Nexus (KTK) 227
+4 Wingmate Roc (KTK) 31
+4 Zurgo Helmsmasher (KTK) 214
+
+### The Last Deck has 60 cards in it.

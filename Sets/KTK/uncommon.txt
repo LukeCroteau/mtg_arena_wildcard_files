@@ -1,0 +1,90 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Abzan Battle Priest (KTK) 1
+4 Abzan Charm (KTK) 161
+4 Abzan Falconer (KTK) 2
+4 Arc Lightning (KTK) 97
+4 Armament Corps (KTK) 165
+4 Bear's Companion (KTK) 167
+4 Become Immense (KTK) 130
+4 Bellowing Saddlebrute (KTK) 64
+4 Blinding Spray (KTK) 32
+4 Brave the Sands (KTK) 5
+4 Briber's Purse (KTK) 217
+4 Burn Away (KTK) 104
+4 Chief of the Edge (KTK) 169
+4 Chief of the Scale (KTK) 170
+4 Cranial Archive (KTK) 218
+4 Dazzling Ramparts (KTK) 6
+4 Dead Drop (KTK) 67
+4 Death Frenzy (KTK) 172
+4 Despise (KTK) 69
+4 Dragon Grip (KTK) 107
+4 Dragon's Eye Savants (KTK) 38
+4 Frontier Bivouac (KTK) 234
+4 Goblinslide (KTK) 109
+4 Gurmag Swiftwing (KTK) 74
+4 Heart-Piercer Bow (KTK) 221
+4 Heir of the Wilds (KTK) 134
+4 Highspire Mantis (KTK) 177
+4 Horde Ambusher (KTK) 110
+4 Hordeling Outburst (KTK) 111
+4 Icefeather Aven (KTK) 178
+4 Incremental Growth (KTK) 138
+4 Jeskai Charm (KTK) 181
+4 Jeskai Elder (KTK) 43
+4 Kheru Bloodsucker (KTK) 75
+4 Kin-Tree Invocation (KTK) 183
+4 Mardu Blazebringer (KTK) 115
+4 Mardu Charm (KTK) 186
+4 Mardu Heart-Piercer (KTK) 116
+4 Mardu Roughrider (KTK) 187
+4 Master the Way (KTK) 188
+4 Mer-Ek Nightblade (KTK) 79
+4 Mistfire Weaver (KTK) 46
+4 Monastery Swiftspear (KTK) 118
+4 Murderous Cut (KTK) 81
+4 Mystic Monastery (KTK) 236
+4 Opulent Palace (KTK) 238
+4 Pine Walker (KTK) 143
+4 Quiet Contemplation (KTK) 50
+4 Raiders' Spoils (KTK) 83
+4 Ride Down (KTK) 194
+
+
+### New Deck
+
+4 Riverwheel Aerialists (KTK) 51
+4 Roar of Challenge (KTK) 145
+4 Ruthless Ripper (KTK) 88
+4 Sandsteppe Citadel (KTK) 241
+4 Scion of Glaciers (KTK) 53
+4 Secret Plans (KTK) 198
+4 Seek the Horizon (KTK) 150
+4 Seeker of the Way (KTK) 22
+4 Set Adrift (KTK) 54
+4 Stubborn Denial (KTK) 56
+4 Sultai Charm (KTK) 204
+4 Sultai Flayer (KTK) 152
+4 Sultai Soothsayer (KTK) 205
+4 Suspension Field (KTK) 25
+4 Swarm of Bloodflies (KTK) 92
+4 Take Up Arms (KTK) 26
+4 Temur Charger (KTK) 153
+4 Temur Charm (KTK) 208
+4 Timely Hordemate (KTK) 27
+4 Tomb of the Spirit Dragon (KTK) 245
+4 Tuskguard Captain (KTK) 156
+4 Venerable Lammasu (KTK) 28
+4 War-Name Aspirant (KTK) 126
+4 Warden of the Eye (KTK) 212
+4 Watcher of the Roost (KTK) 30
+4 Waterwhirl (KTK) 60
+4 Windstorm (KTK) 157
+4 Winterflame (KTK) 213
+4 Witness of the Ages (KTK) 228
+
+### The Last Deck has 116 cards in it.
