@@ -1,0 +1,92 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agency Coroner (MKM) 75
+4 Airtight Alibi (MKM) 149
+4 Alley Assailant (MKM) 76
+4 Auspicious Arrival (MKM) 5
+4 Basilica Stalker (MKM) 78
+4 Behind the Mask (MKM) 39
+4 Benthic Criminologists (MKM) 40
+4 Bite Down on Crime (MKM) 154
+4 Bubble Smuggler (MKM) 41
+4 Cerebral Confiscation (MKM) 81
+4 Cold Case Cracker (MKM) 46
+4 Crimestopper Sprite (MKM) 49
+4 Crowd-Control Warden (MKM) 193
+4 Deduce (MKM) 52
+4 Defenestrated Phantom (MKM) 11
+4 Demand Answers (MKM) 122
+4 Dog Walker (MKM) 197
+4 Dramatic Accusation (MKM) 53
+4 Due Diligence (MKM) 14
+4 Escape Tunnel (MKM) 261
+4 Extract a Confession (MKM) 84
+4 Faerie Snoop (MKM) 203
+4 Fanatical Strength (MKM) 159
+4 Felonious Rage (MKM) 125
+4 Gadget Technician (MKM) 204
+4 Galvanize (MKM) 128
+4 Gearbane Orangutan (MKM) 129
+4 Goblin Maskmaker (MKM) 130
+4 Granite Witness (MKM) 206
+4 Gravestone Strider (MKM) 252
+4 Griffnaut Tracker (MKM) 17
+4 Haazda Vigilante (MKM) 18
+4 Hotshot Investigators (MKM) 60
+4 Innocent Bystander (MKM) 133
+4 Inside Source (MKM) 19
+4 Jaded Analyst (MKM) 62
+4 Loxodon Eavesdropper (MKM) 168
+4 Macabre Reconstruction (MKM) 93
+4 Magnifying Glass (MKM) 255
+4 Make Your Move (MKM) 22
+4 Makeshift Binding (MKM) 23
+4 Marketwatch Phantom (MKM) 24
+4 Murder (MKM) 95
+4 Museum Nightwatch (MKM) 25
+4 Nervous Gardener (MKM) 169
+4 Novice Inspector (MKM) 29
+4 Offender at Large (MKM) 138
+4 On the Job (MKM) 30
+4 Out Cold (MKM) 66
+4 Person of Interest (MKM) 139
+
+
+### New Deck
+
+4 Pick Your Poison (MKM) 170
+4 Projektor Inspector (MKM) 68
+4 Public Thoroughfare (MKM) 265
+4 Rakish Scoundrel (MKM) 225
+4 Reasonable Doubt (MKM) 69
+4 Red Herring (MKM) 142
+4 Repeat Offender (MKM) 101
+4 Riftburst Hellion (MKM) 228
+4 Rot Farm Mortipede (MKM) 102
+4 Rubblebelt Braggart (MKM) 143
+4 Rubblebelt Maverick (MKM) 174
+4 Sanguine Savior (MKM) 230
+4 Sanitation Automaton (MKM) 256
+4 Seasoned Consultant (MKM) 33
+4 Shady Informant (MKM) 231
+4 Shock (MKM) 144
+4 Slice from the Shadows (MKM) 103
+4 Slime Against Humanity (MKM) 177
+4 Snarling Gorehound (MKM) 105
+4 Suspicious Detonation (MKM) 145
+4 The Chase Is On (MKM) 116
+4 They Went This Way (MKM) 178
+4 Thinking Cap (MKM) 257
+4 Topiary Panther (MKM) 179
+4 Toxin Analysis (MKM) 107
+4 Tunnel Tipster (MKM) 180
+4 Unauthorized Exit (MKM) 74
+4 Undercover Crocodelf (MKM) 239
+4 Unscrupulous Agent (MKM) 109
+4 Vengeful Creeper (MKM) 182
+4 Vitu-Ghazi Inspector (MKM) 183
+
+### The Last Deck has 124 cards in it.

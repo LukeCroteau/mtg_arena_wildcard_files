@@ -18,6 +18,7 @@ M19 - Core Set 2019
 M20 - Core Set 2020
 M21 - Core Set 2021
 MID - Innistrad: Midnight Hunt
+MKM - Murders at Karlov Manor
 MOM - March of the Machine
 NEO - Kamigawa: Neon Dynasty
 ONE - Phyrexia: All Will Be One

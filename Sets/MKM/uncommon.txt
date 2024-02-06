@@ -1,0 +1,115 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 A Killer Among Us (MKM) 167
+4 Absolving Lammasu (MKM) 2
+4 Aftermath Analyst (MKM) 148
+4 Agency Outfitter (MKM) 38
+4 Bolrac-Clan Basher (MKM) 112
+4 Branch of Vitu-Ghazi (MKM) 258
+4 Break Out (MKM) 190
+4 Burden of Proof (MKM) 42
+4 Buried in the Garden (MKM) 191
+4 Call a Surprise Witness (MKM) 6
+4 Candlestick (MKM) 43
+4 Case File Auditor (MKM) 7
+4 Case of the Burning Masks (MKM) 113
+4 Case of the Filched Falcon (MKM) 44
+4 Case of the Gateway Express (MKM) 8
+4 Case of the Gorgon's Kiss (MKM) 79
+4 Case of the Pilfered Proof (MKM) 9
+4 Case of the Shattered Pact (MKM) 1
+4 Case of the Trampled Garden (MKM) 156
+4 Caught Red-Handed (MKM) 115
+4 Cease (MKM) 246
+4 Chalk Outline (MKM) 157
+4 Clandestine Meddler (MKM) 82
+4 Coerced to Kill (MKM) 192
+4 Concealed Weapon (MKM) 117
+4 Convenient Target (MKM) 119
+4 Cornered Crook (MKM) 120
+4 Crime Novelist (MKM) 121
+4 Culvert Ambusher (MKM) 158
+4 Curious Cadaver (MKM) 194
+4 Curious Inquiry (MKM) 51
+4 Deadly Complication (MKM) 195
+4 Detective's Satchel (MKM) 196
+4 Eliminate the Impossible (MKM) 54
+4 Essence of Antiquity (MKM) 15
+4 Evidence Examiner (MKM) 201
+4 Exit Specialist (MKM) 55
+4 Expose the Culprit (MKM) 124
+4 Fae Flight (MKM) 56
+4 Festerleech (MKM) 85
+4 Flotsam (MKM) 247
+4 Flourishing Bloom-Kin (MKM) 160
+4 Forensic Researcher (MKM) 58
+4 Forum Familiar (MKM) 16
+4 Frantic Scapegoat (MKM) 126
+4 Furtive Courier (MKM) 59
+4 Fuss (MKM) 248
+4 Get a Leg Up (MKM) 161
+4 Gleaming Geardrake (MKM) 205
+4 Glint Weaver (MKM) 162
+
+
+### New Deck
+
+4 Greenbelt Radical (MKM) 163
+4 Hard-Hitting Question (MKM) 164
+4 Harried Dronesmith (MKM) 131
+4 Hedge Whisperer (MKM) 165
+4 Hustle (MKM) 249
+4 Insidious Roots (MKM) 208
+4 It Doesn't Add Up (MKM) 89
+4 Karlov Watchdog (MKM) 20
+4 Knife (MKM) 134
+4 Kraul Whipcracker (MKM) 213
+4 Krovod Haunch (MKM) 21
+4 Lead Pipe (MKM) 90
+4 Leering Onlooker (MKM) 91
+4 Lightning Helix (MKM) 218
+4 Living Conundrum (MKM) 63
+4 Long Goodbye (MKM) 92
+4 Lumbering Laundry (MKM) 253
+4 Magnetic Snuffler (MKM) 254
+4 Meddling Youths (MKM) 219
+4 Mistway Spy (MKM) 65
+4 Neighborhood Guardian (MKM) 26
+4 Nightdrinker Moroii (MKM) 96
+4 No More Lies (MKM) 221
+4 Not on My Watch (MKM) 28
+4 Perimeter Enforcer (MKM) 31
+4 Persuasive Interrogators (MKM) 98
+4 Polygraph Orb (MKM) 99
+4 Pompous Gadabout (MKM) 171
+4 Presumed Dead (MKM) 100
+4 Private Eye (MKM) 223
+4 Push (MKM) 250
+4 Reckless Detective (MKM) 141
+4 Repulsive Mutation (MKM) 227
+4 Rope (MKM) 173
+4 Rune-Brand Juggler (MKM) 229
+4 Sample Collector (MKM) 175
+4 Sanctuary Wall (MKM) 32
+4 Scene of the Crime (MKM) 267
+4 Slimy Dualleech (MKM) 104
+4 Soul Enervation (MKM) 106
+4 Soul Search (MKM) 232
+4 Sudden Setback (MKM) 72
+4 Sumala Sentry (MKM) 233
+4 Surveillance Monitor (MKM) 73
+4 Tin Street Gossip (MKM) 235
+4 Torch the Witness (MKM) 146
+4 Undercity Eliminator (MKM) 108
+4 Vengeful Tracker (MKM) 147
+4 Wispdrinker Vampire (MKM) 243
+4 Wrench (MKM) 37
+
+
+### New Deck
+
+
+### The Last Deck has 0 cards in it.

@@ -1,0 +1,30 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Agrus Kos, Spirit of Justice (MKM) 184
+4 Alquist Proft, Master Sleuth (MKM) 185
+4 Anzrag, the Quake-Mole (MKM) 186
+4 Aurelia's Vindicator (MKM) 4
+4 Conspiracy Unraveler (MKM) 47
+4 Delney, Streetwise Lookout (MKM) 12
+4 Etrata, Deadly Fugitive (MKM) 200
+4 Expedited Inheritance (MKM) 123
+4 Incinerator of the Guilty (MKM) 132
+4 Intrude on the Mind (MKM) 61
+4 Kaya, Spirits' Justice (MKM) 211
+4 Kylox's Voltstrider (MKM) 215
+4 Massacre Girl, Known Killer (MKM) 94
+4 Melek, Reforged Researcher (MKM) 430
+4 Rakdos, Patron of Chaos (MKM) 224
+4 The Pride of Hull Clade (MKM) 172
+4 Tomik, Wielder of Law (MKM) 431
+4 Trostani, Three Whispers (MKM) 238
+4 Undergrowth Recon (MKM) 181
+4 Urgent Necropsy (MKM) 240
+4 Vannifar, Evolved Enigma (MKM) 241
+4 Vein Ripper (MKM) 110
+4 Voja, Jaws of the Conclave (MKM) 432
+
+### The Last Deck has 92 cards in it.

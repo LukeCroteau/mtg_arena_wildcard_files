@@ -1,0 +1,81 @@
+Remember, each group is separated into enough cards for MTG Arena to import them successfully.
+Pay attention to the large group of line breaks between each segment.
+Each deck should have 200 cards. The Last Deck will have a line after it letting you know how many cards are in the deck (in case of errors.)
+
+
+4 Analyze the Pollen (MKM) 150
+4 Anzrag's Rampage (MKM) 111
+4 Archdruid's Charm (MKM) 151
+4 Assassin's Trophy (MKM) 187
+4 Assemble the Players (MKM) 3
+4 Audience with Trostani (MKM) 152
+4 Aurelia, the Law Above (MKM) 188
+4 Axebane Ferox (MKM) 153
+4 Barbed Servitor (MKM) 77
+4 Blood Spatter Analysis (MKM) 189
+4 Case of the Crimson Pulse (MKM) 114
+4 Case of the Locked Hothouse (MKM) 155
+4 Case of the Ransacked Lab (MKM) 45
+4 Case of the Stashed Skeleton (MKM) 80
+4 Case of the Uneaten Feast (MKM) 10
+4 Commercial District (MKM) 259
+4 Connecting the Dots (MKM) 118
+4 Coveted Falcon (MKM) 48
+4 Cryptex (MKM) 251
+4 Cryptic Coat (MKM) 50
+4 Deadly Cover-Up (MKM) 83
+4 Doorkeeper Thrull (MKM) 13
+4 Doppelgang (MKM) 198
+4 Drag the Canal (MKM) 199
+4 Elegant Parlor (MKM) 260
+4 Ezrim, Agency Chief (MKM) 202
+4 Forensic Gadgeteer (MKM) 57
+4 Fugitive Codebreaker (MKM) 127
+4 Hedge Maze (MKM) 262
+4 Hide in Plain Sight (MKM) 166
+4 Homicide Investigator (MKM) 86
+4 Hunted Bonebrute (MKM) 87
+4 Ill-Timed Explosion (MKM) 207
+4 Illicit Masquerade (MKM) 88
+4 Izoni, Center of the Web (MKM) 209
+4 Judith, Carnage Connoisseur (MKM) 210
+4 Kellan, Inquisitive Prodigy (MKM) 212
+4 Krenko's Buzzcrusher (MKM) 136
+4 Krenko, Baron of Tin Street (MKM) 135
+4 Kylox, Visionary Inventor (MKM) 214
+4 Lamplight Phoenix (MKM) 137
+4 Lazav, Wearer of Faces (MKM) 216
+4 Leyline of the Guildpact (MKM) 217
+4 Lost in the Maze (MKM) 64
+4 Lush Portico (MKM) 263
+4 Meticulous Archive (MKM) 264
+4 Niv-Mizzet, Guildpact (MKM) 220
+4 No Witnesses (MKM) 27
+4 Officious Interrogation (MKM) 222
+4 Outrageous Robbery (MKM) 97
+
+
+### New Deck
+
+4 Proft's Eidetic Memory (MKM) 67
+4 Pyrotechnic Performer (MKM) 140
+4 Raucous Theater (MKM) 266
+4 Reenact the Crime (MKM) 70
+4 Relive the Past (MKM) 226
+4 Shadowy Backstreet (MKM) 268
+4 Sharp-Eyed Rookie (MKM) 176
+4 Steamcore Scholar (MKM) 71
+4 Tenth District Hero (MKM) 34
+4 Teysa, Opulent Oligarch (MKM) 234
+4 Thundering Falls (MKM) 269
+4 Tolsimir, Midnight's Light (MKM) 236
+4 Treacherous Greed (MKM) 237
+4 Undercity Sewers (MKM) 270
+4 Underground Mortuary (MKM) 271
+4 Unyielding Gatekeeper (MKM) 35
+4 Warleader's Call (MKM) 242
+4 Wojek Investigator (MKM) 36
+4 Worldsoul's Rage (MKM) 244
+4 Yarus, Roar of the Old Gods (MKM) 245
+
+### The Last Deck has 80 cards in it.
